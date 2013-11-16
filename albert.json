@@ -1,0 +1,335 @@
+{
+    "serverType": "AndrVoc-Server",
+    "serverName": "Roberts Vokabelserver",
+    "serverVersion": 1,
+    "version": 1,
+    "lessons": [
+        {
+		    "name": "benny_01",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		            "originalWord": "schwarz",
+		            "correctTranslation": "black",
+		            "alternativeTranslations": ["back", "back", "rock", "brock", "bleck"]
+		        },
+		        {
+		            "originalWord": "Haus",
+		            "correctTranslation": "house",
+		            "alternativeTranslations": ["hause", "hous", "haous"]
+		        },
+		        {
+		            "originalWord": "Katze",
+		            "correctTranslation": "cat",
+		            "alternativeTranslations": ["car", "cap", "cad", "cet"]
+		        },
+		        {
+		        	"originalWord": "Garten",
+		        	"correctTranslation": "garden",
+		        	"alternativeTranslations": ["garten", "gard", "gart", "green"]
+		        },
+		        {
+		        	"originalWord": "grün",
+		        	"correctTranslation": "green",
+		        	"alternativeTranslations": ["gren", "gran", "grant", "red"]
+		        },
+		        {
+		        	"originalWord": "Auge",
+		        	"correctTranslation": "eye",
+		        	"alternativeTranslations": ["I", "ay", "ey", "aye"]
+		        },
+		        {
+		        	"originalWord": "Stuhl",
+		        	"correctTranslation": "chair",
+		        	"alternativeTranslations": ["cair", "cheir", "ceir"]
+		        },
+		        {
+		        	"originalWord": "Fußboden",
+		        	"correctTranslation": "floor",
+		        	"alternativeTranslations": ["flor", "flour", "flur"]
+		        },
+		        {
+		        	"originalWord": "Teppich",
+		        	"correctTranslation": "carpet",
+		        	"alternativeTranslations": ["carpe", "capet", "carper"]
+		        },
+		        {
+		        	"originalWord": "Bad",
+		        	"correctTranslation": "bath",
+		        	"alternativeTranslations": ["bat", "bah", "baht"]
+		        }
+		    ]
+		},
+        {
+		    "name": "benny_02",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "Hexe",
+		        	"correctTranslation": "witch",
+		        	"alternativeTranslations": ["with", "witc", "wirtch", "witsch"]
+		        },
+		        {
+		        	"originalWord": "Banane",
+		        	"correctTranslation": "banana",
+		        	"alternativeTranslations": ["banane", "benana", "benena"]
+		        },
+		        {
+		        	"originalWord": "Gemüse",
+		        	"correctTranslation": "vegetables",
+		        	"alternativeTranslations": ["vegetabl", "veggy", "veggi", "veggitables"]
+		        },
+		        {
+		        	"originalWord": "Frühstück",
+		        	"correctTranslation": "breakfast",
+		        	"alternativeTranslations": ["brekfast", "breakfest", "freebreak", "freebraik"]
+		        },
+		        {
+		        	"originalWord": "Wasser",
+		        	"correctTranslation": "water",
+		        	"alternativeTranslations": ["vater", "wadder", "weter", "wett"]
+		        },
+		        {
+		        	"originalWord": "Saft",
+		        	"correctTranslation": "juice",
+		        	"alternativeTranslations": ["shuise", "chuce", "juce", "yous"]
+		        },
+		        {
+		        	"originalWord": "Süßigkeiten",
+		        	"correctTranslation": "sweets",
+		        	"alternativeTranslations": ["swets", "sweat", "sweats"]
+		        },
+		        {
+		        	"originalWord": "Apfel",
+		        	"correctTranslation": "apple",
+		        	"alternativeTranslations": ["abble", "applet", "aple"]
+		        },
+		        {
+		        	"originalWord": "Honig",
+		        	"correctTranslation": "honey",
+		        	"alternativeTranslations": ["huney", "hunny", "huney"]
+		        },
+		        {
+		        	"originalWord": "Würstchen",
+		        	"correctTranslation": "sausage",
+		        	"alternativeTranslations": ["sagesau", "susage", "sasage"]
+		        }
+		    ]
+		},
+		{
+		    "name": "benny_03",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "Ei",
+		        	"correctTranslation": "egg",
+		        	"alternativeTranslations": ["eg", "eck", "ek", "egh"]
+		        },
+		        {
+		        	"originalWord": "vor (örtlich)",
+		        	"correctTranslation": "in front of",
+		        	"alternativeTranslations": ["behind", "in vronf fo", "pehind", "next to"]
+		        },
+		        {
+		        	"originalWord": "unter (örtlich)",
+		        	"correctTranslation": "under",
+		        	"alternativeTranslations": ["on", "behind", "near", "next to"]
+		        },
+		        {
+		        	"originalWord": "auf dem Tisch",
+		        	"correctTranslation": "on the table",
+		        	"alternativeTranslations": ["at the tabla", "under the table", "next to the table", "in the table"]
+		        },
+		        {
+		        	"originalWord": "hinter (örtlich)",
+		        	"correctTranslation": "behind",
+		        	"alternativeTranslations": ["next to", "in front of", "under", "on"]
+		        },
+		        {
+		        	"originalWord": "zwischen (örtlich)",
+		        	"correctTranslation": "between",
+		        	"alternativeTranslations": ["under", "bitwin", "next to", "on"]
+		        },
+		        {
+		        	"originalWord": "neben",
+		        	"correctTranslation": "next to",
+		        	"alternativeTranslations": ["near", "under", "on"]
+		        },
+		        {
+		        	"originalWord": "im Korb",
+		        	"correctTranslation": "in the basket",
+		        	"alternativeTranslations": ["on the basket", "under the basket", "between the basket"]
+		        },
+		        {
+		        	"originalWord": "Kissen",
+		        	"correctTranslation": "pillow",
+		        	"alternativeTranslations": ["pillo", "pilow", "pilly"]
+		        },
+		        {
+		        	"originalWord": "Buch",
+		        	"correctTranslation": "book",
+		        	"alternativeTranslations": ["bok", "buk", "buuk"]
+		        }
+		    ]
+		},
+		{
+		    "name": "en_unit00_01",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "Gern geschehen. Nichts zu danken.",
+		        	"correctTranslation": "You're welcome.",
+		        	"alternativeTranslations": ["We welcome you.", "There's welcome.", "You welcome.", "They're welcome."]
+		        },
+		        {
+		        	"originalWord": "Zurück nach Deutschland.",
+		        	"correctTranslation": "Back to Germany.",
+		        	"alternativeTranslations": ["Back Germany.", "Germany to back.", "Germany back."]
+		        },
+		        {
+		        	"originalWord": "Reise, Ausflug",
+		        	"correctTranslation": "trip",
+		        	"alternativeTranslations": ["ship", "trap", "shap", "vist", "fast"]
+		        },
+		        {
+		        	"originalWord": "Entschuldigung, entschuldigen sie,…",
+		        	"correctTranslation": "excuse me",
+		        	"alternativeTranslations": ["excuse you", "sorry", "sorry me", "sorry my"]
+		        },
+		        {
+		        	"originalWord": "Viel Glück (bei/mit)!",
+		        	"correctTranslation": "Good luck (with)!",
+		        	"alternativeTranslations": ["Lucky (with)!", "Luck (with)!", "Bad luck (with)!"]
+		        },
+		        {
+		        	"originalWord": "bei der Arbeit, am Arbeitsplatz",
+		        	"correctTranslation": "at work",
+		        	"alternativeTranslations": ["in work", "on work", "at working", "in working", "on working"]
+		        },
+		        {
+		        	"originalWord": "Rollstuhl",
+		        	"correctTranslation": "wheelchair",
+		        	"alternativeTranslations": ["chairwheel", "wheel chair", "chair wheel", "hot wheel", "wheel hot"]
+		        },
+		        {
+		        	"originalWord": "Sie heißen dich in … willkommen.",
+		        	"correctTranslation": "They welcome you to ….",
+		        	"alternativeTranslations": ["You are welcome to ….", "They are welcome to ….", "You welcome they to ….", "We welcome them to …."]
+		        },
+		        {
+		        	"originalWord": "Papagei",
+		        	"correctTranslation": "parrot",
+		        	"alternativeTranslations": ["perrot", "perret", "perrot", "porret", "porrat"]
+		        }
+		    ]
+		},
+		{
+		    "name": "en_unit01_02",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "Lehrer",
+		        	"correctTranslation": "teacher",
+		        	"alternativeTranslations": ["teecher", "tacher", "teacer", "teecer"]
+		        },
+		        {
+		        	"originalWord": "Lerne Mr. Kingsley kennen. / Triff Mr. Kingsley",
+		        	"correctTranslation": "Meet Mr Kingsley.",
+		        	"alternativeTranslations": ["Met Mr Kingsley.", "Mr Kingsley meet.", "Mr Kingsley meet.", "Mr Kingsley see.", "See Mr Kingsley."]
+		        },
+				{
+		        	"originalWord": "(Schul-)Klasse",
+		        	"correctTranslation": "form",
+		        	"alternativeTranslations": ["from", "for", "fon", "forn", "front"]
+		        },
+		        {
+		        	"originalWord": "Sagt mir eure Namen.",
+		        	"correctTranslation": "Tell me your names.",
+		        	"alternativeTranslations": ["Your names tell me.", "Say me your names", "Your nemes say me."]
+		        },
+		        {
+		        	"originalWord": "Sportunterricht, Turnen",
+		        	"correctTranslation": "PE",
+		        	"alternativeTranslations": ["EP", "EF", "FE", "PF", "FP"]
+		        },
+		        {
+		        	"originalWord": "genug",
+		        	"correctTranslation": "enough",
+		        	"alternativeTranslations": ["enohg", "enoug", "enouhg", "enuogh", "enogh"]
+		        },
+		        {
+		        	"originalWord": "leise, still",
+		        	"correctTranslation": "quiet",
+		        	"alternativeTranslations": ["queit", "quit", "quiwt", "quwiet"]
+		        },
+		        {
+		        	"originalWord": "Witz",
+		        	"correctTranslation": "joke",
+		        	"alternativeTranslations": ["jack", "jok", "jak", "choke", "chok"]
+		        },
+		        {
+		        	"originalWord": "schlecht, schlimm",
+		        	"correctTranslation": "bad",
+		        	"alternativeTranslations": ["bat", "but", "bud", "baad", "baad"]
+		        },
+				{
+		        	"originalWord": "Setz dich. Setzt euch zu mir.",
+		        	"correctTranslation": "Sit with me.",
+		        	"alternativeTranslations": ["Sit down.", "Sit you.", "You ist with"]
+		        },
+				{
+		        	"originalWord": "Kannst du dir das merken?",
+		        	"correctTranslation": "Can you remember that?",
+		        	"alternativeTranslations": ["Remember that you can?", "Can remember you that?", "That remember you can?"]
+		        },
+				{
+		        	"originalWord": "Alphabet",
+		        	"correctTranslation": "alphabet",
+		        	"alternativeTranslations": ["alfabet", "alfabeth", "alphabed"]
+		        },
+				{
+		        	"originalWord": "Wirf einen Ball.",
+		        	"correctTranslation": "Throw a ball.",
+		        	"alternativeTranslations": ["A ball throw.", "You throw a ball.", "A ball you throw."]
+		        },
+				{
+		        	"originalWord": "Klettere auf eunen Baum.",
+		        	"correctTranslation": "Climb a tree.",
+		        	"alternativeTranslations": ["A tree climb.", "You climb a tree.", "A tree you climb."]
+		        },
+				{
+		        	"originalWord": "schreibe …",
+		        	"correctTranslation": "write …",
+		        	"alternativeTranslations": ["wreit …", "wrote …", "word …", "you wrote …"]
+		        }
+		    ]
+		},
+		{
+		    "name": "test",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "weiß",
+		        	"correctTranslation": "white",
+		        	"alternativeTranslations": ["back", "green", "blue", "purple", "red", "yellow", "grey", "orange", "brown"]
+		        },
+		        {
+		        	"originalWord": "ja",
+		        	"correctTranslation": "yes",
+		        	"alternativeTranslations": ["No"]
+		        },
+				{
+		        	"originalWord": "Tisch",
+		        	"correctTranslation": "table",
+		        	"alternativeTranslations": ["tablett", "tabblet", "tabbett"]
+		        }
+		    ]
+		}
+    ]
+}
