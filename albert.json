@@ -310,6 +310,88 @@
 		    ]
 		},
 		{
+			"name": "en_unit01_03",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "Tue, was ich tue.",
+		        	"correctTranslation": "Do what I do.",
+		        	"alternativeTranslations": ["What do I do.", "What do you do.", "I do what I do.", "You do what I do."]
+		        },
+		        {
+		        	"originalWord": "Stundenplan",
+		        	"correctTranslation": "timetable",
+		        	"alternativeTranslations": ["tabletime", "timetabl", "tabltime", "teimtable", "tableteim"]
+		        },
+				{
+		        	"originalWord": "Nehmt … heraus.",
+		        	"correctTranslation": "Take out ….",
+		        	"alternativeTranslations": ["Take ….", "Out take ….", "Out … take.", "Take in ….", "In take …."]
+		        },
+		        {
+		        	"originalWord": "Schreibt … auf.",
+		        	"correctTranslation": "Write down ….",
+		        	"alternativeTranslations": ["Down write ….", "Write up ….", "Up write ….", "Write on ….", "On write …."]
+		        },
+		        {
+		        	"originalWord": "um 8.45",
+		        	"correctTranslation": "at 8.45",
+		        	"alternativeTranslations": ["on 8.45", "off 8.45", "near 8.45", "8.45 at", "8.45 on", "8.45 off"]
+		        },
+		        {
+		        	"originalWord": "am Donnerstag",
+		        	"correctTranslation": "on Tuesday",
+		        	"alternativeTranslations": ["at Tuesday", "on Thursday", "at Thursday", "on Tusday", "at Tursday"]
+		        },
+		        {
+		        	"originalWord": "buchstabiere …",
+		        	"correctTranslation": "spell …",
+		        	"alternativeTranslations": ["spit …", "spel …", "spill …", "spitt …"]
+		        },
+		        {
+		        	"originalWord": "nach (zeitlich)",
+		        	"correctTranslation": "after",
+		        	"alternativeTranslations": ["before", "behind", "next to", "near"]
+		        },
+		        {
+		        	"originalWord": "Pause",
+		        	"correctTranslation": "break",
+		        	"alternativeTranslations": ["breik", "brake", "basket", "broom", "becks"]
+		        },
+				{
+		        	"originalWord": "Mittagessen",
+		        	"correctTranslation": "lunch",
+		        	"alternativeTranslations": ["dinner", "breakfast", "supper", "meal", "food"]
+		        },
+				{
+		        	"originalWord": "Essen, Lebensmittel",
+		        	"correctTranslation": "food",
+		        	"alternativeTranslations": ["dinner", "breakfast", "supper", "meal", "lunch"]
+		        },
+				{
+		        	"originalWord": "wirklich",
+		        	"correctTranslation": "really",
+		        	"alternativeTranslations": ["rally", "relly", "raelly"]
+		        },
+				{
+		        	"originalWord": "Ich habe keinen Stuhl.",
+		        	"correctTranslation": "I haven't got a chair.",
+		        	"alternativeTranslations": ["I have got a chair.", "I haven't a chair.", "I havet a chair."]
+		        },
+				{
+		        	"originalWord": "Klettere auf eunen Baum.",
+		        	"correctTranslation": "Climb a tree.",
+		        	"alternativeTranslations": ["A tree climb.", "You climb a tree.", "A tree you climb."]
+		        },
+				{
+		        	"originalWord": "Bankräuber/in",
+		        	"correctTranslation": "bank robber",
+		        	"alternativeTranslations": ["robber bank", "money robber", "robber money", "bank thief", "thief bank"]
+		        }
+		    ]
+		},
+		{
 		    "name": "test",
 		    "language": "en",
 		    "version": 1,
