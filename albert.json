@@ -474,6 +474,88 @@
 		    ]
 		},
 		{
+			"name": "en_unit01_05",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "alles",
+		        	"correctTranslation": "everything",
+		        	"alternativeTranslations": ["every", "oll", "each", "single"]
+		        },
+		        {
+		        	"originalWord": "Tee",
+		        	"correctTranslation": "tea",
+		        	"alternativeTranslations": ["tee", "tae", "tye", "tees"]
+		        },
+				{
+		        	"originalWord": "Klassenkammerad/in, Mitschüler/in",
+		        	"correctTranslation": "classmate",
+		        	"alternativeTranslations": ["mateclass", "class mate", "mate class", "classfriend", "class friend", "friend class"]
+		        },
+		        {
+		        	"originalWord": "Wie war …?",
+		        	"correctTranslation": "How was …?",
+		        	"alternativeTranslations": ["Who was …?", "Where was …?", "Hoo was _?", "When was _?", "Was it _?"]
+		        },
+		        {
+		        	"originalWord": "Welt",
+		        	"correctTranslation": "world",
+		        	"alternativeTranslations": ["werld", "word", "wort", "worlt", "warld", "warlt"]
+		        },
+		        {
+		        	"originalWord": "Bis bald. / Tschüs.",
+		        	"correctTranslation": "See you.",
+		        	"alternativeTranslations": ["You see.", "See soon.", "Soon see.", "See me.", "Me see."]
+		        },
+		        {
+		        	"originalWord": "Mach weiter./Erzähl weiter.",
+		        	"correctTranslation": "Go on.",
+		        	"alternativeTranslations": ["On go.", "Walk on.", "On walk.", "Run on.", "On run."]
+		        },
+		        {
+		        	"originalWord": "ein Päckchen/eine Packung Pfefferminzbonbons",
+		        	"correctTranslation": "a packet of mints",
+		        	"alternativeTranslations": ["a packet of minz", "a packages of mints", "an pack of mints", "an pack of minz", "a packages of mintz"]
+		        },
+		        {
+		        	"originalWord": "klein",
+		        	"correctTranslation": "little",
+		        	"alternativeTranslations": ["liddle", "litle", "lidle", "big", "bigg"]
+		        },
+				{
+		        	"originalWord": "Tschüs!",
+		        	"correctTranslation": "Bye.",
+		        	"alternativeTranslations": ["Good.", "Buy.", "Bay.", "Baye"]
+		        },
+				{
+		        	"originalWord": "mehr",
+		        	"correctTranslation": "more",
+		        	"alternativeTranslations": ["moore", "mor", "moor", "less", "les"]
+		        },
+				{
+		        	"originalWord": "Dilip mag _",
+		        	"correctTranslation": "Dilip likes …",
+		        	"alternativeTranslations": ["Dilip … likes", "Like … Dilip", "Dilip is like …""Dilip … leiks", "Leiks … Dilip"]
+		        },
+				{
+		        	"originalWord": "sie; ihr.",
+		        	"correctTranslation": "her",
+		        	"alternativeTranslations": ["his", "she", "him" , "my", "your"]
+		        },
+				{
+		        	"originalWord": "Er mag sie sehr.",
+		        	"correctTranslation": "He likes her a lot.",
+		        	"alternativeTranslations": ["She likes him a lot.", "He like her much.", "She like him much.", "A lot he likes she."]
+		        },
+				{
+		        	"originalWord": "Mache/Baue einen Kalender.",
+		        	"correctTranslation": "Make a calendar.",
+		        	"alternativeTranslations": ["Made a calendar.", "Make a calender.", "Made a calender.", "Do a calendar", "Do a calender"]
+		        }
+		    ]
+		},
+		{
 		    "name": "test",
 		    "language": "en",
 		    "version": 1,
