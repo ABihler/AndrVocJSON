@@ -392,6 +392,88 @@
 		    ]
 		},
 		{
+			"name": "en_unit01_04",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "alle; alles",
+		        	"correctTranslation": "all",
+		        	"alternativeTranslations": ["every", "oll", "each", "single"]
+		        },
+		        {
+		        	"originalWord": "wie",
+		        	"correctTranslation": "like",
+		        	"alternativeTranslations": ["laik", "lik", "so", "similar", "suuch"]
+		        },
+				{
+		        	"originalWord": "ihm; ihn",
+		        	"correctTranslation": "him",
+		        	"alternativeTranslations": ["his", "her", "she", "he", "your", "your"]
+		        },
+		        {
+		        	"originalWord": "idea",
+		        	"correctTranslation": "Idee, Einfall",
+		        	"alternativeTranslations": ["ide", "idae", "idye", "idya", "idyea", "idee"]
+		        },
+		        {
+		        	"originalWord": "Was haben wir als nächstes",
+		        	"correctTranslation": "What have we got next?",
+		        	"alternativeTranslations": ["What do we next?", "What do we do next?", "What should we do next?", "What's got next?", "Where have we got next?"]
+		        },
+		        {
+		        	"originalWord": "langweilig",
+		        	"correctTranslation": "boring",
+		        	"alternativeTranslations": ["bored", "baring", "bared", "borgin", "borged"]
+		        },
+		        {
+		        	"originalWord": "(Schul-)Klasse",
+		        	"correctTranslation": "class",
+		        	"alternativeTranslations": ["klass", "clas", "klass", "glas", "glass"]
+		        },
+		        {
+		        	"originalWord": "ich hasse …, ich mag … nicht",
+		        	"correctTranslation": "I hate …",
+		        	"alternativeTranslations": ["I had …", "I hat …", "I hade …", "I … had", "I … hate"]
+		        },
+		        {
+		        	"originalWord": "verschieden, unterschiedlich, anders (als)",
+		        	"correctTranslation": "different (from)",
+		        	"alternativeTranslations": ["diferent (of)", "different (of)", "diferent (on)", "different (on)", "differ (on)"]
+		        },
+				{
+		        	"originalWord": "oder",
+		        	"correctTranslation": "or",
+		        	"alternativeTranslations": ["oar", "and", "nor", "od", "odd"]
+		        },
+				{
+		        	"originalWord": "Laut, Geräusch",
+		        	"correctTranslation": "sound",
+		        	"alternativeTranslations": ["sond", "soond", "sand", "ond", "volume"]
+		        },
+				{
+		        	"originalWord": "Ende",
+		        	"correctTranslation": "end",
+		        	"alternativeTranslations": ["fin", "start", "ent"]
+		        },
+				{
+		        	"originalWord": "Beeil dich.",
+		        	"correctTranslation": "Hurry up.",
+		        	"alternativeTranslations": ["Hurry you.", "You hurry up.", "Hurry you up." , "Hurry up you."]
+		        },
+				{
+		        	"originalWord": "(die) arme Sophie",
+		        	"correctTranslation": "poor Sophie",
+		        	"alternativeTranslations": ["put Sophie", "rich Sophie", "near Sophie", "puur Sophie"]
+		        },
+				{
+		        	"originalWord": "Komm rein/herrein",
+		        	"correctTranslation": "Come in.",
+		        	"alternativeTranslations": ["In come.", "comein", "income", "come into", "into come"]
+		        }
+		    ]
+		},
+		{
 		    "name": "test",
 		    "language": "en",
 		    "version": 1,
