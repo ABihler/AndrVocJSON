@@ -412,8 +412,8 @@
 		        	"alternativeTranslations": ["his", "her", "she", "he", "your", "your"]
 		        },
 		        {
-		        	"originalWord": "idea",
-		        	"correctTranslation": "Idee, Einfall",
+		        	"originalWord": "Idee, Einfall",
+		        	"correctTranslation": "idea",
 		        	"alternativeTranslations": ["ide", "idae", "idye", "idya", "idyea", "idee"]
 		        },
 		        {
