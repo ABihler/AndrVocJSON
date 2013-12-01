@@ -380,7 +380,7 @@
 		        	"alternativeTranslations": ["I have got a chair.", "I haven't a chair.", "I havet a chair."]
 		        },
 				{
-		        	"originalWord": "Klettere auf eunen Baum.",
+		        	"originalWord": "Klettere auf einen Baum.",
 		        	"correctTranslation": "Climb a tree.",
 		        	"alternativeTranslations": ["A tree climb.", "You climb a tree.", "A tree you climb."]
 		        },
@@ -526,7 +526,7 @@
 				{
 		        	"originalWord": "Tschüs!",
 		        	"correctTranslation": "Bye.",
-		        	"alternativeTranslations": ["Good.", "Buy.", "Bay.", "Baye"]
+		        	"alternativeTranslations": ["Good.", "Buy.", "Bay.", "Baye."]
 		        },
 				{
 		        	"originalWord": "mehr",
@@ -534,12 +534,12 @@
 		        	"alternativeTranslations": ["moore", "mor", "moor", "less", "les"]
 		        },
 				{
-		        	"originalWord": "Dilip mag _",
-		        	"correctTranslation": "Dilip likes …",
-		        	"alternativeTranslations": ["Dilip … likes", "Like … Dilip", "Dilip is like …", "Dilip … leiks", "Leiks … Dilip"]
+		        	"originalWord": "Dilip mag ….",
+		        	"correctTranslation": "Dilip likes ….",
+		        	"alternativeTranslations": ["Dilip … likes.", "Like … Dilip.", "Dilip is like ….", "Dilip … leiks.", "Leiks … Dilip."]
 		        },
 				{
-		        	"originalWord": "sie; ihr.",
+		        	"originalWord": "sie; ihr",
 		        	"correctTranslation": "her",
 		        	"alternativeTranslations": ["his", "she", "him" , "my", "your"]
 		        },
@@ -552,6 +552,170 @@
 		        	"originalWord": "Mache/Baue einen Kalender.",
 		        	"correctTranslation": "Make a calendar.",
 		        	"alternativeTranslations": ["Made a calendar.", "Make a calender.", "Made a calender.", "Do a calendar", "Do a calender"]
+		        }
+		    ]
+		},
+		{
+			"name": "en_unit01_06",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "Geburtstag",
+		        	"correctTranslation": "birthday",
+		        	"alternativeTranslations": ["daybirth", "birth day", "day birth", "bornday", "born day"]
+		        },
+		        {
+		        	"originalWord": "wann?",
+		        	"correctTranslation": "when?",
+		        	"alternativeTranslations": ["how?", "where?", "whan?", "who?"]
+		        },
+				{
+		        	"originalWord": "Datum",
+		        	"correctTranslation": "date",
+		        	"alternativeTranslations": ["day", "data", "dey", "deita", "deite"]
+		        },
+		        {
+		        	"originalWord": "Kunst",
+		        	"correctTranslation": "art",
+		        	"alternativeTranslations": ["ard", "cost", "costy", "ant", "master"]
+		        },
+		        {
+		        	"originalWord": "Januar",
+		        	"correctTranslation": "January",
+		        	"alternativeTranslations": ["Jenuary", "Janary", "Jenary", "Junary"]
+		        },
+		        {
+		        	"originalWord": "Februar",
+		        	"correctTranslation": "February",
+		        	"alternativeTranslations": ["Fabruary", "Fabrary", "Febary", "Funary", "Februery"]
+		        },
+		        {
+		        	"originalWord": "März",
+		        	"correctTranslation": "March",
+		        	"alternativeTranslations": ["Mars", "Marsch", "Marge", "Marsh"]
+		        },
+		        {
+		        	"originalWord": "Mai",
+		        	"correctTranslation": "May",
+		        	"alternativeTranslations": ["Mai", "Mey", "Mei", "Maay", "Meey"]
+		        },
+		        {
+		        	"originalWord": "Juni",
+		        	"correctTranslation": "June",
+		        	"alternativeTranslations": ["Juny", "Juni", "July", "Julie", "Juune"]
+		        },
+				{
+		        	"originalWord": "Juli",
+		        	"correctTranslation": "July",
+		        	"alternativeTranslations": ["Jule", "Juli", "Junly", "Juley"]
+		        },
+				{
+		        	"originalWord": "mehr",
+		        	"correctTranslation": "more",
+		        	"alternativeTranslations": ["moore", "mor", "moor", "less", "les"]
+		        },
+				{
+		        	"originalWord": "Oktober",
+		        	"correctTranslation": "October",
+		        	"alternativeTranslations": ["Octobre", "Oktober", "Oktobre", "Ocktober"]
+		        },
+				{
+		        	"originalWord": "Dezember",
+		        	"correctTranslation": "December",
+		        	"alternativeTranslations": ["Desember", "Dezember", "Dicember"]
+		        },
+				{
+		        	"originalWord": "August",
+		        	"correctTranslation": "August",
+		        	"alternativeTranslations": ["Aygust", "Augest", "Aygest", "Augusto"]
+		        },
+				{
+		        	"originalWord": "April",
+		        	"correctTranslation": "April",
+		        	"alternativeTranslations": ["Abril", "Aipril", "Aypril"]
+		        }
+		    ]
+		},
+		{
+			"name": "en_unit02_01",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "Wochenende",
+		        	"correctTranslation": "weekend",
+		        	"alternativeTranslations": ["week end", "end week", "endweek", "wikend"]
+		        },
+		        {
+		        	"originalWord": "daheim, zu Hause",
+		        	"correctTranslation": "at home",
+		        	"alternativeTranslations": ["at homy", "on home", "is home", "is homy"]
+		        },
+				{
+		        	"originalWord": "Ich teile mein Zimmer mit y …",
+		        	"correctTranslation": "I share room with …",
+		        	"alternativeTranslations": ["My room with … share", "My room with … I share", "Share I room with …", "I room share with …"]
+		        },
+		        {
+		        	"originalWord": "Menschen, Leute",
+		        	"correctTranslation": "people",
+		        	"alternativeTranslations": ["peoples", "pupil", "pupils", "peoble", "peobles"]
+		        },
+		        {
+		        	"originalWord": "Garten",
+		        	"correctTranslation": "garden",
+		        	"alternativeTranslations": ["garten", "gard", "gart", "green", "garde"]
+		        },
+		        {
+		        	"originalWord": "Schreibtisch",
+		        	"correctTranslation": "desk",
+		        	"alternativeTranslations": ["table", "tesk", "desktop", "toptable"]
+		        },
+		        {
+		        	"originalWord": "(Kaninchen-) Stall",
+		        	"correctTranslation": "hutch",
+		        	"alternativeTranslations": ["husch", "hut", "shut", "hatch"]
+		        },
+		        {
+		        	"originalWord": "Korb",
+		        	"correctTranslation": "basket",
+		        	"alternativeTranslations": ["bascet", "bracet", "bracelet", "braket", "brakelet"]
+		        },
+		        {
+		        	"originalWord": "Käfig",
+		        	"correctTranslation": "cage",
+		        	"alternativeTranslations": ["cache", "ceige", "box", "boxy", "kages"]
+		        },
+				{
+		        	"originalWord": "Wellensittich",
+		        	"correctTranslation": "budgie",
+		        	"alternativeTranslations": ["buddy", "buggy", "buddgy", "budgy"]
+		        },
+				{
+		        	"originalWord": "Schildkröte",
+		        	"correctTranslation": "tortoise",
+		        	"alternativeTranslations": ["turtoise", "tortuise", "turtuise", "turty"]
+		        },
+				{
+		        	"originalWord": "Ich kann das Lied aufführen.",
+		        	"correctTranslation": "I can act the song.",
+		        	"alternativeTranslations": ["I can make the song.", "I act the song.", "I make the song.", "I can sing the song.", "The song I sing."]
+		        },
+				{
+		        	"originalWord": "Nachmittag",
+		        	"correctTranslation": "afternoon",
+		        	"alternativeTranslations": ["noon", "after noon", "morning" , "midday", "afterday"]
+		        },
+				{
+		        	"originalWord": "Küche",
+		        	"correctTranslation": "kitchen",
+		        	"alternativeTranslations": ["kitshen", "cook", "cooky", "citchen"]
+		        },
+				{
+		        	"originalWord": "Regal",
+		        	"correctTranslation": "shelf",
+		        	"alternativeTranslations": ["shell", "share", "boord", "ruler"]
 		        }
 		    ]
 		},
