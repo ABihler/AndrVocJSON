@@ -176,6 +176,84 @@
 		    ]
 		},
 		{
+		    "name": "benny_04",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "Radiergummi",
+		        	"correctTranslation": "rubber",
+		        	"alternativeTranslations": ["rupper", "rabbit", "gommy", "rubish"]
+		        },
+		        {
+		        	"originalWord": "König",
+		        	"correctTranslation": "King",
+		        	"alternativeTranslations": ["Queen", "Kink", "Quyn", "Quing"]
+		        },
+		        {
+		        	"originalWord": "Schaf",
+		        	"correctTranslation": "sheep",
+		        	"alternativeTranslations": ["shep", "shiip", "goat", "goot"]
+		        },
+		        {
+		        	"originalWord": "Flugzeig",
+		        	"correctTranslation": "aeroplane",
+		        	"alternativeTranslations": ["arplain", "airship", "aeroship", "flyer"]
+		        },
+		        {
+		        	"originalWord": "Stuhl",
+		        	"correctTranslation": "chair",
+		        	"alternativeTranslations": ["cair", "cheir", "ceir"]
+		        },
+		        {
+		        	"originalWord": "Füller)",
+		        	"correctTranslation": "pen",
+		        	"alternativeTranslations": ["penn", "pain", "pencil", "felt tip"]
+		        },
+		        {
+		        	"originalWord": "Hund",
+		        	"correctTranslation": "dog",
+		        	"alternativeTranslations": ["dock", "cat", "door", "car"]
+		        },
+		        {
+		        	"originalWord": "Pilz",
+		        	"correctTranslation": "mushroom",
+		        	"alternativeTranslations": ["meadow", "mushroam", "mooreroom", "mitsroom"]
+		        },
+		        {
+		        	"originalWord": "Tourits",
+		        	"correctTranslation": "tourist",
+		        	"alternativeTranslations": ["torist", "toorist", "terrorist", "turist"]
+		        },
+		        {
+		        	"originalWord": "Drache",
+		        	"correctTranslation": "kite",
+		        	"alternativeTranslations": ["kit", "kate", "kute", "kait"]
+		        },
+		        {
+		        	"originalWord": "Baum",
+		        	"correctTranslation": "tree",
+		        	"alternativeTranslations": ["three", "try", "trei", "tri"]
+		        },
+		        {
+		        	"originalWord": "Volleyball",
+		        	"correctTranslation": "volleyball",
+		        	"alternativeTranslations": ["voleyball", "wolleyball", "volley", "vollyball"]
+		        },
+		        {
+		        	"originalWord": "Rollstuhl",
+		        	"correctTranslation": "wheelchair",
+		        	"alternativeTranslations": ["chairwheel", "wheel chair", "chair wheel", "hot wheel", "wheel hot"]
+		        },
+            {
+		        	"originalWord": "Fernseher",
+		        	"correctTranslation": "television",
+		        	"alternativeTranslations": ["farsee", "tellyvision", "vision"]
+		        }
+		    ]
+		},
+
+		{
 		    "name": "en_unit00_01",
 		    "language": "en",
 		    "version": 1,
