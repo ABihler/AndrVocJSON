@@ -798,6 +798,88 @@
 		    ]
 		},
 		{
+			"name": "en_unit02_02",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "Plan",
+		        	"correctTranslation": "plan",
+		        	"alternativeTranslations": ["plein", "plen", "plain", "blan"]
+		        },
+		        {
+		        	"originalWord": "Aufsatz (über)",
+		        	"correctTranslation": "essay (about, on)",
+		        	"alternativeTranslations": ["easy (about, on)", "essay (of, with)", "easy (of, with)", "esay (about, on)", "esay (of, with)"]
+		        },
+				{
+		        	"originalWord": "Leben",
+		        	"correctTranslation": "life",
+		        	"alternativeTranslations": ["live", "laif", "laiv", "leife"]
+		        },
+		        {
+		        	"originalWord": "schwierig, schwer",
+		        	"correctTranslation": "difficult",
+		        	"alternativeTranslations": ["dificult", "deficult", "defficult", "heavy", "cool"]
+		        },
+		        {
+		        	"originalWord": "Ich stehe um … auf",
+		        	"correctTranslation": "I get up at ….",
+		        	"alternativeTranslations": ["I wake up at _.", "Get I up at ….", "You geting … up at.", "Get up at … I.", "Wake up at …."]
+		        },
+		        {
+		        	"originalWord": "aufstehen",
+		        	"correctTranslation": "(to) get up",
+		        	"alternativeTranslations": ["(to) up get", "(to) go to sleep", "(to) go to bed", "(to) make up"]
+		        },
+		        {
+		        	"originalWord": "jeder, jedes. jede",
+		        	"correctTranslation": "every",
+		        	"alternativeTranslations": ["very", "everi", "efery", "veri"]
+		        },
+		        {
+		        	"originalWord": "Ich putze mir die Zähne",
+		        	"correctTranslation": "I clean my teeth",
+		        	"alternativeTranslations": ["I clean my tooth", "My teeth I clean me.", "My teeth I clean.", "These teeth I clean me.", "I clean these teeth"]
+		        },
+		        {
+		        	"originalWord": "Zahn",
+		        	"correctTranslation": "tooth",
+		        	"alternativeTranslations": ["teeth", "toe", "toth", "teth"]
+		        },
+				{
+		        	"originalWord": "Zähne",
+		        	"correctTranslation": "teeth",
+		        	"alternativeTranslations": ["tooth", "toe", "toth", "teth"]
+		        },
+				{
+		        	"originalWord": "schlafen",
+		        	"correctTranslation": "(to) sleep",
+		        	"alternativeTranslations": ["(to) sheep", "(to) wake up", "(to) asleep", "(to) wake"]
+		        },
+				{
+		        	"originalWord": "Ich wasche mir die Hände",
+		        	"correctTranslation": "I wash my hands.",
+		        	"alternativeTranslations": ["My hands I wash.", "I wasch my hands.", "My hands I wasch.", "I clean hands.", "Hands I clean."]
+		        },
+				{
+		        	"originalWord": "Bus",
+		        	"correctTranslation": "bus",
+		        	"alternativeTranslations": ["car", "bus stop", "street" , "buscar"]
+		        },
+				{
+		        	"originalWord": "lesen",
+		        	"correctTranslation": "(to) read",
+		        	"alternativeTranslations": ["(to) write", "(to) red", "(to) wrote", "(to) do"]
+		        },
+				{
+		        	"originalWord": "sich anziehen",
+		        	"correctTranslation": "(to) get dressed",
+		        	"alternativeTranslations": ["(to) get clothes", "(to) get on", "(to) get off", "(to) get trousers"]
+		        }
+		    ]
+		},
+		{
 		    "name": "test",
 		    "language": "en",
 		    "version": 1,
