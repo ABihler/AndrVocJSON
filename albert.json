@@ -823,7 +823,7 @@
 		        	"alternativeTranslations": ["dificult", "deficult", "defficult", "heavy", "cool"]
 		        },
 		        {
-		        	"originalWord": "Ich stehe um … auf",
+		        	"originalWord": "Ich stehe um … auf.",
 		        	"correctTranslation": "I get up at ….",
 		        	"alternativeTranslations": ["I wake up at _.", "Get I up at ….", "You geting … up at.", "Get up at … I.", "Wake up at …."]
 		        },
@@ -838,9 +838,9 @@
 		        	"alternativeTranslations": ["very", "everi", "efery", "veri"]
 		        },
 		        {
-		        	"originalWord": "Ich putze mir die Zähne",
-		        	"correctTranslation": "I clean my teeth",
-		        	"alternativeTranslations": ["I clean my tooth", "My teeth I clean me.", "My teeth I clean.", "These teeth I clean me.", "I clean these teeth"]
+		        	"originalWord": "Ich putze mir die Zähne.",
+		        	"correctTranslation": "I clean my teeth.",
+		        	"alternativeTranslations": ["I clean my tooth.", "My teeth I clean me.", "My teeth I clean.", "These teeth I clean me.", "I clean these teeth."]
 		        },
 		        {
 		        	"originalWord": "Zahn",
@@ -858,7 +858,7 @@
 		        	"alternativeTranslations": ["(to) sheep", "(to) wake up", "(to) asleep", "(to) wake"]
 		        },
 				{
-		        	"originalWord": "Ich wasche mir die Hände",
+		        	"originalWord": "Ich wasche mir die Hände.",
 		        	"correctTranslation": "I wash my hands.",
 		        	"alternativeTranslations": ["My hands I wash.", "I wasch my hands.", "My hands I wasch.", "I clean hands.", "Hands I clean."]
 		        },
@@ -876,6 +876,88 @@
 		        	"originalWord": "sich anziehen",
 		        	"correctTranslation": "(to) get dressed",
 		        	"alternativeTranslations": ["(to) get clothes", "(to) get on", "(to) get off", "(to) get trousers"]
+		        }
+		    ]
+		},
+		{
+			"name": "en_unit02_03",
+		    "language": "en",
+		    "version": 1,
+		    "vocabulary": [
+		        {
+		        	"originalWord": "den ganzen Tag (lang) / die ganze Zeit",
+		        	"correctTranslation": "all day / all the time",
+		        	"alternativeTranslations": ["every day / all time", "all days / the whole time", "the all day / all time"]
+		        },
+		        {
+		        	"originalWord": "Danke.",
+		        	"correctTranslation": "Thanks.",
+		        	"alternativeTranslations": ["Tanks.", "Think.", "Thinks.", "Think you."]
+		        },
+				{
+		        	"originalWord": "Hilfe",
+		        	"correctTranslation": "help",
+		        	"alternativeTranslations": ["hilp", "half", "helph", "halt"]
+		        },
+		        {
+		        	"originalWord": "natürlich, selbstverständlich",
+		        	"correctTranslation": "of course",
+		        	"alternativeTranslations": ["off corse", "of corse", "of horse", "clearly", "clear"]
+		        },
+		        {
+		        	"originalWord": "Bitte sehr. / Hier bitte.",
+		        	"correctTranslation": "Here you are.",
+		        	"alternativeTranslations": ["There we are.", "You get it.", "You get it here.", "Here is it.", "Are you here."]
+		        },
+		        {
+		        	"originalWord": "Das ist ganz falsch.",
+		        	"correctTranslation": "This is all wrong.",
+		        	"alternativeTranslations": ["There is all wrong.", "You are all wrong.", "All this wrong is.", "This all is wrong."]
+		        },
+		        {
+		        	"originalWord": "sich streiten, sich zanken",
+		        	"correctTranslation": "(to) argue",
+		        	"alternativeTranslations": ["(to) arge", "(to) argwe", "(to) argu", "(to) argy"]
+		        },
+		        {
+		        	"originalWord": "Judo machen",
+		        	"correctTranslation": "(to) do judo",
+		        	"alternativeTranslations": ["(to) make judo", "(to) act judo", "(to) do judo"]
+		        },
+		        {
+		        	"originalWord": "früh",
+		        	"correctTranslation": "early",
+		        	"alternativeTranslations": ["late", "soon", "erly", "morning"]
+		        },
+				{
+		        	"originalWord": "bis (zeitlich)",
+		        	"correctTranslation": "till",
+		        	"alternativeTranslations": ["will", "tull", "tal", "was"]
+		        },
+				{
+		        	"originalWord": "Buchstabe",
+		        	"correctTranslation": "letter",
+		        	"alternativeTranslations": ["card", "litter", "book store", "staf"]
+		        },
+				{
+		        	"originalWord": "Ich wasche mir die Hände",
+		        	"correctTranslation": "I wash my hands.",
+		        	"alternativeTranslations": ["My hands I wash.", "I wasch my hands.", "My hands I wasch.", "I clean hands.", "Hands I clean."]
+		        },
+				{
+		        	"originalWord": "Wie bitte?",
+		        	"correctTranslation": "Sorry?",
+		        	"alternativeTranslations": ["Please?", "How please?", "How?" , "How did you say?"]
+		        },
+				{
+		        	"originalWord": "Oma",
+		        	"correctTranslation": "gramdma",
+		        	"alternativeTranslations": ["geatmother", "greatma", "grandy"]
+		        },
+				{
+		        	"originalWord": "Opa",
+		        	"correctTranslation": "grandpa",
+		        	"alternativeTranslations": ["greatfather", "bigfather", "bigpa", "bigy"]
 		        }
 		    ]
 		},
