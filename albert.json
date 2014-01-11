@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Alberts Vokabelserver",
   "serverVersion": 1,
-  "version": 6,
+  "version": 7,
   "lessons": [
     {
       "name": "benny_01",
@@ -2458,7 +2458,7 @@
       "uuid": "22da3fd0-5e12-4d59-851c-4045cecb9de2",
       "name": "en_unit02_06",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "uuid": "48d83a41-e253-4701-8cb2-c8acbbe7bf9f",
@@ -2531,12 +2531,23 @@
         },
         {
           "uuid": "ed5f3d9b-31ec-4db0-8218-21669b81abfa",
-          "originalWord": "Fraues",
+          "originalWord": "Frauen",
           "correctTranslation": "women",
           "alternativeTranslations": [
             "womans",
             "wimans",
             "wifemen"
+          ]
+        },
+        {
+          "uuid": "ed5f3d9b-31ec-4db0-8218-21669b81abbb",
+          "originalWord": "sich erinnern (an)",
+          "correctTranslation": "(to) remember",
+          "alternativeTranslations": [
+            "(to) remain",
+            "(to) regard",
+            "(to) member",
+            "(to) main"
           ]
         }
       ]
