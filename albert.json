@@ -2,7 +2,8 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Alberts Vokabelserver",
   "serverVersion": 1,
-  "version": 7,
+  "version": 8,
+  "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242acd",
   "lessons": [
     {
       "name": "benny_01",
@@ -2549,6 +2550,83 @@
             "(to) member",
             "(to) main"
           ]
+        },
+        {
+          "originalWord": "Ratespiel, Quiz",
+          "correctTranslation": "quiz",
+          "alternativeTranslations": [
+            "qwis",
+            "quis",
+            "qwiz"
+          ],
+          "uuid": "6555fd58-adaa-4685-a4aa-5969d4197703"
+        },
+        {
+          "originalWord": "Gast",
+          "correctTranslation": "guest",
+          "alternativeTranslations": [
+            "gest",
+            "gast",
+            "guts",
+            "horse",
+            "goon"
+          ],
+          "uuid": "53c7817a-c08a-4d09-a685-c21f538e503c"
+        },
+        {
+          "originalWord": "von",
+          "correctTranslation": "by",
+          "alternativeTranslations": [
+            "buy",
+            "zi",
+            "bay"
+          ],
+          "uuid": "72faf753-5757-4f62-93ee-a548a114d15b"
+        },
+        {
+          "originalWord": "(sich) duschen",
+          "correctTranslation": "(to) have a shower",
+          "alternativeTranslations": [
+            "(to) do a shower",
+            "(to) make a shower",
+            "(to) enjoy a shower",
+            "(to) shower"
+          ],
+          "uuid": "f48c0d2b-23f5-41e9-a83f-7b4952972cdd"
+        },
+        {
+          "originalWord": "Dusche",
+          "correctTranslation": "shower",
+          "alternativeTranslations": [
+            "water",
+            "bath",
+            "birth",
+            "show"
+          ],
+          "uuid": "e129ae97-1922-4587-a65e-94bd28c7ed66"
+        },
+        {
+          "originalWord": "Dinge fertig machen, Dunge vorbereiten",
+          "correctTranslation": "(to) get things ready",
+          "alternativeTranslations": [
+            "(to) do things right",
+            "(to) make things ready",
+            "(to) do things ready",
+            "(to) get things right"
+          ],
+          "uuid": "2e6e78a0-5707-42ad-9ebd-8960fcede8cb"
+        },
+        {
+          "originalWord": "fertig, bereit",
+          "correctTranslation": "ready",
+          "alternativeTranslations": [
+            "steady",
+            "o.k.",
+            "listy",
+            "barely",
+            "rerely"
+          ],
+          "uuid": "868de091-4565-4f6a-a723-979e450670f5"
         }
       ]
     }
