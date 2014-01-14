@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Alberts Vokabelserver",
   "serverVersion": 1,
-  "version": 8,
+  "version": 9,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242acd",
   "lessons": [
     {
@@ -2627,6 +2627,165 @@
             "rerely"
           ],
           "uuid": "868de091-4565-4f6a-a723-979e450670f5"
+        }
+      ]
+    },
+    {
+      "uuid": "147754a2-1f24-454b-b32f-1be79a9c4ee3",
+      "name": "en_unit02_07",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "wieder, noch einmal",
+          "correctTranslation": "again",
+          "alternativeTranslations": [
+            "more",
+            "less",
+            "other",
+            "against"
+          ],
+          "uuid": "5c01aa9e-8900-4adc-966d-4068737176f2"
+        },
+        {
+          "originalWord": "die Hausaufgaben machen, die Schularbeiten machen",
+          "correctTranslation": "(to) do homework",
+          "alternativeTranslations": [
+            "(to) make homework",
+            "(to) get homework",
+            "(to) read homework"
+          ],
+          "uuid": "3a3c3123-05d3-4ea7-bbd8-2154a6c06aa8"
+        },
+        {
+          "originalWord": "interessant",
+          "correctTranslation": "interesting",
+          "alternativeTranslations": [
+            "boring",
+            "interessing",
+            "internship"
+          ],
+          "uuid": "72a8cef3-202a-49e9-bdbd-716f700ecaf4"
+        },
+        {
+          "originalWord": "andere(r,s)",
+          "correctTranslation": "other",
+          "alternativeTranslations": [
+            "once",
+            "our",
+            "theirs"
+          ],
+          "uuid": "8061e8b7-bd8d-416d-a682-11786ec8c387"
+        },
+        {
+          "originalWord": "Land",
+          "correctTranslation": "country",
+          "alternativeTranslations": [
+            "lan",
+            "lawn",
+            "church",
+            "cory"
+          ],
+          "uuid": "25480cd2-ec6d-4b4a-90d6-8a9890ae2dfc"
+        },
+        {
+          "originalWord": "Spion, Spionin",
+          "correctTranslation": "spy",
+          "alternativeTranslations": [
+            "sky",
+            "spai",
+            "spey"
+          ],
+          "uuid": "f593ee68-6457-4d40-b3a9-0cc3dc5dbb05"
+        },
+        {
+          "originalWord": "tragen, anhaben (Kleidung)",
+          "correctTranslation": "(to) wear",
+          "alternativeTranslations": [
+            "(to) care",
+            "(to) share",
+            "(to) spare",
+            "(to) where"
+          ],
+          "uuid": "c88974d9-c7f0-477d-9814-eb81cb9f25e8"
+        },
+        {
+          "originalWord": "(eine) Sonnenbrille",
+          "correctTranslation": "sunglasses",
+          "alternativeTranslations": [
+            "sunglass",
+            "sunnyglass",
+            "sunnyglasses",
+            "sun glas"
+          ],
+          "uuid": "f2c7a141-1dea-4006-8632-26269a3c3958"
+        },
+        {
+          "originalWord": "(eine) Brille",
+          "correctTranslation": "glasses",
+          "alternativeTranslations": [
+            "glass",
+            "eyes",
+            "eye",
+            "glares"
+          ],
+          "uuid": "da3a5b10-86d5-46e7-b7f0-ee96430f8e86"
+        },
+        {
+          "originalWord": "uns",
+          "correctTranslation": "us",
+          "alternativeTranslations": [
+            "our",
+            "you",
+            "yours",
+            "ours"
+          ],
+          "uuid": "ccebbd26-1b02-4c54-95e2-f23d05f5084d"
+        },
+        {
+          "originalWord": "passen",
+          "correctTranslation": "(to) fit",
+          "alternativeTranslations": [
+            "(to) mit",
+            "(to) pass",
+            "(to) pit",
+            "(to) fas"
+          ],
+          "uuid": "5fbb4ed0-b146-4f03-9d5a-ffe2e34f860e"
+        },
+        {
+          "originalWord": "Geschichte, Erzählung",
+          "correctTranslation": "story",
+          "alternativeTranslations": [
+            "lorry",
+            "sorry",
+            "histy",
+            "history"
+          ],
+          "uuid": "c53534c5-a3e6-491b-abfe-cd5ca816e30a"
+        },
+        {
+          "originalWord": "hören",
+          "correctTranslation": "(to) hear",
+          "alternativeTranslations": [
+            "(to) see",
+            "(to) heir",
+            "(to) wear",
+            "(to) shear"
+          ],
+          "uuid": "9099ef03-755d-484f-9ac5-ea7e85d13497"
+        },
+        {
+          "originalWord": "Wecker",
+          "correctTranslation": "alarm clock",
+          "alternativeTranslations": [
+            "shock clock",
+            "alarm watch",
+            "get up watch",
+            "get up clock",
+            "shock watch"
+          ],
+          "uuid": "20fa40d5-8253-4369-a5a2-ac4be0ade457"
         }
       ]
     }
