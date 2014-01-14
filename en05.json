@@ -1,0 +1,2601 @@
+{
+  "serverType": "AndrVoc-Server",
+  "serverName": "Englisch Klasse 5",
+  "serverVersion": 1,
+  "version": 11,
+  "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
+  "lessons": [
+    {
+      "name": "English 5 Unit 0/01",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Gern geschehen. Nichts zu danken.",
+          "correctTranslation": "You're welcome.",
+          "alternativeTranslations": [
+            "We welcome you.",
+            "There's welcome.",
+            "You welcome.",
+            "They're welcome."
+          ],
+          "uuid": "1ec1b5cd-6a9c-4b77-8b9b-8061589604de"
+        },
+        {
+          "originalWord": "Zurück nach Deutschland.",
+          "correctTranslation": "Back to Germany.",
+          "alternativeTranslations": [
+            "Back Germany.",
+            "Germany to back.",
+            "Germany back."
+          ],
+          "uuid": "541c1174-1743-4afd-b239-c0806d16af49"
+        },
+        {
+          "originalWord": "Reise, Ausflug",
+          "correctTranslation": "trip",
+          "alternativeTranslations": [
+            "ship",
+            "trap",
+            "shap",
+            "vist",
+            "fast"
+          ],
+          "uuid": "0e61b970-c81b-4b3d-8ead-f860c96610f9"
+        },
+        {
+          "originalWord": "Entschuldigung, entschuldigen sie,…",
+          "correctTranslation": "excuse me",
+          "alternativeTranslations": [
+            "excuse you",
+            "sorry",
+            "sorry me",
+            "sorry my"
+          ],
+          "uuid": "3225126a-d191-4ad1-b282-a6247ab3f25b"
+        },
+        {
+          "originalWord": "Viel Glück (bei/mit)!",
+          "correctTranslation": "Good luck (with)!",
+          "alternativeTranslations": [
+            "Lucky (with)!",
+            "Luck (with)!",
+            "Bad luck (with)!"
+          ],
+          "uuid": "32930bfd-cf4e-43e8-a666-14b06458b326"
+        },
+        {
+          "originalWord": "bei der Arbeit, am Arbeitsplatz",
+          "correctTranslation": "at work",
+          "alternativeTranslations": [
+            "in work",
+            "on work",
+            "at working",
+            "in working",
+            "on working"
+          ],
+          "uuid": "592b6787-8caf-4414-b8f0-385a36e3c543"
+        },
+        {
+          "originalWord": "Rollstuhl",
+          "correctTranslation": "wheelchair",
+          "alternativeTranslations": [
+            "chairwheel",
+            "wheel chair",
+            "chair wheel",
+            "hot wheel",
+            "wheel hot"
+          ],
+          "uuid": "92745ffc-6bd8-4289-a5b3-cfdb611610c3"
+        },
+        {
+          "originalWord": "Sie heißen dich in … willkommen.",
+          "correctTranslation": "They welcome you to ….",
+          "alternativeTranslations": [
+            "You are welcome to ….",
+            "They are welcome to ….",
+            "You welcome they to ….",
+            "We welcome them to …."
+          ],
+          "uuid": "a72db696-d620-4c78-a2e6-970cb6e73175"
+        },
+        {
+          "originalWord": "Papagei",
+          "correctTranslation": "parrot",
+          "alternativeTranslations": [
+            "perrot",
+            "perret",
+            "perrot",
+            "porret",
+            "porrat"
+          ],
+          "uuid": "b60b11ee-a0cd-4a00-bab4-efb6af32e3b4"
+        }
+      ],
+      "uuid": "842c2b75-7d4c-4388-b5e4-e595f4f1a508"
+    },
+    {
+      "name": "English 5 Unit 1/02",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Lehrer",
+          "correctTranslation": "teacher",
+          "alternativeTranslations": [
+            "teecher",
+            "tacher",
+            "teacer",
+            "teecer"
+          ],
+          "uuid": "3f96ef23-fa65-4b25-9c30-05487829d5a9"
+        },
+        {
+          "originalWord": "Lerne Mr. Kingsley kennen. / Triff Mr. Kingsley",
+          "correctTranslation": "Meet Mr Kingsley.",
+          "alternativeTranslations": [
+            "Met Mr Kingsley.",
+            "Mr Kingsley meet.",
+            "Mr Kingsley meet.",
+            "Mr Kingsley see.",
+            "See Mr Kingsley."
+          ],
+          "uuid": "ae6b66b1-de20-4122-b31f-23f4e25c9905"
+        },
+        {
+          "originalWord": "(Schul-)Klasse",
+          "correctTranslation": "form",
+          "alternativeTranslations": [
+            "from",
+            "for",
+            "fon",
+            "forn",
+            "front"
+          ],
+          "uuid": "5023109d-7658-4561-ab10-45c6cced8604"
+        },
+        {
+          "originalWord": "Sagt mir eure Namen.",
+          "correctTranslation": "Tell me your names.",
+          "alternativeTranslations": [
+            "Your names tell me.",
+            "Say me your names",
+            "Your nemes say me."
+          ],
+          "uuid": "83fa3562-abc0-47bc-91ea-0d6a5a1678d1"
+        },
+        {
+          "originalWord": "Sportunterricht, Turnen",
+          "correctTranslation": "PE",
+          "alternativeTranslations": [
+            "EP",
+            "EF",
+            "FE",
+            "PF",
+            "FP"
+          ],
+          "uuid": "cafbebdc-048e-4416-8549-4398e96d1d6c"
+        },
+        {
+          "originalWord": "genug",
+          "correctTranslation": "enough",
+          "alternativeTranslations": [
+            "enohg",
+            "enoug",
+            "enouhg",
+            "enuogh",
+            "enogh"
+          ],
+          "uuid": "75892ac4-9e50-4be9-b886-417842d7620a"
+        },
+        {
+          "originalWord": "leise, still",
+          "correctTranslation": "quiet",
+          "alternativeTranslations": [
+            "queit",
+            "quit",
+            "quiwt",
+            "quwiet"
+          ],
+          "uuid": "0bee0f75-aaa4-454f-9c20-3da3e7b2a0b4"
+        },
+        {
+          "originalWord": "Witz",
+          "correctTranslation": "joke",
+          "alternativeTranslations": [
+            "jack",
+            "jok",
+            "jak",
+            "choke",
+            "chok"
+          ],
+          "uuid": "c376dd76-226d-4760-8e9e-6c1214604b36"
+        },
+        {
+          "originalWord": "schlecht, schlimm",
+          "correctTranslation": "bad",
+          "alternativeTranslations": [
+            "bat",
+            "but",
+            "bud",
+            "baad",
+            "baad"
+          ],
+          "uuid": "d7d82f54-0ce0-4e19-b67f-822f66c28864"
+        },
+        {
+          "originalWord": "Setz dich. Setzt euch zu mir.",
+          "correctTranslation": "Sit with me.",
+          "alternativeTranslations": [
+            "Sit down.",
+            "Sit you.",
+            "You ist with"
+          ],
+          "uuid": "4bf3a3c3-0343-421d-9b16-1f9442e66abc"
+        },
+        {
+          "originalWord": "Kannst du dir das merken?",
+          "correctTranslation": "Can you remember that?",
+          "alternativeTranslations": [
+            "Remember that you can?",
+            "Can remember you that?",
+            "That remember you can?"
+          ],
+          "uuid": "dd6e73e6-bfce-4661-b04d-449b8f676d3e"
+        },
+        {
+          "originalWord": "Alphabet",
+          "correctTranslation": "alphabet",
+          "alternativeTranslations": [
+            "alfabet",
+            "alfabeth",
+            "alphabed"
+          ],
+          "uuid": "422b8964-1ab0-4ad8-b2c5-60790c04c91d"
+        },
+        {
+          "originalWord": "Wirf einen Ball.",
+          "correctTranslation": "Throw a ball.",
+          "alternativeTranslations": [
+            "A ball throw.",
+            "You throw a ball.",
+            "A ball you throw."
+          ],
+          "uuid": "584c3099-f439-4ddd-bf3a-313d05eaeee8"
+        },
+        {
+          "originalWord": "Klettere auf eunen Baum.",
+          "correctTranslation": "Climb a tree.",
+          "alternativeTranslations": [
+            "A tree climb.",
+            "You climb a tree.",
+            "A tree you climb."
+          ],
+          "uuid": "1c8635e0-ed27-45eb-8bbe-1cc655fecc74"
+        },
+        {
+          "originalWord": "schreibe …",
+          "correctTranslation": "write …",
+          "alternativeTranslations": [
+            "wreit …",
+            "wrote …",
+            "word …",
+            "you wrote …"
+          ],
+          "uuid": "91dc74f7-3cab-442b-af61-1c3b91b646e0"
+        }
+      ],
+      "uuid": "15faa620-1f45-4de9-89ad-6950c8f60737"
+    },
+    {
+      "name": "English 5 Unit 1/03",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Tue, was ich tue.",
+          "correctTranslation": "Do what I do.",
+          "alternativeTranslations": [
+            "What do I do.",
+            "What do you do.",
+            "I do what I do.",
+            "You do what I do."
+          ],
+          "uuid": "7d791e47-d56a-4683-b004-e684cc414a70"
+        },
+        {
+          "originalWord": "Stundenplan",
+          "correctTranslation": "timetable",
+          "alternativeTranslations": [
+            "tabletime",
+            "timetabl",
+            "tabltime",
+            "teimtable",
+            "tableteim"
+          ],
+          "uuid": "6bdf8805-dd5b-4b61-b249-8e2f7390e691"
+        },
+        {
+          "originalWord": "Nehmt … heraus.",
+          "correctTranslation": "Take out ….",
+          "alternativeTranslations": [
+            "Take ….",
+            "Out take ….",
+            "Out … take.",
+            "Take in ….",
+            "In take …."
+          ],
+          "uuid": "5ea35b76-c73a-4d06-a23b-5201abe5eed7"
+        },
+        {
+          "originalWord": "Schreibt … auf.",
+          "correctTranslation": "Write down ….",
+          "alternativeTranslations": [
+            "Down write ….",
+            "Write up ….",
+            "Up write ….",
+            "Write on ….",
+            "On write …."
+          ],
+          "uuid": "d24e2245-17a0-4abd-bcf2-c6b92e646926"
+        },
+        {
+          "originalWord": "um 8.45",
+          "correctTranslation": "at 8.45",
+          "alternativeTranslations": [
+            "on 8.45",
+            "off 8.45",
+            "near 8.45",
+            "8.45 at",
+            "8.45 on",
+            "8.45 off"
+          ],
+          "uuid": "cca7c810-c752-4140-9aa9-1b85ec70b34d"
+        },
+        {
+          "originalWord": "am Donnerstag",
+          "correctTranslation": "on Tuesday",
+          "alternativeTranslations": [
+            "at Tuesday",
+            "on Thursday",
+            "at Thursday",
+            "on Tusday",
+            "at Tursday"
+          ],
+          "uuid": "92d351fb-711f-475c-bfc5-5a5511a15c67"
+        },
+        {
+          "originalWord": "buchstabiere …",
+          "correctTranslation": "spell …",
+          "alternativeTranslations": [
+            "spit …",
+            "spel …",
+            "spill …",
+            "spitt …"
+          ],
+          "uuid": "ed9b93d9-fd21-4fef-a579-98b1f0eba2b6"
+        },
+        {
+          "originalWord": "nach (zeitlich)",
+          "correctTranslation": "after",
+          "alternativeTranslations": [
+            "before",
+            "behind",
+            "next to",
+            "near"
+          ],
+          "uuid": "9538ec70-dfaf-4040-9d59-c4f50ba0c89b"
+        },
+        {
+          "originalWord": "Pause",
+          "correctTranslation": "break",
+          "alternativeTranslations": [
+            "breik",
+            "brake",
+            "basket",
+            "broom",
+            "becks"
+          ],
+          "uuid": "06a7582b-05f0-4bc1-9e35-01546579f182"
+        },
+        {
+          "originalWord": "Mittagessen",
+          "correctTranslation": "lunch",
+          "alternativeTranslations": [
+            "dinner",
+            "breakfast",
+            "supper",
+            "meal",
+            "food"
+          ],
+          "uuid": "b1af76e0-ec12-457b-8c93-2553cb3f87bc"
+        },
+        {
+          "originalWord": "Essen, Lebensmittel",
+          "correctTranslation": "food",
+          "alternativeTranslations": [
+            "dinner",
+            "breakfast",
+            "supper",
+            "meal",
+            "lunch"
+          ],
+          "uuid": "8847907e-2077-4816-8cf7-da35fd75889f"
+        },
+        {
+          "originalWord": "wirklich",
+          "correctTranslation": "really",
+          "alternativeTranslations": [
+            "rally",
+            "relly",
+            "raelly"
+          ],
+          "uuid": "1ffd302e-cf34-49ef-b006-d6c2011992d1"
+        },
+        {
+          "originalWord": "Ich habe keinen Stuhl.",
+          "correctTranslation": "I haven't got a chair.",
+          "alternativeTranslations": [
+            "I have got a chair.",
+            "I haven't a chair.",
+            "I havet a chair."
+          ],
+          "uuid": "3dc9dc11-645b-4d16-a3fe-f9a8c4ae22ca"
+        },
+        {
+          "originalWord": "Klettere auf einen Baum.",
+          "correctTranslation": "Climb a tree.",
+          "alternativeTranslations": [
+            "A tree climb.",
+            "You climb a tree.",
+            "A tree you climb."
+          ],
+          "uuid": "764a7677-146b-4561-9439-e699c902df48"
+        },
+        {
+          "originalWord": "Bankräuber/in",
+          "correctTranslation": "bank robber",
+          "alternativeTranslations": [
+            "robber bank",
+            "money robber",
+            "robber money",
+            "bank thief",
+            "thief bank"
+          ],
+          "uuid": "df197932-1c48-4e87-bce8-d02ac8faeded"
+        }
+      ],
+      "uuid": "ef375edb-cfc8-47d1-8788-f127cdd2f751"
+    },
+    {
+      "name": "English 5 Unit 1/04",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "alle; alles",
+          "correctTranslation": "all",
+          "alternativeTranslations": [
+            "every",
+            "oll",
+            "each",
+            "single"
+          ],
+          "uuid": "be249f8b-a2a8-48aa-91fe-e7e8b493f370"
+        },
+        {
+          "originalWord": "wie",
+          "correctTranslation": "like",
+          "alternativeTranslations": [
+            "laik",
+            "lik",
+            "so",
+            "similar",
+            "suuch"
+          ],
+          "uuid": "4411282c-39fc-47f1-8bf4-31809188d0e3"
+        },
+        {
+          "originalWord": "ihm; ihn",
+          "correctTranslation": "him",
+          "alternativeTranslations": [
+            "his",
+            "her",
+            "she",
+            "he",
+            "your",
+            "your"
+          ],
+          "uuid": "dd07af28-a98e-48d6-b198-80874e2fdb49"
+        },
+        {
+          "originalWord": "Idee, Einfall",
+          "correctTranslation": "idea",
+          "alternativeTranslations": [
+            "ide",
+            "idae",
+            "idye",
+            "idya",
+            "idyea",
+            "idee"
+          ],
+          "uuid": "1dbc0471-cc96-4bff-a736-5a9efac352b9"
+        },
+        {
+          "originalWord": "Was haben wir als nächstes",
+          "correctTranslation": "What have we got next?",
+          "alternativeTranslations": [
+            "What do we next?",
+            "What do we do next?",
+            "What should we do next?",
+            "What's got next?",
+            "Where have we got next?"
+          ],
+          "uuid": "4afa5523-540c-4ff9-a12c-482fc0fcec0d"
+        },
+        {
+          "originalWord": "langweilig",
+          "correctTranslation": "boring",
+          "alternativeTranslations": [
+            "bored",
+            "baring",
+            "bared",
+            "borgin",
+            "borged"
+          ],
+          "uuid": "9a89c8cb-707c-437d-85cb-435a9dbc903a"
+        },
+        {
+          "originalWord": "(Schul-)Klasse",
+          "correctTranslation": "class",
+          "alternativeTranslations": [
+            "klass",
+            "clas",
+            "klass",
+            "glas",
+            "glass"
+          ],
+          "uuid": "02f61ce7-7a8f-43b3-95e1-22fc26897b8a"
+        },
+        {
+          "originalWord": "ich hasse …, ich mag … nicht",
+          "correctTranslation": "I hate …",
+          "alternativeTranslations": [
+            "I had …",
+            "I hat …",
+            "I hade …",
+            "I … had",
+            "I … hate"
+          ],
+          "uuid": "fadece5d-49be-4fdb-921b-3020b582da0a"
+        },
+        {
+          "originalWord": "verschieden, unterschiedlich, anders (als)",
+          "correctTranslation": "different (from)",
+          "alternativeTranslations": [
+            "diferent (of)",
+            "different (of)",
+            "diferent (on)",
+            "different (on)",
+            "differ (on)"
+          ],
+          "uuid": "ab750faa-6aea-4e75-9bb1-cda2cce0528c"
+        },
+        {
+          "originalWord": "oder",
+          "correctTranslation": "or",
+          "alternativeTranslations": [
+            "oar",
+            "and",
+            "nor",
+            "od",
+            "odd"
+          ],
+          "uuid": "bc0259b7-ccb4-494c-b75b-0acaa88258b1"
+        },
+        {
+          "originalWord": "Laut, Geräusch",
+          "correctTranslation": "sound",
+          "alternativeTranslations": [
+            "sond",
+            "soond",
+            "sand",
+            "ond",
+            "volume"
+          ],
+          "uuid": "e9ba5785-47e3-49b8-8fd7-b2f48bd0d725"
+        },
+        {
+          "originalWord": "Ende",
+          "correctTranslation": "end",
+          "alternativeTranslations": [
+            "fin",
+            "start",
+            "ent"
+          ],
+          "uuid": "69e5c13e-fca0-47ec-90e7-20acb2b4d44a"
+        },
+        {
+          "originalWord": "Beeil dich.",
+          "correctTranslation": "Hurry up.",
+          "alternativeTranslations": [
+            "Hurry you.",
+            "You hurry up.",
+            "Hurry you up.",
+            "Hurry up you."
+          ],
+          "uuid": "90160ba8-4188-471f-8f89-348ae0e11fed"
+        },
+        {
+          "originalWord": "(die) arme Sophie",
+          "correctTranslation": "poor Sophie",
+          "alternativeTranslations": [
+            "put Sophie",
+            "rich Sophie",
+            "near Sophie",
+            "puur Sophie"
+          ],
+          "uuid": "93604bbd-d370-4ff8-b605-d57bf32fa453"
+        },
+        {
+          "originalWord": "Komm rein/herrein",
+          "correctTranslation": "Come in.",
+          "alternativeTranslations": [
+            "In come.",
+            "comein",
+            "income",
+            "come into",
+            "into come"
+          ],
+          "uuid": "c4c09202-6786-41b1-8377-c963c01163dd"
+        }
+      ],
+      "uuid": "5140107d-d948-4320-b586-a29ea48f88aa"
+    },
+    {
+      "name": "English 5 Unit 1/05",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "alles",
+          "correctTranslation": "everything",
+          "alternativeTranslations": [
+            "every",
+            "oll",
+            "each",
+            "single"
+          ],
+          "uuid": "8181496b-0f90-4949-b473-f806f9b4895e"
+        },
+        {
+          "originalWord": "Tee",
+          "correctTranslation": "tea",
+          "alternativeTranslations": [
+            "tee",
+            "tae",
+            "tye",
+            "tees"
+          ],
+          "uuid": "ad477e4c-406a-44ce-9a69-22922009d5af"
+        },
+        {
+          "originalWord": "Klassenkammerad/in, Mitschüler/in",
+          "correctTranslation": "classmate",
+          "alternativeTranslations": [
+            "mateclass",
+            "class mate",
+            "mate class",
+            "classfriend",
+            "class friend",
+            "friend class"
+          ],
+          "uuid": "12975cd5-3bba-441b-b8b3-48ba1f80e7a8"
+        },
+        {
+          "originalWord": "Wie war …?",
+          "correctTranslation": "How was …?",
+          "alternativeTranslations": [
+            "Who was …?",
+            "Where was …?",
+            "Hoo was _?",
+            "When was _?",
+            "Was it _?"
+          ],
+          "uuid": "f9b10a7c-f740-47bf-ac74-3650e11badd8"
+        },
+        {
+          "originalWord": "Welt",
+          "correctTranslation": "world",
+          "alternativeTranslations": [
+            "werld",
+            "word",
+            "wort",
+            "worlt",
+            "warld",
+            "warlt"
+          ],
+          "uuid": "c88af648-2db2-40e1-a7e6-b65453ee9da3"
+        },
+        {
+          "originalWord": "Bis bald. / Tschüs.",
+          "correctTranslation": "See you.",
+          "alternativeTranslations": [
+            "You see.",
+            "See soon.",
+            "Soon see.",
+            "See me.",
+            "Me see."
+          ],
+          "uuid": "c60e8dcb-da7f-4a49-8221-416211d4d678"
+        },
+        {
+          "originalWord": "Mach weiter./Erzähl weiter.",
+          "correctTranslation": "Go on.",
+          "alternativeTranslations": [
+            "On go.",
+            "Walk on.",
+            "On walk.",
+            "Run on.",
+            "On run."
+          ],
+          "uuid": "13e837ed-44ab-458f-8cab-ecb2994e309c"
+        },
+        {
+          "originalWord": "ein Päckchen/eine Packung Pfefferminzbonbons",
+          "correctTranslation": "a packet of mints",
+          "alternativeTranslations": [
+            "a packet of minz",
+            "a packages of mints",
+            "an pack of mints",
+            "an pack of minz",
+            "a packages of mintz"
+          ],
+          "uuid": "275ca754-2123-4efa-8a6c-e2aeb4f6bf38"
+        },
+        {
+          "originalWord": "klein",
+          "correctTranslation": "little",
+          "alternativeTranslations": [
+            "liddle",
+            "litle",
+            "lidle",
+            "big",
+            "bigg"
+          ],
+          "uuid": "16aca623-51f3-4792-b971-41f89f0a76b1"
+        },
+        {
+          "originalWord": "Tschüs!",
+          "correctTranslation": "Bye.",
+          "alternativeTranslations": [
+            "Good.",
+            "Buy.",
+            "Bay.",
+            "Baye."
+          ],
+          "uuid": "f3366eaf-31e7-437c-83a8-e550b34b29f6"
+        },
+        {
+          "originalWord": "mehr",
+          "correctTranslation": "more",
+          "alternativeTranslations": [
+            "moore",
+            "mor",
+            "moor",
+            "less",
+            "les"
+          ],
+          "uuid": "24a2f4a9-f50a-4b30-8fba-eed7bb941fb8"
+        },
+        {
+          "originalWord": "Dilip mag ….",
+          "correctTranslation": "Dilip likes ….",
+          "alternativeTranslations": [
+            "Dilip … likes.",
+            "Like … Dilip.",
+            "Dilip is like ….",
+            "Dilip … leiks.",
+            "Leiks … Dilip."
+          ],
+          "uuid": "c547b4fb-8211-4008-8f82-97810a132c76"
+        },
+        {
+          "originalWord": "sie; ihr",
+          "correctTranslation": "her",
+          "alternativeTranslations": [
+            "his",
+            "she",
+            "him",
+            "my",
+            "your"
+          ],
+          "uuid": "25485c1e-1090-4e27-a7bc-a94b83d37ec0"
+        },
+        {
+          "originalWord": "Er mag sie sehr.",
+          "correctTranslation": "He likes her a lot.",
+          "alternativeTranslations": [
+            "She likes him a lot.",
+            "He like her much.",
+            "She like him much.",
+            "A lot he likes she."
+          ],
+          "uuid": "cc5b5caf-e450-4b31-b919-b0e76328f33a"
+        },
+        {
+          "originalWord": "Mache/Baue einen Kalender.",
+          "correctTranslation": "Make a calendar.",
+          "alternativeTranslations": [
+            "Made a calendar.",
+            "Make a calender.",
+            "Made a calender.",
+            "Do a calendar",
+            "Do a calender"
+          ],
+          "uuid": "ae61e790-970f-4f41-ac95-a7e9a3fe88bc"
+        }
+      ],
+      "uuid": "c20e5422-8027-45c2-ad55-d6bae0f40423"
+    },
+    {
+      "name": "English 5 Unit 1/06",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Geburtstag",
+          "correctTranslation": "birthday",
+          "alternativeTranslations": [
+            "daybirth",
+            "birth day",
+            "day birth",
+            "bornday",
+            "born day"
+          ],
+          "uuid": "895f6598-6677-4949-8559-e13102a549de"
+        },
+        {
+          "originalWord": "wann?",
+          "correctTranslation": "when?",
+          "alternativeTranslations": [
+            "how?",
+            "where?",
+            "whan?",
+            "who?"
+          ],
+          "uuid": "2cd517cd-59fe-4a34-bf0d-eb77c1436fad"
+        },
+        {
+          "originalWord": "Datum",
+          "correctTranslation": "date",
+          "alternativeTranslations": [
+            "day",
+            "data",
+            "dey",
+            "deita",
+            "deite"
+          ],
+          "uuid": "1e4ce890-94ab-4657-b8b2-658841fe655d"
+        },
+        {
+          "originalWord": "Kunst",
+          "correctTranslation": "art",
+          "alternativeTranslations": [
+            "ard",
+            "cost",
+            "costy",
+            "ant",
+            "master"
+          ],
+          "uuid": "aff2770b-7f23-4dee-8383-9e20b8649ff4"
+        },
+        {
+          "originalWord": "Januar",
+          "correctTranslation": "January",
+          "alternativeTranslations": [
+            "Jenuary",
+            "Janary",
+            "Jenary",
+            "Junary"
+          ],
+          "uuid": "98a3029b-e3c0-41ec-a1a1-3b009c478318"
+        },
+        {
+          "originalWord": "Februar",
+          "correctTranslation": "February",
+          "alternativeTranslations": [
+            "Fabruary",
+            "Fabrary",
+            "Febary",
+            "Funary",
+            "Februery"
+          ],
+          "uuid": "347c71e2-de54-4a39-8d5a-1de4fef66521"
+        },
+        {
+          "originalWord": "März",
+          "correctTranslation": "March",
+          "alternativeTranslations": [
+            "Mars",
+            "Marsch",
+            "Marge",
+            "Marsh"
+          ],
+          "uuid": "14012655-52c7-49c2-b819-92cca8badc9b"
+        },
+        {
+          "originalWord": "Mai",
+          "correctTranslation": "May",
+          "alternativeTranslations": [
+            "Mai",
+            "Mey",
+            "Mei",
+            "Maay",
+            "Meey"
+          ],
+          "uuid": "4b942ef0-14a2-4dd3-ac87-1472d0fbc4c4"
+        },
+        {
+          "originalWord": "Juni",
+          "correctTranslation": "June",
+          "alternativeTranslations": [
+            "Juny",
+            "Juni",
+            "July",
+            "Julie",
+            "Juune"
+          ],
+          "uuid": "7404df71-35ac-407a-afdc-60e47c7b6e3a"
+        },
+        {
+          "originalWord": "Juli",
+          "correctTranslation": "July",
+          "alternativeTranslations": [
+            "Jule",
+            "Juli",
+            "Junly",
+            "Juley"
+          ],
+          "uuid": "134c2c7f-7d7c-427c-a4c4-3464610104af"
+        },
+        {
+          "originalWord": "mehr",
+          "correctTranslation": "more",
+          "alternativeTranslations": [
+            "moore",
+            "mor",
+            "moor",
+            "less",
+            "les"
+          ],
+          "uuid": "e243c5d9-84d6-4908-afc0-d1aeb63c9e15"
+        },
+        {
+          "originalWord": "Oktober",
+          "correctTranslation": "October",
+          "alternativeTranslations": [
+            "Octobre",
+            "Oktober",
+            "Oktobre",
+            "Ocktober"
+          ],
+          "uuid": "2758984f-bafe-4e90-ad39-bc2fbcb4a724"
+        },
+        {
+          "originalWord": "Dezember",
+          "correctTranslation": "December",
+          "alternativeTranslations": [
+            "Desember",
+            "Dezember",
+            "Dicember"
+          ],
+          "uuid": "1b2d5ef8-5107-41f8-aa5d-3f3637a07cc4"
+        },
+        {
+          "originalWord": "August",
+          "correctTranslation": "August",
+          "alternativeTranslations": [
+            "Aygust",
+            "Augest",
+            "Aygest",
+            "Augusto"
+          ],
+          "uuid": "e8d324d4-2ffe-403b-9dc2-fc51d2bbc074"
+        },
+        {
+          "originalWord": "April",
+          "correctTranslation": "April",
+          "alternativeTranslations": [
+            "Abril",
+            "Aipril",
+            "Aypril"
+          ],
+          "uuid": "758554d8-6b32-4b5f-94d3-ba6892a111be"
+        }
+      ],
+      "uuid": "6aae5809-252e-4836-8799-9551348b002b"
+    },
+    {
+      "name": "English 5 Unit 2/01",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Wochenende",
+          "correctTranslation": "weekend",
+          "alternativeTranslations": [
+            "week end",
+            "end week",
+            "endweek",
+            "wikend"
+          ],
+          "uuid": "d37db272-5706-400f-a941-049d5d2577a2"
+        },
+        {
+          "originalWord": "daheim, zu Hause",
+          "correctTranslation": "at home",
+          "alternativeTranslations": [
+            "at homy",
+            "on home",
+            "is home",
+            "is homy"
+          ],
+          "uuid": "95add473-9481-47bb-819e-6667426096a0"
+        },
+        {
+          "originalWord": "Ich teile mein Zimmer mit y …",
+          "correctTranslation": "I share room with …",
+          "alternativeTranslations": [
+            "My room with … share",
+            "My room with … I share",
+            "Share I room with …",
+            "I room share with …"
+          ],
+          "uuid": "c77c0b9d-d3f0-4a8b-a45f-a5347d72dab3"
+        },
+        {
+          "originalWord": "Menschen, Leute",
+          "correctTranslation": "people",
+          "alternativeTranslations": [
+            "peoples",
+            "pupil",
+            "pupils",
+            "peoble",
+            "peobles"
+          ],
+          "uuid": "34d3a1af-4cd1-464a-b85c-4bd135dd7b8c"
+        },
+        {
+          "originalWord": "Garten",
+          "correctTranslation": "garden",
+          "alternativeTranslations": [
+            "garten",
+            "gard",
+            "gart",
+            "green",
+            "garde"
+          ],
+          "uuid": "2c83c4d8-7fed-401f-a446-3df726cbbc48"
+        },
+        {
+          "originalWord": "Schreibtisch",
+          "correctTranslation": "desk",
+          "alternativeTranslations": [
+            "table",
+            "tesk",
+            "desktop",
+            "toptable"
+          ],
+          "uuid": "ca7d1a73-c706-4ab7-afdc-def37bef4f5a"
+        },
+        {
+          "originalWord": "(Kaninchen-) Stall",
+          "correctTranslation": "hutch",
+          "alternativeTranslations": [
+            "husch",
+            "hut",
+            "shut",
+            "hatch"
+          ],
+          "uuid": "325ade46-f31f-4a5d-b443-2a0dc8952f1d"
+        },
+        {
+          "originalWord": "Korb",
+          "correctTranslation": "basket",
+          "alternativeTranslations": [
+            "bascet",
+            "bracet",
+            "bracelet",
+            "braket",
+            "brakelet"
+          ],
+          "uuid": "37cab13c-969c-4c33-ac6b-c7906ba9c46f"
+        },
+        {
+          "originalWord": "Käfig",
+          "correctTranslation": "cage",
+          "alternativeTranslations": [
+            "cache",
+            "ceige",
+            "box",
+            "boxy",
+            "kages"
+          ],
+          "uuid": "8305f431-e024-4a3c-8f42-064ca9120e34"
+        },
+        {
+          "originalWord": "Wellensittich",
+          "correctTranslation": "budgie",
+          "alternativeTranslations": [
+            "buddy",
+            "buggy",
+            "buddgy",
+            "budgy"
+          ],
+          "uuid": "e5105cfe-cc58-4689-baa7-4ee01c072f2b"
+        },
+        {
+          "originalWord": "Schildkröte",
+          "correctTranslation": "tortoise",
+          "alternativeTranslations": [
+            "turtoise",
+            "tortuise",
+            "turtuise",
+            "turty"
+          ],
+          "uuid": "396b5da4-3cba-43a3-88bd-e15f3f7f8328"
+        },
+        {
+          "originalWord": "Ich kann das Lied aufführen.",
+          "correctTranslation": "I can act the song.",
+          "alternativeTranslations": [
+            "I can make the song.",
+            "I act the song.",
+            "I make the song.",
+            "I can sing the song.",
+            "The song I sing."
+          ],
+          "uuid": "fbd70caa-7bdf-42ad-86bd-8023b7363d50"
+        },
+        {
+          "originalWord": "Nachmittag",
+          "correctTranslation": "afternoon",
+          "alternativeTranslations": [
+            "noon",
+            "after noon",
+            "morning",
+            "midday",
+            "afterday"
+          ],
+          "uuid": "130c9890-bd75-4715-80c5-4e5e9b6c7c6b"
+        },
+        {
+          "originalWord": "Küche",
+          "correctTranslation": "kitchen",
+          "alternativeTranslations": [
+            "kitshen",
+            "cook",
+            "cooky",
+            "citchen"
+          ],
+          "uuid": "49b8f3ce-878d-478f-b37e-f1a37ddf9da5"
+        },
+        {
+          "originalWord": "Regal",
+          "correctTranslation": "shelf",
+          "alternativeTranslations": [
+            "shell",
+            "share",
+            "boord",
+            "ruler"
+          ],
+          "uuid": "b8106984-57b2-4637-b949-67bd0ed708e9"
+        }
+      ],
+      "uuid": "3634de24-9473-4b15-bab1-6219f00adfb7"
+    },
+    {
+      "name": "English 5 Unit 2/02",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Plan",
+          "correctTranslation": "plan",
+          "alternativeTranslations": [
+            "plein",
+            "plen",
+            "plain",
+            "blan"
+          ],
+          "uuid": "708f61bd-63b0-4394-87c2-628b973eda78"
+        },
+        {
+          "originalWord": "Aufsatz (über)",
+          "correctTranslation": "essay (about, on)",
+          "alternativeTranslations": [
+            "easy (about, on)",
+            "essay (of, with)",
+            "easy (of, with)",
+            "esay (about, on)",
+            "esay (of, with)"
+          ],
+          "uuid": "dbfce853-46b8-4fcb-83a5-1d6d37593f71"
+        },
+        {
+          "originalWord": "Leben",
+          "correctTranslation": "life",
+          "alternativeTranslations": [
+            "live",
+            "laif",
+            "laiv",
+            "leife"
+          ],
+          "uuid": "db77b235-06c8-4c5f-b74a-b6188bc382f3"
+        },
+        {
+          "originalWord": "schwierig, schwer",
+          "correctTranslation": "difficult",
+          "alternativeTranslations": [
+            "dificult",
+            "deficult",
+            "defficult",
+            "heavy",
+            "cool"
+          ],
+          "uuid": "e06bf480-5d12-45c8-817e-c1ed71873fd0"
+        },
+        {
+          "originalWord": "Ich stehe um … auf.",
+          "correctTranslation": "I get up at ….",
+          "alternativeTranslations": [
+            "I wake up at _.",
+            "Get I up at ….",
+            "You geting … up at.",
+            "Get up at … I.",
+            "Wake up at …."
+          ],
+          "uuid": "9dac7c88-f8e1-4a1b-ad2c-11168adf4e32"
+        },
+        {
+          "originalWord": "aufstehen",
+          "correctTranslation": "(to) get up",
+          "alternativeTranslations": [
+            "(to) up get",
+            "(to) go to sleep",
+            "(to) go to bed",
+            "(to) make up"
+          ],
+          "uuid": "071f008e-a342-44e7-8936-6429cbf10504"
+        },
+        {
+          "originalWord": "jeder, jedes. jede",
+          "correctTranslation": "every",
+          "alternativeTranslations": [
+            "very",
+            "everi",
+            "efery",
+            "veri"
+          ],
+          "uuid": "d6800935-8134-4994-8c8d-870bfbacecaf"
+        },
+        {
+          "originalWord": "Ich putze mir die Zähne.",
+          "correctTranslation": "I clean my teeth.",
+          "alternativeTranslations": [
+            "I clean my tooth.",
+            "My teeth I clean me.",
+            "My teeth I clean.",
+            "These teeth I clean me.",
+            "I clean these teeth."
+          ],
+          "uuid": "221f0d54-df7b-48ff-8dc3-a50fac7aa4a6"
+        },
+        {
+          "originalWord": "Zahn",
+          "correctTranslation": "tooth",
+          "alternativeTranslations": [
+            "teeth",
+            "toe",
+            "toth",
+            "teth"
+          ],
+          "uuid": "ec8f8ff7-bad1-4415-b419-261492367107"
+        },
+        {
+          "originalWord": "Zähne",
+          "correctTranslation": "teeth",
+          "alternativeTranslations": [
+            "tooth",
+            "toe",
+            "toth",
+            "teth"
+          ],
+          "uuid": "6c321eb7-b980-4544-9f9c-152fbb2eacb8"
+        },
+        {
+          "originalWord": "schlafen",
+          "correctTranslation": "(to) sleep",
+          "alternativeTranslations": [
+            "(to) sheep",
+            "(to) wake up",
+            "(to) asleep",
+            "(to) wake"
+          ],
+          "uuid": "e29a82d5-2a4c-4848-8b91-c12ab45f74ce"
+        },
+        {
+          "originalWord": "Ich wasche mir die Hände.",
+          "correctTranslation": "I wash my hands.",
+          "alternativeTranslations": [
+            "My hands I wash.",
+            "I wasch my hands.",
+            "My hands I wasch.",
+            "I clean hands.",
+            "Hands I clean."
+          ],
+          "uuid": "d0c0c626-9bd4-4d71-bf3a-031cd36b54fd"
+        },
+        {
+          "originalWord": "Bus",
+          "correctTranslation": "bus",
+          "alternativeTranslations": [
+            "car",
+            "bus stop",
+            "street",
+            "buscar"
+          ],
+          "uuid": "6a6e82df-508f-4ab0-9630-5d87f0e2852a"
+        },
+        {
+          "originalWord": "lesen",
+          "correctTranslation": "(to) read",
+          "alternativeTranslations": [
+            "(to) write",
+            "(to) red",
+            "(to) wrote",
+            "(to) do"
+          ],
+          "uuid": "c8adecf2-9a75-44dc-ad34-20ab30f83929"
+        },
+        {
+          "originalWord": "sich anziehen",
+          "correctTranslation": "(to) get dressed",
+          "alternativeTranslations": [
+            "(to) get clothes",
+            "(to) get on",
+            "(to) get off",
+            "(to) get trousers"
+          ],
+          "uuid": "dbac69b3-e4a0-4d30-a85f-b57899e34d45"
+        }
+      ],
+      "uuid": "55b53c1f-c13f-47e1-9483-5ec807ff5304"
+    },
+    {
+      "name": "English 5 Unit 2/03",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "den ganzen Tag (lang) / die ganze Zeit",
+          "correctTranslation": "all day / all the time",
+          "alternativeTranslations": [
+            "every day / all time",
+            "all days / the whole time",
+            "the all day / all time"
+          ],
+          "uuid": "b84219cb-742c-434c-a4ef-6f6c4a133f05"
+        },
+        {
+          "originalWord": "Danke.",
+          "correctTranslation": "Thanks.",
+          "alternativeTranslations": [
+            "Tanks.",
+            "Think.",
+            "Thinks.",
+            "Think you."
+          ],
+          "uuid": "fdbadc4b-51e6-4956-c098-af22e603dbdf"
+        },
+        {
+          "originalWord": "Hilfe",
+          "correctTranslation": "help",
+          "alternativeTranslations": [
+            "hilp",
+            "half",
+            "helph",
+            "halt"
+          ],
+          "uuid": "9837fce0-623f-430e-b6ac-706f22a5ce9e"
+        },
+        {
+          "originalWord": "natürlich, selbstverständlich",
+          "correctTranslation": "of course",
+          "alternativeTranslations": [
+            "off corse",
+            "of corse",
+            "of horse",
+            "clearly",
+            "clear"
+          ],
+          "uuid": "6cccef0a-2108-4d4d-9c3f-d41e65de1967"
+        },
+        {
+          "originalWord": "Bitte sehr. / Hier bitte.",
+          "correctTranslation": "Here you are.",
+          "alternativeTranslations": [
+            "There we are.",
+            "You get it.",
+            "You get it here.",
+            "Here is it.",
+            "Are you here."
+          ],
+          "uuid": "f5205cd4-29ea-4b74-a1c4-74bfa8a3a2e3"
+        },
+        {
+          "originalWord": "Das ist ganz falsch.",
+          "correctTranslation": "This is all wrong.",
+          "alternativeTranslations": [
+            "There is all wrong.",
+            "You are all wrong.",
+            "All this wrong is.",
+            "This all is wrong."
+          ],
+          "uuid": "4dab71e4-ea1f-48b3-b293-68a82c71d348"
+        },
+        {
+          "originalWord": "sich streiten, sich zanken",
+          "correctTranslation": "(to) argue",
+          "alternativeTranslations": [
+            "(to) arge",
+            "(to) argwe",
+            "(to) argu",
+            "(to) argy"
+          ],
+          "uuid": "0a520414-d11c-47e4-bf25-6335a3e16eef"
+        },
+        {
+          "originalWord": "Judo machen",
+          "correctTranslation": "(to) do judo",
+          "alternativeTranslations": [
+            "(to) make judo",
+            "(to) act judo",
+            "(to) do judo"
+          ],
+          "uuid": "11ffb819-9d11-40fe-bc03-6e747dd3d947"
+        },
+        {
+          "originalWord": "früh",
+          "correctTranslation": "early",
+          "alternativeTranslations": [
+            "late",
+            "soon",
+            "erly",
+            "morning"
+          ],
+          "uuid": "b55ed2da-0386-40c0-af01-97c3364775db"
+        },
+        {
+          "originalWord": "bis (zeitlich)",
+          "correctTranslation": "till",
+          "alternativeTranslations": [
+            "will",
+            "tull",
+            "tal",
+            "was"
+          ],
+          "uuid": "ea58e3f2-7e18-4f97-b947-6887f867bd94"
+        },
+        {
+          "originalWord": "Buchstabe",
+          "correctTranslation": "letter",
+          "alternativeTranslations": [
+            "card",
+            "litter",
+            "book store",
+            "staf"
+          ],
+          "uuid": "392a3015-17d3-43f6-b9e7-49f477820dbe"
+        },
+        {
+          "originalWord": "Ich wasche mir die Hände",
+          "correctTranslation": "I wash my hands.",
+          "alternativeTranslations": [
+            "My hands I wash.",
+            "I wasch my hands.",
+            "My hands I wasch.",
+            "I clean hands.",
+            "Hands I clean."
+          ],
+          "uuid": "07088e3c-8b49-4637-af29-460339b740c0"
+        },
+        {
+          "originalWord": "Wie bitte?",
+          "correctTranslation": "Sorry?",
+          "alternativeTranslations": [
+            "Please?",
+            "How please?",
+            "How?",
+            "How did you say?"
+          ],
+          "uuid": "f0e28a8c-8f6c-4b6c-9920-cd08e2f1c371"
+        },
+        {
+          "originalWord": "Oma",
+          "correctTranslation": "gramdma",
+          "alternativeTranslations": [
+            "geatmother",
+            "greatma",
+            "grandy"
+          ],
+          "uuid": "cc5906c2-a9dc-4b42-963b-3395ee56de96"
+        },
+        {
+          "originalWord": "Opa",
+          "correctTranslation": "grandpa",
+          "alternativeTranslations": [
+            "greatfather",
+            "bigfather",
+            "bigpa",
+            "bigy"
+          ],
+          "uuid": "3e2c4c48-8430-4bfa-aa67-6b6792131306"
+        }
+      ],
+      "uuid": "a9375c13-6ef4-4532-a1cd-421efcb2d73c"
+    },
+    {
+      "uuid": "afac8c50-cfb5-48de-a120-c93990550929",
+      "name": "English 5 Unit 2/04",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "247c8fc3-9ce1-4634-a3b7-6a05ea4e6414",
+          "originalWord": "aufräumen",
+          "correctTranslation": "(to) tidy",
+          "alternativeTranslations": [
+            "(to) tydy",
+            "(to) tydi",
+            "(to) tired",
+            "(to) tire"
+          ]
+        },
+        {
+          "uuid": "d0eee17a-cfde-4607-a111-ded74767246f",
+          "originalWord": "geben",
+          "correctTranslation": "(to) give",
+          "alternativeTranslations": [
+            "(to) geve",
+            "(to) gave",
+            "(to) bring",
+            "(to) go"
+          ]
+        },
+        {
+          "uuid": "70a0b8d0-cf06-44f7-b357-84537dcfe2df",
+          "originalWord": "füttern",
+          "correctTranslation": "(to) feed",
+          "alternativeTranslations": [
+            "(to) ealt",
+            "(to) meet",
+            "(to) meat"
+          ]
+        },
+        {
+          "uuid": "4d94512e-666a-4291-adf9-ef280d4840c9",
+          "originalWord": "Fleisch",
+          "correctTranslation": "meat",
+          "alternativeTranslations": [
+            "meet",
+            "meit",
+            "fleet",
+            "heat"
+          ]
+        },
+        {
+          "uuid": "373a7304-ee6f-41ee-beaf-e71b06b35f03",
+          "originalWord": "trinken",
+          "correctTranslation": "(to) drink",
+          "alternativeTranslations": [
+            "(to) eat",
+            "(to) eet",
+            "(to) seat",
+            "(to) drop",
+            "(to) shop"
+          ]
+        },
+        {
+          "uuid": "8971940b-15e3-4813-95df-5f882ac55dde",
+          "originalWord": "Schüssel (auch Fressnapf)",
+          "correctTranslation": "bowl",
+          "alternativeTranslations": [
+            "owl",
+            "barn",
+            "blow",
+            "row",
+            "plate"
+          ]
+        },
+        {
+          "uuid": "084c4119-779f-4c58-9c46-52bd0da6c0c5",
+          "originalWord": "überall",
+          "correctTranslation": "everywhere",
+          "alternativeTranslations": [
+            "everybody",
+            "every",
+            "all",
+            "allwhere",
+            "allbody"
+          ]
+        },
+        {
+          "uuid": "9ac510f0-98b9-4eed-bc65-eeb425cb08cf",
+          "originalWord": "Karotte, Möhre",
+          "correctTranslation": "carrot",
+          "alternativeTranslations": [
+            "karot",
+            "carot",
+            "karrot",
+            "car",
+            "carret",
+            "karet"
+          ]
+        },
+        {
+          "uuid": "11bd0df1-78d9-41de-94b7-58640afbf673",
+          "originalWord": "manchmal",
+          "correctTranslation": "sometimes",
+          "alternativeTranslations": [
+            "some day",
+            "somewhere",
+            "every day",
+            "every time",
+            "all day"
+          ]
+        },
+        {
+          "uuid": "12f2bd65-5d8c-456b-bc7d-5418b6a3632d",
+          "originalWord": "versuchen zu tun",
+          "correctTranslation": "(to) try to do",
+          "alternativeTranslations": [
+            "(to) trai to do",
+            "(to) do to try",
+            "(to) do to trai",
+            "(to) tray a do"
+          ]
+        },
+        {
+          "uuid": "8feb6c50-db7a-4d2b-8597-1ea99e7407b8",
+          "originalWord": "legen, stellen, (etwas wohin) tun",
+          "correctTranslation": "(to) put",
+          "alternativeTranslations": [
+            "(to) par",
+            "(to) pet",
+            "(to) pit",
+            "(to) but",
+            "(to) pair"
+          ]
+        },
+        {
+          "uuid": "cc49808d-ab7f-49a9-9d69-469b4f7d5944",
+          "originalWord": "danach",
+          "correctTranslation": "after that",
+          "alternativeTranslations": [
+            "after there",
+            "before that",
+            "before there",
+            "late",
+            "later that"
+          ]
+        },
+        {
+          "uuid": "02ec295e-80d6-4a1c-8296-c30a2e4a2747",
+          "originalWord": "Futter",
+          "correctTranslation": "food",
+          "alternativeTranslations": [
+            "foot",
+            "fod",
+            "feet",
+            "melt",
+            "meal"
+          ]
+        },
+        {
+          "uuid": "1205050a-ddae-4821-afba-395793071a07",
+          "originalWord": "beobachten, sich etwas ansehen",
+          "correctTranslation": "(to) watch",
+          "alternativeTranslations": [
+            "(to) see",
+            "(to) be",
+            "(to) hear",
+            "(to) was",
+            "(to) bring"
+          ]
+        },
+        {
+          "uuid": "d255394d-2a3c-4d41-9951-55f9ec049e96",
+          "originalWord": "fernsehen",
+          "correctTranslation": "(to) watch TV",
+          "alternativeTranslations": [
+            "(to) see TV",
+            "(to) read TV",
+            "(to) television",
+            "(to) do TW"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "bf67eaf0-2ed7-4a11-a1d3-b3915a3a0419",
+      "name": "English 5 Unit 2/05",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "ff2e26a5-0a00-4527-96d1-6d1af2e8351f",
+          "originalWord": "Großeltern",
+          "correctTranslation": "grandparents",
+          "alternativeTranslations": [
+            "greatparents",
+            "greaterparents",
+            "bigparents",
+            "oldparents",
+            "old parents"
+          ]
+        },
+        {
+          "uuid": "e8d34f4f-65c2-4360-981f-f4495e2b3e64",
+          "originalWord": "oben, am oberen Ende, an der Spitze (von)",
+          "correctTranslation": "at the top (of)",
+          "alternativeTranslations": [
+            "at the bottom (of)",
+            "in the top (of)",
+            "in teh bottom (of)",
+            "at the top (on)",
+            "at the bottom (on)"
+          ]
+        },
+        {
+          "uuid": "ea976629-d8c1-4ab9-814c-e022eb4d10c1",
+          "originalWord": "weil",
+          "correctTranslation": "because",
+          "alternativeTranslations": [
+            "how",
+            "before",
+            "causa",
+            "when"
+          ]
+        },
+        {
+          "uuid": "3e71ab55-5035-4f21-b7cc-01e90247cf05",
+          "originalWord": "tot",
+          "correctTranslation": "dead",
+          "alternativeTranslations": [
+            "dear",
+            "death",
+            "tomb",
+            "doomed",
+            "damed"
+          ]
+        },
+        {
+          "uuid": "bd3a1322-7cea-4663-a459-e20252cdbb10",
+          "originalWord": "Kind",
+          "correctTranslation": "child",
+          "alternativeTranslations": [
+            "cild",
+            "shild",
+            "shild",
+            "chaild",
+            "cheild"
+          ]
+        },
+        {
+          "uuid": "edb0e68a-d3ff-46c1-83b8-6d4fe754cb5a",
+          "originalWord": "Kinder",
+          "correctTranslation": "children",
+          "alternativeTranslations": [
+            "childs",
+            "cheilds",
+            "chaildren",
+            "chailds",
+            "sons"
+          ]
+        },
+        {
+          "uuid": "2bec10c5-19f2-48da-b42c-02df161569fb",
+          "originalWord": "Sohn",
+          "correctTranslation": "son",
+          "alternativeTranslations": [
+            "sun",
+            "ser",
+            "surf",
+            "sad",
+            "daughter"
+          ]
+        },
+        {
+          "uuid": "818ad03f-7bd0-4e2d-af2f-590685c981d6",
+          "originalWord": "Tochter",
+          "correctTranslation": "daughter",
+          "alternativeTranslations": [
+            "taughter",
+            "daugter",
+            "doghter",
+            "daghter",
+            "dugter"
+          ]
+        },
+        {
+          "uuid": "b1056adf-78f5-4c3c-9d41-0abc101e4b87",
+          "originalWord": "Onkel",
+          "correctTranslation": "uncle",
+          "alternativeTranslations": [
+            "aunt",
+            "oncel",
+            "uncl",
+            "aunty",
+            "ugly"
+          ]
+        },
+        {
+          "uuid": "aa8ea0be-f9b9-40a4-bfd1-cf5fe298865a",
+          "originalWord": "Tante",
+          "correctTranslation": "aunt",
+          "alternativeTranslations": [
+            "ant",
+            "oncle",
+            "aut",
+            "auten",
+            "out",
+            "ounter"
+          ]
+        },
+        {
+          "uuid": "6d581c6f-8cb2-4c2a-b63d-1a6170e69bd2",
+          "originalWord": "verheiratet (mit)",
+          "correctTranslation": "married (to)",
+          "alternativeTranslations": [
+            "marry (with)",
+            "merry (to)",
+            "merry (with)",
+            "merely (with)",
+            "merely (to)"
+          ]
+        },
+        {
+          "uuid": "849a14bb-17a0-4a0e-b3fa-c47b9b862f67",
+          "originalWord": "Cousin, Cousine",
+          "correctTranslation": "cousin",
+          "alternativeTranslations": [
+            "cusin",
+            "cussion",
+            "causy"
+          ]
+        },
+        {
+          "uuid": "9513bfaa-c830-4816-a5ee-f3111e884151",
+          "originalWord": "also; deshalb, daher",
+          "correctTranslation": "so",
+          "alternativeTranslations": [
+            "also",
+            "all",
+            "with",
+            "sav"
+          ]
+        },
+        {
+          "uuid": "66993722-ff51-4e18-b56e-b995e608aaff",
+          "originalWord": "Enkel, Enkelin",
+          "correctTranslation": "grandchild",
+          "alternativeTranslations": [
+            "oldchild",
+            "youngchild",
+            "greatchild"
+          ]
+        },
+        {
+          "uuid": "f41207e3-df77-42b4-b626-37ae73e3838d",
+          "originalWord": "ledig, alleinsthend",
+          "correctTranslation": "single",
+          "alternativeTranslations": [
+            "sing",
+            "singer",
+            "sick",
+            "sicker",
+            "singleton"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "22da3fd0-5e12-4d59-851c-4045cecb9de2",
+      "name": "English 5 Unit 2/06",
+      "language": "en",
+      "version": 2,
+      "vocabulary": [
+        {
+          "uuid": "48d83a41-e253-4701-8cb2-c8acbbe7bf9f",
+          "originalWord": "ohne",
+          "correctTranslation": "without",
+          "alternativeTranslations": [
+            "with",
+            "out",
+            "outwith",
+            "only",
+            "our"
+          ]
+        },
+        {
+          "uuid": "77ad7a0a-33b8-4613-87a8-d2ddf0164667",
+          "originalWord": "geschieden",
+          "correctTranslation": "divorced",
+          "alternativeTranslations": [
+            "disvorced",
+            "devorced",
+            "unmarried",
+            "disarried"
+          ]
+        },
+        {
+          "uuid": "85950c09-3fa9-444d-b26b-cf33e3424c81",
+          "originalWord": "(einfach) nur, bloß",
+          "correctTranslation": "just",
+          "alternativeTranslations": [
+            "yost",
+            "justic",
+            "yust",
+            "your",
+            "yours"
+          ]
+        },
+        {
+          "uuid": "6d93bfbe-8d1b-4fdd-9648-edaf101cb87d",
+          "originalWord": "Mann",
+          "correctTranslation": "man",
+          "alternativeTranslations": [
+            "moon",
+            "him",
+            "he",
+            "human"
+          ]
+        },
+        {
+          "uuid": "6dc99487-b1b3-455b-ab06-baa6112c131c",
+          "originalWord": "Männer",
+          "correctTranslation": "men",
+          "alternativeTranslations": [
+            "mans",
+            "man",
+            "humanys",
+            "more"
+          ]
+        },
+        {
+          "uuid": "edd0acf9-247b-4366-b190-dbf69e42f9ca",
+          "originalWord": "Frau",
+          "correctTranslation": "woman",
+          "alternativeTranslations": [
+            "werman",
+            "whoman",
+            "wifi",
+            "worse",
+            "horseman"
+          ]
+        },
+        {
+          "uuid": "ed5f3d9b-31ec-4db0-8218-21669b81abfa",
+          "originalWord": "Frauen",
+          "correctTranslation": "women",
+          "alternativeTranslations": [
+            "womans",
+            "wimans",
+            "wifemen"
+          ]
+        },
+        {
+          "uuid": "ed5f3d9b-31ec-4db0-8218-21669b81abbb",
+          "originalWord": "sich erinnern (an)",
+          "correctTranslation": "(to) remember",
+          "alternativeTranslations": [
+            "(to) remain",
+            "(to) regard",
+            "(to) member",
+            "(to) main"
+          ]
+        },
+        {
+          "originalWord": "Ratespiel, Quiz",
+          "correctTranslation": "quiz",
+          "alternativeTranslations": [
+            "qwis",
+            "quis",
+            "qwiz"
+          ],
+          "uuid": "6555fd58-adaa-4685-a4aa-5969d4197703"
+        },
+        {
+          "originalWord": "Gast",
+          "correctTranslation": "guest",
+          "alternativeTranslations": [
+            "gest",
+            "gast",
+            "guts",
+            "horse",
+            "goon"
+          ],
+          "uuid": "53c7817a-c08a-4d09-a685-c21f538e503c"
+        },
+        {
+          "originalWord": "von",
+          "correctTranslation": "by",
+          "alternativeTranslations": [
+            "buy",
+            "zi",
+            "bay"
+          ],
+          "uuid": "72faf753-5757-4f62-93ee-a548a114d15b"
+        },
+        {
+          "originalWord": "(sich) duschen",
+          "correctTranslation": "(to) have a shower",
+          "alternativeTranslations": [
+            "(to) do a shower",
+            "(to) make a shower",
+            "(to) enjoy a shower",
+            "(to) shower"
+          ],
+          "uuid": "f48c0d2b-23f5-41e9-a83f-7b4952972cdd"
+        },
+        {
+          "originalWord": "Dusche",
+          "correctTranslation": "shower",
+          "alternativeTranslations": [
+            "water",
+            "bath",
+            "birth",
+            "show"
+          ],
+          "uuid": "e129ae97-1922-4587-a65e-94bd28c7ed66"
+        },
+        {
+          "originalWord": "Dinge fertig machen, Dunge vorbereiten",
+          "correctTranslation": "(to) get things ready",
+          "alternativeTranslations": [
+            "(to) do things right",
+            "(to) make things ready",
+            "(to) do things ready",
+            "(to) get things right"
+          ],
+          "uuid": "2e6e78a0-5707-42ad-9ebd-8960fcede8cb"
+        },
+        {
+          "originalWord": "fertig, bereit",
+          "correctTranslation": "ready",
+          "alternativeTranslations": [
+            "steady",
+            "o.k.",
+            "listy",
+            "barely",
+            "rerely"
+          ],
+          "uuid": "868de091-4565-4f6a-a723-979e450670f5"
+        }
+      ]
+    },
+    {
+      "uuid": "147754a2-1f24-454b-b32f-1be79a9c4ee3",
+      "name": "English 5 Unit 2/07",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "wieder, noch einmal",
+          "correctTranslation": "again",
+          "alternativeTranslations": [
+            "more",
+            "less",
+            "other",
+            "against"
+          ],
+          "uuid": "5c01aa9e-8900-4adc-966d-4068737176f2"
+        },
+        {
+          "originalWord": "die Hausaufgaben machen, die Schularbeiten machen",
+          "correctTranslation": "(to) do homework",
+          "alternativeTranslations": [
+            "(to) make homework",
+            "(to) get homework",
+            "(to) read homework"
+          ],
+          "uuid": "3a3c3123-05d3-4ea7-bbd8-2154a6c06aa8"
+        },
+        {
+          "originalWord": "interessant",
+          "correctTranslation": "interesting",
+          "alternativeTranslations": [
+            "boring",
+            "interessing",
+            "internship"
+          ],
+          "uuid": "72a8cef3-202a-49e9-bdbd-716f700ecaf4"
+        },
+        {
+          "originalWord": "andere(r,s)",
+          "correctTranslation": "other",
+          "alternativeTranslations": [
+            "once",
+            "our",
+            "theirs"
+          ],
+          "uuid": "8061e8b7-bd8d-416d-a682-11786ec8c387"
+        },
+        {
+          "originalWord": "Land",
+          "correctTranslation": "country",
+          "alternativeTranslations": [
+            "lan",
+            "lawn",
+            "church",
+            "cory"
+          ],
+          "uuid": "25480cd2-ec6d-4b4a-90d6-8a9890ae2dfc"
+        },
+        {
+          "originalWord": "Spion, Spionin",
+          "correctTranslation": "spy",
+          "alternativeTranslations": [
+            "sky",
+            "spai",
+            "spey"
+          ],
+          "uuid": "f593ee68-6457-4d40-b3a9-0cc3dc5dbb05"
+        },
+        {
+          "originalWord": "tragen, anhaben (Kleidung)",
+          "correctTranslation": "(to) wear",
+          "alternativeTranslations": [
+            "(to) care",
+            "(to) share",
+            "(to) spare",
+            "(to) where"
+          ],
+          "uuid": "c88974d9-c7f0-477d-9814-eb81cb9f25e8"
+        },
+        {
+          "originalWord": "(eine) Sonnenbrille",
+          "correctTranslation": "sunglasses",
+          "alternativeTranslations": [
+            "sunglass",
+            "sunnyglass",
+            "sunnyglasses",
+            "sun glas"
+          ],
+          "uuid": "f2c7a141-1dea-4006-8632-26269a3c3958"
+        },
+        {
+          "originalWord": "(eine) Brille",
+          "correctTranslation": "glasses",
+          "alternativeTranslations": [
+            "glass",
+            "eyes",
+            "eye",
+            "glares"
+          ],
+          "uuid": "da3a5b10-86d5-46e7-b7f0-ee96430f8e86"
+        },
+        {
+          "originalWord": "uns",
+          "correctTranslation": "us",
+          "alternativeTranslations": [
+            "our",
+            "you",
+            "yours",
+            "ours"
+          ],
+          "uuid": "ccebbd26-1b02-4c54-95e2-f23d05f5084d"
+        },
+        {
+          "originalWord": "passen",
+          "correctTranslation": "(to) fit",
+          "alternativeTranslations": [
+            "(to) mit",
+            "(to) pass",
+            "(to) pit",
+            "(to) fas"
+          ],
+          "uuid": "5fbb4ed0-b146-4f03-9d5a-ffe2e34f860e"
+        },
+        {
+          "originalWord": "Geschichte, Erzählung",
+          "correctTranslation": "story",
+          "alternativeTranslations": [
+            "lorry",
+            "sorry",
+            "histy",
+            "history"
+          ],
+          "uuid": "c53534c5-a3e6-491b-abfe-cd5ca816e30a"
+        },
+        {
+          "originalWord": "hören",
+          "correctTranslation": "(to) hear",
+          "alternativeTranslations": [
+            "(to) see",
+            "(to) heir",
+            "(to) wear",
+            "(to) shear"
+          ],
+          "uuid": "9099ef03-755d-484f-9ac5-ea7e85d13497"
+        },
+        {
+          "originalWord": "Wecker",
+          "correctTranslation": "alarm clock",
+          "alternativeTranslations": [
+            "shock clock",
+            "alarm watch",
+            "get up watch",
+            "get up clock",
+            "shock watch"
+          ],
+          "uuid": "20fa40d5-8253-4369-a5a2-ac4be0ade457"
+        }
+      ]
+    },
+    {
+      "uuid": "deacec3a-fefb-4874-c04c-9e2e8dc6f989",
+      "name": "English 5 Unit 2/08",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Rundgang, Tour (durchs Haus)",
+          "correctTranslation": "tour (of the house)",
+          "alternativeTranslations": [
+            "stay (of the house)",
+            "tower (of the house)",
+            "stow  (of the house)",
+            "show  (of the house)"
+          ],
+          "uuid": "b7a367da-8636-4625-a8f8-3057d3e6265c"
+        },
+        {
+          "originalWord": "anders aussehen",
+          "correctTranslation": "(to) look different",
+          "alternativeTranslations": [
+            "(to) look good",
+            "(to) look great",
+            "(to) look old",
+            "(to) look new"
+          ],
+          "uuid": "00f4d142-c961-4e4c-8c19-7dc23808f7bf"
+        },
+        {
+          "originalWord": "alt aussehen",
+          "correctTranslation": "(to) look old",
+          "alternativeTranslations": [
+            "(to) look good",
+            "(to) look great",
+            "(to) look different",
+            "(to) look new"
+          ],
+          "uuid": "ac081ab9-24c3-416c-835d-d6928f8ab8f1"
+        },
+        {
+          "originalWord": "toll aussehen",
+          "correctTranslation": "(to) look great",
+          "alternativeTranslations": [
+            "(to) look good",
+            "(to) look different",
+            "(to) look old",
+            "(to) look new"
+          ],
+          "uuid": "90420038-c5b7-4f3a-9368-2bf5dc2c3901"
+        },
+        {
+          "originalWord": "viel",
+          "correctTranslation": "a lot",
+          "alternativeTranslations": [
+            "a lots",
+            "a many",
+            "little",
+            "a little"
+          ],
+          "uuid": "2b41e352-6e6d-4ea8-9012-7d01619f5753"
+        },
+        {
+          "originalWord": "geschehen, passieren (mit)",
+          "correctTranslation": "(to) happen (to)",
+          "alternativeTranslations": [
+            "(to) happen (with)",
+            "(to) pass (to)",
+            "(to) pass (with)",
+            "(to) do (to)",
+            "(to) do (with)"
+          ],
+          "uuid": "4cad86aa-b305-4b9d-a1bc-f754b52b45e8"
+        },
+        {
+          "originalWord": "oben (örtlich, im Haus)",
+          "correctTranslation": "upstairs",
+          "alternativeTranslations": [
+            "up",
+            "down",
+            "downstairs",
+            "downscale",
+            "upscale"
+          ],
+          "uuid": "1700422b-acb7-4255-a953-c283fdf16184"
+        },
+        {
+          "originalWord": "unten (örtlich, im Haus)",
+          "correctTranslation": "downstairs",
+          "alternativeTranslations": [
+            "up",
+            "down",
+            "upstairs",
+            "downscale",
+            "upscale"
+          ],
+          "uuid": "304ddf5f-863d-4797-b763-fccbe5150993"
+        },
+        {
+          "originalWord": "Sofa",
+          "correctTranslation": "sofa",
+          "alternativeTranslations": [
+            "sofy",
+            "armchair",
+            "chairy",
+            "cochy"
+          ],
+          "uuid": "ac92461a-7a20-4c85-855d-583879f03625"
+        },
+        {
+          "originalWord": "Sessel",
+          "correctTranslation": "armchair",
+          "alternativeTranslations": [
+            "wheelchair",
+            "sofa",
+            "softchair",
+            "sofachair"
+          ],
+          "uuid": "480231c5-e796-43d4-9259-e5ec19cf18b9"
+        },
+        {
+          "originalWord": "Badewanne",
+          "correctTranslation": "bath",
+          "alternativeTranslations": [
+            "sink",
+            "both",
+            "water tube"
+          ],
+          "uuid": "64f1f025-9530-476b-9159-608d82e573ec"
+        },
+        {
+          "originalWord": "Esszimmer",
+          "correctTranslation": "dining room",
+          "alternativeTranslations": [
+            "eating room",
+            "sleeping room",
+            "cooky room"
+          ],
+          "uuid": "4b9d1ee1-70a0-4ee1-83cd-7c09bec4f85d"
+        },
+        {
+          "originalWord": "Kühlschrank",
+          "correctTranslation": "fridge",
+          "alternativeTranslations": [
+            "cooler",
+            "cool box",
+            "colder",
+            "cold closet"
+          ],
+          "uuid": "5984366f-a7db-4aec-b2b0-3dee5b442e7d"
+        },
+        {
+          "originalWord": "Geschirrspülmiaschine",
+          "correctTranslation": "dishwasher",
+          "alternativeTranslations": [
+            "washmachine",
+            "platemachine",
+            "dishmachine",
+            "platewasher"
+          ],
+          "uuid": "d794cf0c-1682-433e-bb29-3f4244007b0e"
+        },
+        {
+          "originalWord": "Spüle, Spülbecken",
+          "correctTranslation": "sink",
+          "alternativeTranslations": [
+            "wash",
+            "cup",
+            "saucer",
+            "store"
+          ],
+          "uuid": "6ce1b632-c543-4c5a-9db9-d9d94eb7b075"
+        }
+      ]
+    },
+    {
+      "uuid": "e23ba03e-7330-43fd-916a-52fc36c92f94",
+      "name": "English 5 Unit 2/09",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "e02465fa-4a5f-42e8-b0f5-84b9d2eef01d",
+          "originalWord": "Schrank",
+          "correctTranslation": "cupboard",
+          "alternativeTranslations": [
+            "dishboard",
+            "saucerboard",
+            "dishbox"
+          ]
+        },
+        {
+          "uuid": "8bc6db80-5313-4601-97e9-83b805cecbac",
+          "originalWord": "seltsam, sonderbar",
+          "correctTranslation": "strange",
+          "alternativeTranslations": [
+            "wrange",
+            "bad",
+            "unknown",
+            "rarely"
+          ]
+        },
+        {
+          "uuid": "438bbc11-109b-4ea3-81c4-79adeb133287",
+          "originalWord": "bequem",
+          "correctTranslation": "comfortable",
+          "alternativeTranslations": [
+            "soft",
+            "softy",
+            "softable",
+            "comfort"
+          ]
+        },
+        {
+          "uuid": "5f104af4-56e0-446a-b5d4-e4ca181f9778",
+          "originalWord": "Fußboden",
+          "correctTranslation": "floor",
+          "alternativeTranslations": [
+            "flower",
+            "bowden",
+            "boor",
+            "flat",
+            "brat"
+          ]
+        },
+        {
+          "uuid": "41499e07-104b-450a-8a19-edb46b233aa4",
+          "originalWord": "kalt",
+          "correctTranslation": "cold",
+          "alternativeTranslations": [
+            "car",
+            "cool",
+            "warm",
+            "warmer"
+          ]
+        },
+        {
+          "uuid": "b87b7b66-359f-4f94-92a4-f5e96b4dc078",
+          "originalWord": "heiß",
+          "correctTranslation": "hot",
+          "alternativeTranslations": [
+            "hat",
+            "cool",
+            "cold",
+            "warm",
+            "warmer"
+          ]
+        },
+        {
+          "uuid": "976ff2aa-479e-461f-ab77-87e659fcab88",
+          "originalWord": "da drüben, dort drüben",
+          "correctTranslation": "over there",
+          "alternativeTranslations": [
+            "there ower",
+            "there over",
+            "ower tehre",
+            "over theyr",
+            "ower their"
+          ]
+        },
+        {
+          "uuid": "aaba51c3-9ec2-4538-9628-797b8b1eb648",
+          "originalWord": "nachdem",
+          "correctTranslation": "after",
+          "alternativeTranslations": [
+            "over",
+            "before",
+            "behind",
+            "awter",
+            "ower"
+          ]
+        },
+        {
+          "uuid": "3c56d2fa-ff0e-409f-8ce9-cc77402dc299",
+          "originalWord": "bevor",
+          "correctTranslation": "before",
+          "alternativeTranslations": [
+            "befor",
+            "bevor",
+            "bevore",
+            "behind",
+            "behund"
+          ]
+        },
+        {
+          "uuid": "6dc2bd7d-6dc3-4f7a-aaa2-48f062b8b3b1",
+          "originalWord": "das Geschirr abwaschen",
+          "correctTranslation": "(to) do the dishes",
+          "alternativeTranslations": [
+            "(to) clean the plates",
+            "(to) wash the plates",
+            "(to) clean the dishes",
+            "(to) do the dishwasher"
+          ]
+        },
+        {
+          "uuid": "bf318915-8cd7-4e59-9d00-a175d64a5cfe",
+          "originalWord": "sie, ihnen",
+          "correctTranslation": "them",
+          "alternativeTranslations": [
+            "their",
+            "they",
+            "we",
+            "our"
+          ]
+        },
+        {
+          "uuid": "6b2916a4-8368-44ca-9275-5832767ff25f",
+          "originalWord": "Stunde",
+          "correctTranslation": "hour",
+          "alternativeTranslations": [
+            "our",
+            "clock",
+            "o' clock",
+            "one o' clock"
+          ]
+        },
+        {
+          "uuid": "67272ad4-5898-44e5-b7a4-a07d253b25af",
+          "originalWord": "sauber",
+          "correctTranslation": "clean",
+          "alternativeTranslations": [
+            "dirty",
+            "wasch",
+            "tidy",
+            "done"
+          ]
+        },
+        {
+          "uuid": "65fe5878-46a2-4ade-baa6-1576574f5320",
+          "originalWord": "Traum",
+          "correctTranslation": "dream",
+          "alternativeTranslations": [
+            "tream",
+            "tram",
+            "dreem",
+            "dearm"
+          ]
+        },
+        {
+          "uuid": "b7d91b88-3c26-4c1c-ada8-25f789e9993e",
+          "originalWord": "warm",
+          "correctTranslation": "warm",
+          "alternativeTranslations": [
+            "hot",
+            "cold",
+            "cool",
+            "sunny",
+            "star"
+          ]
+        }
+      ]
+    }
+  ]
+}

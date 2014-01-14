@@ -1,0 +1,511 @@
+{
+  "serverType": "AndrVoc-Server",
+  "serverName": "Englisch Klasse 4",
+  "serverVersion": 1,
+  "version": 11,
+  "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a04",
+  "lessons": [
+    {
+      "name": "English 4 Unit 1a",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "schwarz",
+          "correctTranslation": "black",
+          "alternativeTranslations": [
+            "back",
+            "back",
+            "rock",
+            "brock",
+            "bleck"
+          ],
+          "uuid": "2cdbb603-b81b-4dd0-9d8d-bfc7f7826b56"
+        },
+        {
+          "originalWord": "Haus",
+          "correctTranslation": "house",
+          "alternativeTranslations": [
+            "hause",
+            "hous",
+            "haous"
+          ],
+          "uuid": "d1ed4db7-8a49-4750-bcee-33cfabe3ec9b"
+        },
+        {
+          "originalWord": "Katze",
+          "correctTranslation": "cat",
+          "alternativeTranslations": [
+            "car",
+            "cap",
+            "cad",
+            "cet"
+          ],
+          "uuid": "922bbb00-1fe1-44a2-9e0d-c4cd573a21c5"
+        },
+        {
+          "originalWord": "Garten",
+          "correctTranslation": "garden",
+          "alternativeTranslations": [
+            "garten",
+            "gard",
+            "gart",
+            "green"
+          ],
+          "uuid": "f63dc3a2-6335-475b-8c34-5e43ac50df9d"
+        },
+        {
+          "originalWord": "grün",
+          "correctTranslation": "green",
+          "alternativeTranslations": [
+            "gren",
+            "gran",
+            "grant",
+            "red"
+          ],
+          "uuid": "ae807803-40e8-4e94-b968-57c6bbdd759f"
+        },
+        {
+          "originalWord": "Auge",
+          "correctTranslation": "eye",
+          "alternativeTranslations": [
+            "I",
+            "ay",
+            "ey",
+            "aye"
+          ],
+          "uuid": "2e245d85-93b0-452d-9c4d-b2f79ad9cd1a"
+        },
+        {
+          "originalWord": "Stuhl",
+          "correctTranslation": "chair",
+          "alternativeTranslations": [
+            "cair",
+            "cheir",
+            "ceir"
+          ],
+          "uuid": "06fbc077-f614-41fb-af3a-61adce67a195"
+        },
+        {
+          "originalWord": "Fußboden",
+          "correctTranslation": "floor",
+          "alternativeTranslations": [
+            "flor",
+            "flour",
+            "flur"
+          ],
+          "uuid": "b9d1eaaa-9831-4a7a-b039-e00d0c0398e5"
+        },
+        {
+          "originalWord": "Teppich",
+          "correctTranslation": "carpet",
+          "alternativeTranslations": [
+            "carpe",
+            "capet",
+            "carper"
+          ],
+          "uuid": "d057b796-1d31-4dd8-bf3d-d0fdad085d46"
+        },
+        {
+          "originalWord": "Bad",
+          "correctTranslation": "bath",
+          "alternativeTranslations": [
+            "bat",
+            "bah",
+            "baht"
+          ],
+          "uuid": "9334f89d-94f3-4cc2-be72-0897db852517"
+        }
+      ],
+      "uuid": "8268e513-d5c2-4bd1-9754-a6cdda47793e"
+    },
+    {
+      "name": "English 4 Unit 1b",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Hexe",
+          "correctTranslation": "witch",
+          "alternativeTranslations": [
+            "with",
+            "witc",
+            "wirtch",
+            "witsch"
+          ],
+          "uuid": "8313af62-d496-4b4f-ad87-e98880e4c594"
+        },
+        {
+          "originalWord": "Banane",
+          "correctTranslation": "banana",
+          "alternativeTranslations": [
+            "banane",
+            "benana",
+            "benena"
+          ],
+          "uuid": "ed134dd8-468d-469a-acb8-db0892fd60ff"
+        },
+        {
+          "originalWord": "Gemüse",
+          "correctTranslation": "vegetables",
+          "alternativeTranslations": [
+            "vegetabl",
+            "veggy",
+            "veggi",
+            "veggitables"
+          ],
+          "uuid": "f8118518-ff09-402a-9ced-26844fa26e08"
+        },
+        {
+          "originalWord": "Frühstück",
+          "correctTranslation": "breakfast",
+          "alternativeTranslations": [
+            "brekfast",
+            "breakfest",
+            "freebreak",
+            "freebraik"
+          ],
+          "uuid": "27a5ea38-a240-4a37-aa71-07267033bc87"
+        },
+        {
+          "originalWord": "Wasser",
+          "correctTranslation": "water",
+          "alternativeTranslations": [
+            "vater",
+            "wadder",
+            "weter",
+            "wett"
+          ],
+          "uuid": "43a71f82-0e7b-48a4-9610-e19793504425"
+        },
+        {
+          "originalWord": "Saft",
+          "correctTranslation": "juice",
+          "alternativeTranslations": [
+            "shuise",
+            "chuce",
+            "juce",
+            "yous"
+          ],
+          "uuid": "fa92a0db-1737-4215-87ce-ca1d6b0f2634"
+        },
+        {
+          "originalWord": "Süßigkeiten",
+          "correctTranslation": "sweets",
+          "alternativeTranslations": [
+            "swets",
+            "sweat",
+            "sweats"
+          ],
+          "uuid": "763be780-d220-4d83-96ce-d1a0b520121d"
+        },
+        {
+          "originalWord": "Apfel",
+          "correctTranslation": "apple",
+          "alternativeTranslations": [
+            "abble",
+            "applet",
+            "aple"
+          ],
+          "uuid": "cd9eb93f-74c3-4321-acd7-73d14de0b76f"
+        },
+        {
+          "originalWord": "Honig",
+          "correctTranslation": "honey",
+          "alternativeTranslations": [
+            "huney",
+            "hunny",
+            "huney"
+          ],
+          "uuid": "28461e92-61bf-4d18-a0f4-45fe900be39d"
+        },
+        {
+          "originalWord": "Würstchen",
+          "correctTranslation": "sausage",
+          "alternativeTranslations": [
+            "sagesau",
+            "susage",
+            "sasage"
+          ],
+          "uuid": "1dc282aa-3fae-4a49-8ff0-201db641e4a8"
+        }
+      ],
+      "uuid": "1dbabe93-1b86-4728-8775-c2c01cb8c439"
+    },
+    {
+      "name": "English 4 Unit 1c",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Ei",
+          "correctTranslation": "egg",
+          "alternativeTranslations": [
+            "eg",
+            "eck",
+            "ek",
+            "egh"
+          ],
+          "uuid": "d01a6eda-faa8-4814-9d2f-e4130307411e"
+        },
+        {
+          "originalWord": "vor (örtlich)",
+          "correctTranslation": "in front of",
+          "alternativeTranslations": [
+            "behind",
+            "in vronf fo",
+            "pehind",
+            "next to"
+          ],
+          "uuid": "0189d20d-f8f3-4f87-a972-56e9e4c989b9"
+        },
+        {
+          "originalWord": "unter (örtlich)",
+          "correctTranslation": "under",
+          "alternativeTranslations": [
+            "on",
+            "behind",
+            "near",
+            "next to"
+          ],
+          "uuid": "5025e482-92b9-459a-886d-1ff991526572"
+        },
+        {
+          "originalWord": "auf dem Tisch",
+          "correctTranslation": "on the table",
+          "alternativeTranslations": [
+            "at the tabla",
+            "under the table",
+            "next to the table",
+            "in the table"
+          ],
+          "uuid": "1e979ada-6747-4188-a9d1-60ee08cc66b3"
+        },
+        {
+          "originalWord": "hinter (örtlich)",
+          "correctTranslation": "behind",
+          "alternativeTranslations": [
+            "next to",
+            "in front of",
+            "under",
+            "on"
+          ],
+          "uuid": "44f57386-45ca-4428-8a88-ebc8c97e3ebd"
+        },
+        {
+          "originalWord": "zwischen (örtlich)",
+          "correctTranslation": "between",
+          "alternativeTranslations": [
+            "under",
+            "bitwin",
+            "next to",
+            "on"
+          ],
+          "uuid": "91536054-f4b0-4456-85d4-75f1ce91cdc2"
+        },
+        {
+          "originalWord": "neben",
+          "correctTranslation": "next to",
+          "alternativeTranslations": [
+            "near",
+            "under",
+            "on"
+          ],
+          "uuid": "934d58bd-5c75-4f31-9d8c-14c6ebc856fb"
+        },
+        {
+          "originalWord": "im Korb",
+          "correctTranslation": "in the basket",
+          "alternativeTranslations": [
+            "on the basket",
+            "under the basket",
+            "between the basket"
+          ],
+          "uuid": "ca5fe3a6-9978-4eaf-afb9-e642e2bc032f"
+        },
+        {
+          "originalWord": "Kissen",
+          "correctTranslation": "pillow",
+          "alternativeTranslations": [
+            "pillo",
+            "pilow",
+            "pilly"
+          ],
+          "uuid": "22107e26-a062-49f1-a974-252a7253fb70"
+        },
+        {
+          "originalWord": "Buch",
+          "correctTranslation": "book",
+          "alternativeTranslations": [
+            "bok",
+            "buk",
+            "buuk"
+          ],
+          "uuid": "0549fd63-a5d6-4921-a7f6-f73428e08664"
+        }
+      ],
+      "uuid": "c7d784d2-173b-4701-8764-9bc9eaaae8a0"
+    },
+    {
+      "name": "English 4 Unit 1d",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Radiergummi",
+          "correctTranslation": "rubber",
+          "alternativeTranslations": [
+            "rupper",
+            "rabbit",
+            "gommy",
+            "rubish"
+          ],
+          "uuid": "3fad8ca0-8dea-4ddc-9841-0fd5c2d54f1b"
+        },
+        {
+          "originalWord": "König",
+          "correctTranslation": "King",
+          "alternativeTranslations": [
+            "Queen",
+            "Kink",
+            "Quyn",
+            "Quing"
+          ],
+          "uuid": "dadd8e3a-3d8f-4606-9075-777b9e63ca07"
+        },
+        {
+          "originalWord": "Schaf",
+          "correctTranslation": "sheep",
+          "alternativeTranslations": [
+            "shep",
+            "shiip",
+            "goat",
+            "goot"
+          ],
+          "uuid": "8c24483b-b64b-401e-af19-c455a80ccc6f"
+        },
+        {
+          "originalWord": "Flugzeig",
+          "correctTranslation": "aeroplane",
+          "alternativeTranslations": [
+            "arplain",
+            "airship",
+            "aeroship",
+            "flyer"
+          ],
+          "uuid": "7033958e-c024-439d-841a-8b424b72fd85"
+        },
+        {
+          "originalWord": "Stuhl",
+          "correctTranslation": "chair",
+          "alternativeTranslations": [
+            "cair",
+            "cheir",
+            "ceir"
+          ],
+          "uuid": "7f1e7a78-fcd7-4496-bffa-cde7bd74427f"
+        },
+        {
+          "originalWord": "Füller)",
+          "correctTranslation": "pen",
+          "alternativeTranslations": [
+            "penn",
+            "pain",
+            "pencil",
+            "felt tip"
+          ],
+          "uuid": "6642b516-0f44-49f7-9a3b-8f2ed6beba0a"
+        },
+        {
+          "originalWord": "Hund",
+          "correctTranslation": "dog",
+          "alternativeTranslations": [
+            "dock",
+            "cat",
+            "door",
+            "car"
+          ],
+          "uuid": "70b2f927-bb1f-4154-8299-2a86eb65f0bf"
+        },
+        {
+          "originalWord": "Pilz",
+          "correctTranslation": "mushroom",
+          "alternativeTranslations": [
+            "meadow",
+            "mushroam",
+            "mooreroom",
+            "mitsroom"
+          ],
+          "uuid": "ecd2900a-6fc1-4e91-9cab-bf596eaf0e44"
+        },
+        {
+          "originalWord": "Tourits",
+          "correctTranslation": "tourist",
+          "alternativeTranslations": [
+            "torist",
+            "toorist",
+            "terrorist",
+            "turist"
+          ],
+          "uuid": "a8acdfe8-3ddc-4fd9-a7f4-68cc01c93c04"
+        },
+        {
+          "originalWord": "Drache",
+          "correctTranslation": "kite",
+          "alternativeTranslations": [
+            "kit",
+            "kate",
+            "kute",
+            "kait"
+          ],
+          "uuid": "2978b04b-5d8c-4da3-a8da-4337771ce158"
+        },
+        {
+          "originalWord": "Baum",
+          "correctTranslation": "tree",
+          "alternativeTranslations": [
+            "three",
+            "try",
+            "trei",
+            "tri"
+          ],
+          "uuid": "7ae2deac-2247-4ea8-99c6-7ddc9b3ee750"
+        },
+        {
+          "originalWord": "Volleyball",
+          "correctTranslation": "volleyball",
+          "alternativeTranslations": [
+            "voleyball",
+            "wolleyball",
+            "volley",
+            "vollyball"
+          ],
+          "uuid": "7e4cb28f-d5f3-494c-aadd-d53bca0b3985"
+        },
+        {
+          "originalWord": "Rollstuhl",
+          "correctTranslation": "wheelchair",
+          "alternativeTranslations": [
+            "chairwheel",
+            "wheel chair",
+            "chair wheel",
+            "hot wheel",
+            "wheel hot"
+          ],
+          "uuid": "a67522f6-1e1d-4fad-8659-2f42e306364b"
+        },
+        {
+          "originalWord": "Fernseher",
+          "correctTranslation": "television",
+          "alternativeTranslations": [
+            "farsee",
+            "tellyvision",
+            "vision"
+          ],
+          "uuid": "03cb51ac-ac98-4c47-c091-3e9512dcb97b"
+        }
+      ],
+      "uuid": "b9c36151-9678-4fbd-b178-9d34f4c1738b"
+    }
+  ]
+}
