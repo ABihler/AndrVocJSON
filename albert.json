@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Alberts Vokabelserver",
   "serverVersion": 1,
-  "version": 9,
+  "version": 10,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242acd",
   "lessons": [
     {
@@ -2786,6 +2786,180 @@
             "shock watch"
           ],
           "uuid": "20fa40d5-8253-4369-a5a2-ac4be0ade457"
+        }
+      ]
+    },
+    {
+      "uuid": "deacec3a-fefb-4874-c04c-9e2e8dc6f989",
+      "name": "en_unit02_08",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "originalWord": "Rundgang, Tour (durchs Haus)",
+          "correctTranslation": "tour (of the house)",
+          "alternativeTranslations": [
+            "stay (of the house)",
+            "tower (of the house)",
+            "stow  (of the house)",
+            "show  (of the house)"
+          ],
+          "uuid": "b7a367da-8636-4625-a8f8-3057d3e6265c"
+        },
+        {
+          "originalWord": "anders aussehen",
+          "correctTranslation": "(to) look different",
+          "alternativeTranslations": [
+            "(to) look good",
+            "(to) look great",
+            "(to) look old",
+            "(to) look new"
+          ],
+          "uuid": "00f4d142-c961-4e4c-8c19-7dc23808f7bf"
+        },
+        {
+          "originalWord": "alt aussehen",
+          "correctTranslation": "(to) look old",
+          "alternativeTranslations": [
+            "(to) look good",
+            "(to) look great",
+            "(to) look different",
+            "(to) look new"
+          ],
+          "uuid": "ac081ab9-24c3-416c-835d-d6928f8ab8f1"
+        },
+        {
+          "originalWord": "toll aussehen",
+          "correctTranslation": "(to) look great",
+          "alternativeTranslations": [
+            "(to) look good",
+            "(to) look different",
+            "(to) look old",
+            "(to) look new"
+          ],
+          "uuid": "90420038-c5b7-4f3a-9368-2bf5dc2c3901"
+        },
+        {
+          "originalWord": "viel",
+          "correctTranslation": "a lot",
+          "alternativeTranslations": [
+            "a lots",
+            "a many",
+            "little",
+            "a little"
+          ],
+          "uuid": "2b41e352-6e6d-4ea8-9012-7d01619f5753"
+        },
+        {
+          "originalWord": "geschehen, passieren (mit)",
+          "correctTranslation": "(to) happen (to)",
+          "alternativeTranslations": [
+            "(to) happen (with)",
+            "(to) pass (to)",
+            "(to) pass (with)",
+            "(to) do (to)",
+            "(to) do (with)"
+          ],
+          "uuid": "4cad86aa-b305-4b9d-a1bc-f754b52b45e8"
+        },
+        {
+          "originalWord": "oben (örtlich, im Haus)",
+          "correctTranslation": "upstairs",
+          "alternativeTranslations": [
+            "up",
+            "down",
+            "downstairs",
+            "downscale",
+            "upscale"
+          ],
+          "uuid": "1700422b-acb7-4255-a953-c283fdf16184"
+        },
+        {
+          "originalWord": "unten (örtlich, im Haus)",
+          "correctTranslation": "downstairs",
+          "alternativeTranslations": [
+            "up",
+            "down",
+            "upstairs",
+            "downscale",
+            "upscale"
+          ],
+          "uuid": "304ddf5f-863d-4797-b763-fccbe5150993"
+        },
+        {
+          "originalWord": "Sofa",
+          "correctTranslation": "sofa",
+          "alternativeTranslations": [
+            "sofy",
+            "armchair",
+            "chairy",
+            "cochy"
+          ],
+          "uuid": "ac92461a-7a20-4c85-855d-583879f03625"
+        },
+        {
+          "originalWord": "Sessel",
+          "correctTranslation": "armchair",
+          "alternativeTranslations": [
+            "wheelchair",
+            "sofa",
+            "softchair",
+            "sofachair"
+          ],
+          "uuid": "480231c5-e796-43d4-9259-e5ec19cf18b9"
+        },
+        {
+          "originalWord": "Badewanne",
+          "correctTranslation": "bath",
+          "alternativeTranslations": [
+            "sink",
+            "both",
+            "water tube"
+          ],
+          "uuid": "64f1f025-9530-476b-9159-608d82e573ec"
+        },
+        {
+          "originalWord": "Esszimmer",
+          "correctTranslation": "dining room",
+          "alternativeTranslations": [
+            "eating room",
+            "sleeping room",
+            "cooky room"
+          ],
+          "uuid": "4b9d1ee1-70a0-4ee1-83cd-7c09bec4f85d"
+        },
+        {
+          "originalWord": "Kühlschrank",
+          "correctTranslation": "fridge",
+          "alternativeTranslations": [
+            "cooler",
+            "cool box",
+            "colder",
+            "cold closet"
+          ],
+          "uuid": "5984366f-a7db-4aec-b2b0-3dee5b442e7d"
+        },
+        {
+          "originalWord": "Geschirrspülmiaschine",
+          "correctTranslation": "dishwasher",
+          "alternativeTranslations": [
+            "washmachine",
+            "platemachine",
+            "dishmachine",
+            "platewasher"
+          ],
+          "uuid": "d794cf0c-1682-433e-bb29-3f4244007b0e"
+        },
+        {
+          "originalWord": "Spüle, Spülbecken",
+          "correctTranslation": "sink",
+          "alternativeTranslations": [
+            "wash",
+            "cup",
+            "saucer",
+            "store"
+          ],
+          "uuid": "6ce1b632-c543-4c5a-9db9-d9d94eb7b075"
         }
       ]
     }
