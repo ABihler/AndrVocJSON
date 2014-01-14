@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Alberts Vokabelserver",
   "serverVersion": 1,
-  "version": 10,
+  "version": 11,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242acd",
   "lessons": [
     {
@@ -2960,6 +2960,184 @@
             "store"
           ],
           "uuid": "6ce1b632-c543-4c5a-9db9-d9d94eb7b075"
+        }
+      ]
+    },
+    {
+      "uuid": "e23ba03e-7330-43fd-916a-52fc36c92f94",
+      "name": "en_unit02_09",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "e02465fa-4a5f-42e8-b0f5-84b9d2eef01d",
+          "originalWord": "Schrank",
+          "correctTranslation": "cupboard",
+          "alternativeTranslations": [
+            "dishboard",
+            "saucerboard",
+            "dishbox"
+          ]
+        },
+        {
+          "uuid": "8bc6db80-5313-4601-97e9-83b805cecbac",
+          "originalWord": "seltsam, sonderbar",
+          "correctTranslation": "strange",
+          "alternativeTranslations": [
+            "wrange",
+            "bad",
+            "unknown",
+            "rarely"
+          ]
+        },
+        {
+          "uuid": "438bbc11-109b-4ea3-81c4-79adeb133287",
+          "originalWord": "bequem",
+          "correctTranslation": "comfortable",
+          "alternativeTranslations": [
+            "soft",
+            "softy",
+            "softable",
+            "comfort"
+          ]
+        },
+        {
+          "uuid": "5f104af4-56e0-446a-b5d4-e4ca181f9778",
+          "originalWord": "Fußboden",
+          "correctTranslation": "floor",
+          "alternativeTranslations": [
+            "flower",
+            "bowden",
+            "boor",
+            "flat",
+            "brat"
+          ]
+        },
+        {
+          "uuid": "41499e07-104b-450a-8a19-edb46b233aa4",
+          "originalWord": "kalt",
+          "correctTranslation": "cold",
+          "alternativeTranslations": [
+            "car",
+            "cool",
+            "warm",
+            "warmer"
+          ]
+        },
+        {
+          "uuid": "b87b7b66-359f-4f94-92a4-f5e96b4dc078",
+          "originalWord": "heiß",
+          "correctTranslation": "hot",
+          "alternativeTranslations": [
+            "hat",
+            "cool",
+            "cold",
+            "warm",
+            "warmer"
+          ]
+        },
+        {
+          "uuid": "976ff2aa-479e-461f-ab77-87e659fcab88",
+          "originalWord": "da drüben, dort drüben",
+          "correctTranslation": "over there",
+          "alternativeTranslations": [
+            "there ower",
+            "there over",
+            "ower tehre",
+            "over theyr",
+            "ower their"
+          ]
+        },
+        {
+          "uuid": "aaba51c3-9ec2-4538-9628-797b8b1eb648",
+          "originalWord": "nachdem",
+          "correctTranslation": "after",
+          "alternativeTranslations": [
+            "over",
+            "before",
+            "behind",
+            "awter",
+            "ower"
+          ]
+        },
+        {
+          "uuid": "3c56d2fa-ff0e-409f-8ce9-cc77402dc299",
+          "originalWord": "bevor",
+          "correctTranslation": "before",
+          "alternativeTranslations": [
+            "befor",
+            "bevor",
+            "bevore",
+            "behind",
+            "behund"
+          ]
+        },
+        {
+          "uuid": "6dc2bd7d-6dc3-4f7a-aaa2-48f062b8b3b1",
+          "originalWord": "das Geschirr abwaschen",
+          "correctTranslation": "(to) do the dishes",
+          "alternativeTranslations": [
+            "(to) clean the plates",
+            "(to) wash the plates",
+            "(to) clean the dishes",
+            "(to) do the dishwasher"
+          ]
+        },
+        {
+          "uuid": "bf318915-8cd7-4e59-9d00-a175d64a5cfe",
+          "originalWord": "sie, ihnen",
+          "correctTranslation": "them",
+          "alternativeTranslations": [
+            "their",
+            "they",
+            "we",
+            "our"
+          ]
+        },
+        {
+          "uuid": "6b2916a4-8368-44ca-9275-5832767ff25f",
+          "originalWord": "Stunde",
+          "correctTranslation": "hour",
+          "alternativeTranslations": [
+            "our",
+            "clock",
+            "o' clock",
+            "one o' clock"
+          ]
+        },
+        {
+          "uuid": "67272ad4-5898-44e5-b7a4-a07d253b25af",
+          "originalWord": "sauber",
+          "correctTranslation": "clean",
+          "alternativeTranslations": [
+            "dirty",
+            "wasch",
+            "tidy",
+            "done"
+          ]
+        },
+        {
+          "uuid": "65fe5878-46a2-4ade-baa6-1576574f5320",
+          "originalWord": "Traum",
+          "correctTranslation": "dream",
+          "alternativeTranslations": [
+            "tream",
+            "tram",
+            "dreem",
+            "dearm"
+          ]
+        },
+        {
+          "uuid": "b7d91b88-3c26-4c1c-ada8-25f789e9993e",
+          "originalWord": "warm",
+          "correctTranslation": "warm",
+          "alternativeTranslations": [
+            "hot",
+            "cold",
+            "cool",
+            "sunny",
+            "star"
+          ]
         }
       ]
     }
