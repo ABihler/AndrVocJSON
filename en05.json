@@ -2342,6 +2342,17 @@
           ],
           "uuid": "304ddf5f-863d-4797-b763-fccbe5150993"
         },
+ {
+          "originalWord": "Treppe, Treppenstufe",
+          "correctTranslation": "stairs",
+          "alternativeTranslations": [
+            "stay",
+            "steps",
+            "stones",
+            "pairs"
+          ],
+          "uuid": "b7a367da-8636-4625-a8f8-3057d3e6265b"
+        },
         {
           "originalWord": "Sofa",
           "correctTranslation": "sofa",
@@ -2395,6 +2406,17 @@
           ],
           "uuid": "5984366f-a7db-4aec-b2b0-3dee5b442e7d"
         },
+ {
+          "originalWord": "Herd",
+          "correctTranslation": "cooker",
+          "alternativeTranslations": [
+            "snooker",
+            "cook",
+            "hook)",
+            "coocky"
+          ],
+          "uuid": "b7a367da-8636-4625-a8f8-3057d3e62658"
+        },
         {
           "originalWord": "Geschirrspülmiaschine",
           "correctTranslation": "dishwasher",
@@ -2423,7 +2445,7 @@
       "uuid": "e23ba03e-7330-43fd-916a-52fc36c92f94",
       "name": "English 5 Unit 2/09",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "uuid": "e02465fa-4a5f-42e8-b0f5-84b9d2eef01d",
@@ -2593,6 +2615,18 @@
             "cool",
             "sunny",
             "star"
+          ]
+        },
+        {
+          "uuid": "b7d91b88-3c26-4c1c-ada8-25f789e9993f",
+          "originalWord": "witzig, komisch",
+          "correctTranslation": "funny",
+          "alternativeTranslations": [
+            "tweety",
+            "sweety",
+            "cool",
+            "sunny",
+            "starty"
           ]
         }
       ]
