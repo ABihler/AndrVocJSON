@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 4",
   "serverVersion": 1,
-  "version": 11,
+  "version": 12,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a04",
   "lessons": [
     {
@@ -349,7 +349,7 @@
     {
       "name": "English 4 Unit 1d",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "originalWord": "Radiergummi",
@@ -385,7 +385,7 @@
           "uuid": "8c24483b-b64b-401e-af19-c455a80ccc6f"
         },
         {
-          "originalWord": "Flugzeig",
+          "originalWord": "Flugzeug",
           "correctTranslation": "aeroplane",
           "alternativeTranslations": [
             "arplain",
@@ -406,7 +406,7 @@
           "uuid": "7f1e7a78-fcd7-4496-bffa-cde7bd74427f"
         },
         {
-          "originalWord": "Füller)",
+          "originalWord": "Füller",
           "correctTranslation": "pen",
           "alternativeTranslations": [
             "penn",
