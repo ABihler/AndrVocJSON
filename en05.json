@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 11,
+  "version": 15,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -2249,7 +2249,7 @@
       "uuid": "deacec3a-fefb-4874-c04c-9e2e8dc6f989",
       "name": "English 5 Unit 2/08",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "originalWord": "Rundgang, Tour (durchs Haus)",
@@ -2342,7 +2342,7 @@
           ],
           "uuid": "304ddf5f-863d-4797-b763-fccbe5150993"
         },
- {
+        {
           "originalWord": "Treppe, Treppenstufe",
           "correctTranslation": "stairs",
           "alternativeTranslations": [
@@ -2406,7 +2406,7 @@
           ],
           "uuid": "5984366f-a7db-4aec-b2b0-3dee5b442e7d"
         },
- {
+        {
           "originalWord": "Herd",
           "correctTranslation": "cooker",
           "alternativeTranslations": [
@@ -2627,6 +2627,188 @@
             "cool",
             "sunny",
             "starty"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "4af38217-868a-46cf-86ee-2a6f93b979f1",
+      "name": "English 5 Unit 3/01",
+      "language": "en",
+      "version": 2,
+      "vocabulary": [
+        {
+          "uuid": "fc65961e-9276-4ee9-b031-e8b9b9861b3c",
+          "originalWord": "Sport, Sportart",
+          "correctTranslation": "sport",
+          "alternativeTranslations": [
+            "team",
+            "darts",
+            "football",
+            "tennis"
+          ]
+        },
+        {
+          "uuid": "b3b3a00f-1677-43c3-b64c-2884c173b223",
+          "originalWord": "montags",
+          "correctTranslation": "on Mondays",
+          "alternativeTranslations": [
+            "Monday",
+            "at Monday",
+            "for Monday",
+            "with Monday"
+          ]
+        },
+        {
+          "uuid": "8dc94049-d5a5-4263-82d0-0a5a74afe8f6",
+          "originalWord": "Tanzen",
+          "correctTranslation": "dancing",
+          "alternativeTranslations": [
+            "walking",
+            "dance",
+            "walk",
+            "dressing",
+            "dress"
+          ]
+        },
+        {
+          "uuid": "52f820b7-bead-4ade-b2da-598f723e1fee",
+          "originalWord": "Tischtennis",
+          "correctTranslation": "table tennis",
+          "alternativeTranslations": [
+            "wing tennis",
+            "tennis table",
+            "wing table",
+            "table ball",
+            "ball table"
+          ]
+        },
+        {
+          "uuid": "d40a6ffd-dcae-495e-a903-a90d05443c84",
+          "originalWord": "Freizeit, freie Zeit",
+          "correctTranslation": "free time",
+          "alternativeTranslations": [
+            "lunch time",
+            "off time",
+            "lazy time",
+            "freedom",
+            "freely"
+          ]
+        },
+        {
+          "uuid": "fceeff1e-9276-4ee9-b031-e8b9b9861b3c",
+          "originalWord": "Gitarre",
+          "correctTranslation": "guitar",
+          "alternativeTranslations": [
+            "team",
+            "darts",
+            "football",
+            "tennis"
+          ]
+        },
+        {
+          "uuid": "b3eea00f-1677-43c3-b64c-2884c173b223",
+          "originalWord": "Modell (-flugzeug, -schiff usw.)",
+          "correctTranslation": "model",
+          "alternativeTranslations": [
+            "Monday",
+            "at Monday",
+            "for Monday",
+            "with Monday"
+          ]
+        },
+        {
+          "uuid": "8dee4049-d5a5-4263-82d0-0a5a74afe8f6",
+          "originalWord": "reiten gehen",
+          "correctTranslation": "(to) go riding",
+          "alternativeTranslations": [
+            "walking",
+            "dance",
+            "walk",
+            "dressing",
+            "dress"
+          ]
+        },
+        {
+          "uuid": "52ee20b7-bead-4ade-b2da-598f723e1fee",
+          "originalWord": "Briefmarke",
+          "correctTranslation": "stamp",
+          "alternativeTranslations": [
+            "wing tennis",
+            "tennis table",
+            "wing table",
+            "table ball",
+            "ball table"
+          ]
+        },
+        {
+          "uuid": "d4ee6ffd-dcae-495e-a903-a90d05443c84",
+          "originalWord": "(Spiel-, Post-) Karte",
+          "correctTranslation": "card",
+          "alternativeTranslations": [
+            "lunch time",
+            "off time",
+            "lazy time",
+            "freedom",
+            "freely"
+          ]
+        },
+        {
+          "uuid": "fc65221e-9276-4ee9-b031-e8b9b9861b3c",
+          "originalWord": "sammeln",
+          "correctTranslation": "(to) collect",
+          "alternativeTranslations": [
+            "team",
+            "darts",
+            "football",
+            "tennis"
+          ]
+        },
+        {
+          "uuid": "b3b3220f-1677-43c3-b64c-2884c173b223",
+          "originalWord": "Ich schwimme gerne.",
+          "correctTranslation": "I like swimming.",
+          "alternativeTranslations": [
+            "Monday",
+            "at Monday",
+            "for Monday",
+            "with Monday"
+          ]
+        },
+        {
+          "uuid": "8dc92249-d5a5-4263-82d0-0a5a74afe8f6",
+          "originalWord": "Schuhe",
+          "correctTranslation": "shoes",
+          "alternativeTranslations": [
+            "walking",
+            "dance",
+            "walk",
+            "dressing",
+            "dress"
+          ]
+        },
+        {
+          "uuid": "52f822b7-bead-4ade-b2da-598f723e1fee",
+          "originalWord": "Kleid",
+          "correctTranslation": "dress",
+          "alternativeTranslations": [
+            "wing tennis",
+            "tennis table",
+            "wing table",
+            "table ball",
+            "ball table"
+          ]
+        },
+        {
+          "uuid": "d40a22fd-dcae-495e-a903-a90d05443c84",
+          "originalWord": "Hemd",
+          "correctTranslation": "shirt",
+          "alternativeTranslations": [
+            "lunch time",
+            "off time",
+            "lazy time",
+            "freedom",
+            "freely"
           ]
         }
       ]
