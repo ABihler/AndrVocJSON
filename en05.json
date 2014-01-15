@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 15,
+  "version": 16,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -2809,6 +2809,186 @@
             "lazy time",
             "freedom",
             "freely"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "bdba49fa-ba44-48ec-85b5-73ee2252a629",
+      "name": "English 5 Unit 3/02",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "90c7e941-19cf-4e64-9815-58cb51e208be",
+          "originalWord": "Verkäufer, Verkäuferin",
+          "correctTranslation": "shop assistant",
+          "alternativeTranslations": [
+            "shoper",
+            "saler",
+            "shop man / shop woman",
+            "shop worker",
+            "buyer"
+          ]
+        },
+        {
+          "uuid": "4634687c-cf57-40c8-9709-065f7131190a",
+          "originalWord": "Guten Tag. (nachmittags)",
+          "correctTranslation": "Good afternoon.",
+          "alternativeTranslations": [
+            "Good morning.",
+            "Good evening.",
+            "Good bye.",
+            "Good night."
+          ]
+        },
+        {
+          "uuid": "2885c9e5-a436-47b3-aee1-9a3fd8d4162b",
+          "originalWord": "Größe (Kleidergröße)",
+          "correctTranslation": "size",
+          "alternativeTranslations": [
+            "height",
+            "big",
+            "tall",
+            "small",
+            "wall"
+          ]
+        },
+        {
+          "uuid": "f50ba45b-6465-449b-81af-4c11626ab263",
+          "originalWord": "anpobieren (Kleidung)",
+          "correctTranslation": "(to) try on",
+          "alternativeTranslations": [
+            "(to) wear",
+            "(to) dress up",
+            "(to) get on",
+            "(to) probe off"
+          ]
+        },
+        {
+          "uuid": "10a9c4cf-ebb5-4956-a314-9841761b507b",
+          "originalWord": "diese, die (hier)",
+          "correctTranslation": "these",
+          "alternativeTranslations": [
+            "this",
+            "there",
+            "where",
+            "their",
+            "who"
+          ]
+        },
+        {
+          "uuid": "377645d5-fa71-4eca-987c-e90b138b6f82",
+          "originalWord": "…, wissen Sie / … weißt du",
+          "correctTranslation": "…, you know.",
+          "alternativeTranslations": [
+            "…, you see.",
+            "…, you understand.",
+            "…, you hear.",
+            "…, you where.",
+            "…, you now."
+          ]
+        },
+        {
+          "uuid": "c914ff2a-4cdd-4fce-99bc-3b3c913a7b65",
+          "originalWord": "wissen",
+          "correctTranslation": "(to) know",
+          "alternativeTranslations": [
+            "(to) wear",
+            "(to) now",
+            "(to) wee",
+            "(to) blow"
+          ]
+        },
+        {
+          "uuid": "3ca41f8b-49eb-4174-bd0a-60a49846cc8d",
+          "originalWord": "(haben) wollen",
+          "correctTranslation": "(to) want",
+          "alternativeTranslations": [
+            "(to) rant",
+            "(to) rent",
+            "(to) wear",
+            "(to) have got"
+          ]
+        },
+        {
+          "uuid": "aedbd430-f51b-4179-a54a-95e1c5e96c49",
+          "originalWord": "kaufen",
+          "correctTranslation": "(to) buy",
+          "alternativeTranslations": [
+            "(to) sell",
+            "(to) bring",
+            "(to) stop",
+            "(to) drive"
+          ]
+        },
+        {
+          "uuid": "08a63803-6f99-4a7a-b2b6-8a572cc8ef09",
+          "originalWord": "verkaufen",
+          "correctTranslation": "(to) sell",
+          "alternativeTranslations": [
+            "(to) sale",
+            "(to) buy",
+            "(to) get",
+            "(to) become",
+            "(to) waste"
+          ]
+        },
+        {
+          "uuid": "417409f6-9130-4126-840e-b70163f69eb1",
+          "originalWord": "Kleidung, Kleidungsstücke",
+          "correctTranslation": "clothes",
+          "alternativeTranslations": [
+            "pents",
+            "trousers",
+            "dress",
+            "dresses",
+            "coat"
+          ]
+        },
+        {
+          "uuid": "b56b48d7-fdab-49d6-8f94-daf258a859e7",
+          "originalWord": "Zeug, Kram",
+          "correctTranslation": "stuff",
+          "alternativeTranslations": [
+            "star",
+            "folks",
+            "shirt",
+            "staf",
+            "steff"
+          ]
+        },
+        {
+          "uuid": "03e8801e-68c1-45e3-96cb-c2971b8be6d2",
+          "originalWord": "(sich) aussuchen, (aus)wählen",
+          "correctTranslation": "(to) choose",
+          "alternativeTranslations": [
+            "(to) goose",
+            "(to) get",
+            "(to) chouse",
+            "(to) chairs"
+          ]
+        },
+        {
+          "uuid": "8492c888-8e28-451b-b420-fc601e23dea5",
+          "originalWord": "Projekt (über, zu)",
+          "correctTranslation": "project (about, on)",
+          "alternativeTranslations": [
+            "project (with, of)",
+            "project (over, to)",
+            "project (under, on)",
+            "project (by, near)"
+          ]
+        },
+        {
+          "uuid": "5b91c73f-5e6c-4d38-9caa-232b139c73f2",
+          "originalWord": "fragen",
+          "correctTranslation": "(to) ask",
+          "alternativeTranslations": [
+            "(to) answer",
+            "(to) argue",
+            "(to) merge",
+            "(to) pregan"
           ]
         }
       ]
