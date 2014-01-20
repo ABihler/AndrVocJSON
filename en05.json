@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 16,
+  "version": 20,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -2249,7 +2249,7 @@
       "uuid": "deacec3a-fefb-4874-c04c-9e2e8dc6f989",
       "name": "English 5 Unit 2/08",
       "language": "en",
-      "version": 2,
+      "version": 7,
       "vocabulary": [
         {
           "originalWord": "Rundgang, Tour (durchs Haus)",
@@ -2989,6 +2989,183 @@
             "(to) argue",
             "(to) merge",
             "(to) pregan"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "6a350737-1a0e-4042-bb2e-d6a302e2509f",
+      "name": "English 5 Unit 3/03",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "debeec98-78cf-41cf-a4e6-cfc3a34f68ea",
+          "originalWord": "Klavier, Piano",
+          "correctTranslation": "piano",
+          "alternativeTranslations": [
+            "plane",
+            "pain",
+            "claver",
+            "clever"
+          ]
+        },
+        {
+          "uuid": "8bb8ba31-ae4e-4ed1-ae88-26bf49c3023c",
+          "originalWord": "allein",
+          "correctTranslation": "alone",
+          "alternativeTranslations": [
+            "simple",
+            "together",
+            "without",
+            "out"
+          ]
+        },
+        {
+          "uuid": "9d895aa1-a2c5-4890-aa7f-d8c4a05590e0",
+          "originalWord": "Kopf",
+          "correctTranslation": "head",
+          "alternativeTranslations": [
+            "tail",
+            "hard",
+            "trail",
+            "hat",
+            "header"
+          ]
+        },
+        {
+          "uuid": "ad096880-caa2-4850-ba24-bf7ed11091cd",
+          "originalWord": "immer",
+          "correctTranslation": "always",
+          "alternativeTranslations": [
+            "never",
+            "ever",
+            "todays",
+            "alwhere"
+          ]
+        },
+        {
+          "uuid": "84b0c5d3-322b-4c88-9d1e-8de0bcab203c",
+          "originalWord": "gewinnen",
+          "correctTranslation": "(to) win",
+          "alternativeTranslations": [
+            "(to) lose",
+            "(to) gin",
+            "(to) lost",
+            "(to) was"
+          ]
+        },
+        {
+          "uuid": "76f6e7d9-42b2-450d-bfc4-f428a8371b9e",
+          "originalWord": "Nachbar, Nachbarin",
+          "correctTranslation": "neighbour",
+          "alternativeTranslations": [
+            "next door",
+            "nextbour",
+            "next house",
+            "night house"
+          ]
+        },
+        {
+          "uuid": "10441ab8-2d99-4e4a-9c54-7bcb47a57739",
+          "originalWord": "sowieso",
+          "correctTranslation": "anyway",
+          "alternativeTranslations": [
+            "everyway",
+            "everywhere",
+            "anywhere",
+            "anyday",
+            "everyday"
+          ]
+        },
+        {
+          "uuid": "19a35f20-ea7b-40f9-ad40-6525af3f808d",
+          "originalWord": "Inliner/Skateboard fahren",
+          "correctTranslation": "(to) skate",
+          "alternativeTranslations": [
+            "(to) line",
+            "(to) ride skates",
+            "(to) do inline",
+            "(to) do line",
+            "(to) ride inline"
+          ]
+        },
+        {
+          "uuid": "c83525f6-a09b-4f06-8b93-e27edf7c6eea",
+          "originalWord": "Inliner",
+          "correctTranslation": "skates",
+          "alternativeTranslations": [
+            "scars",
+            "rider",
+            "riders",
+            "skate shoes",
+            "line shoes"
+          ]
+        },
+        {
+          "uuid": "53a8b7be-0d17-4e42-a3cb-2bccec389536",
+          "originalWord": "oft, häufig",
+          "correctTranslation": "often",
+          "alternativeTranslations": [
+            "seldom",
+            "rarely",
+            "over",
+            "manyway",
+            "manyday"
+          ]
+        },
+        {
+          "uuid": "e502e569-2723-4c85-89ff-0839d2eed0c3",
+          "originalWord": "Lieber Jay …",
+          "correctTranslation": "Dear Jay …",
+          "alternativeTranslations": [
+            "Lovely Jay …",
+            "Jay, dear …",
+            "Jay, lovely …"
+          ]
+        },
+        {
+          "uuid": "ce78e045-e944-4e04-a6ed-3f5943607f52",
+          "originalWord": "schnell",
+          "correctTranslation": "quick",
+          "alternativeTranslations": [
+            "slow",
+            "slowly",
+            "quirck",
+            "fear"
+          ]
+        },
+        {
+          "uuid": "5c2b3a86-6baa-4aef-bcc0-5920790ad768",
+          "originalWord": "einige, ein paar",
+          "correctTranslation": "some",
+          "alternativeTranslations": [
+            "little",
+            "lots",
+            "a lot",
+            "many"
+          ]
+        },
+        {
+          "uuid": "ad825982-835e-4492-a565-4bc43f2ce206",
+          "originalWord": "Frage",
+          "correctTranslation": "question",
+          "alternativeTranslations": [
+            "answer",
+            "quest",
+            "questioner",
+            "answerer"
+          ]
+        },
+        {
+          "uuid": "fa275e0b-b6c2-418a-acb8-e899b6bfc88c",
+          "originalWord": "antworten, beantworten",
+          "correctTranslation": "(to) answer",
+          "alternativeTranslations": [
+            "(to) question",
+            "(to) answerer",
+            "(to) relay",
+            "(to) questioner"
           ]
         }
       ]
