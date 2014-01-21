@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 20,
+  "version": 21,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -2249,7 +2249,7 @@
       "uuid": "deacec3a-fefb-4874-c04c-9e2e8dc6f989",
       "name": "English 5 Unit 2/08",
       "language": "en",
-      "version": 7,
+      "version": 8,
       "vocabulary": [
         {
           "originalWord": "Rundgang, Tour (durchs Haus)",
@@ -2412,7 +2412,7 @@
           "alternativeTranslations": [
             "snooker",
             "cook",
-            "hook)",
+            "hook",
             "coocky"
           ],
           "uuid": "b7a367da-8636-4625-a8f8-3057d3e62658"
