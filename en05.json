@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 20,
+  "version": 22,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -2249,7 +2249,7 @@
       "uuid": "deacec3a-fefb-4874-c04c-9e2e8dc6f989",
       "name": "English 5 Unit 2/08",
       "language": "en",
-      "version": 7,
+      "version": 8,
       "vocabulary": [
         {
           "originalWord": "Rundgang, Tour (durchs Haus)",
@@ -2412,7 +2412,7 @@
           "alternativeTranslations": [
             "snooker",
             "cook",
-            "hook)",
+            "hook",
             "coocky"
           ],
           "uuid": "b7a367da-8636-4625-a8f8-3057d3e62658"
@@ -3166,6 +3166,168 @@
             "(to) answerer",
             "(to) relay",
             "(to) questioner"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "3cb5130e-0114-4aad-a19e-b69fab709766",
+      "name": "English 5 Unit 3/04",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "3ec8a886-3dff-4166-b5ea-bbe6fe16fb1c",
+          "originalWord": "Antwort (auf)",
+          "correctTranslation": "answer (to)",
+          "alternativeTranslations": [
+            "answer (on)",
+            "ask (to)",
+            "ask (on)",
+            "question (to)",
+            "question (on)"
+          ]
+        },
+        {
+          "uuid": "dcc6ac8b-b409-487f-aae5-6d50a61cc0ff",
+          "originalWord": "Spiel, Wettkampf",
+          "correctTranslation": "match",
+          "alternativeTranslations": [
+            "march",
+            "much",
+            "metch",
+            "player",
+            "playground"
+          ]
+        },
+        {
+          "uuid": "86c6ec59-28a0-42e1-a654-3071bff0905c",
+          "originalWord": "Liebe Grüße, … (Briefschluss)",
+          "correctTranslation": "Love _",
+          "alternativeTranslations": [
+            "Bye _",
+            "Dear _",
+            "Lovely_",
+            "Lone _",
+            "Lonely _"
+          ]
+        },
+        {
+          "uuid": "286d2762-0dc0-40cc-bd44-9ffffc00f0f5",
+          "originalWord": "lieben, sehr mögen",
+          "correctTranslation": "(to) love",
+          "alternativeTranslations": [
+            "(to) like",
+            "(to) hate",
+            "(to) leave",
+            "(to) life"
+          ]
+        },
+        {
+          "uuid": "ffa30aca-ce1f-4018-89c4-daaa4e93d793",
+          "originalWord": "am nächtset Morgen",
+          "correctTranslation": "the next morning",
+          "alternativeTranslations": [
+            "the last morning",
+            "in the morning",
+            "every morning",
+            "on the next morning",
+            "every next morning"
+          ]
+        },
+        {
+          "uuid": "f54292a9-8dc7-4ce1-9171-438fc6ef605c",
+          "originalWord": "nie, niemals",
+          "correctTranslation": "never",
+          "alternativeTranslations": [
+            "always",
+            "nor",
+            "everyday",
+            "everytime",
+            "ever"
+          ]
+        },
+        {
+          "uuid": "4c7cb703-b7d8-4451-95fc-66fae11f128d",
+          "originalWord": "meistens, gewöhnlich, normalerweise",
+          "correctTranslation": "usuilly",
+          "alternativeTranslations": [
+            "never",
+            "often",
+            "sometimes",
+            "every day",
+            "eversome",
+            "some"
+          ]
+        },
+        {
+          "uuid": "748a9fc9-89db-4793-b831-4cacda51c09d",
+          "originalWord": "(zu Fuß) gehen",
+          "correctTranslation": "(to) walk",
+          "alternativeTranslations": [
+            "(to) ride",
+            "(to) skate",
+            "(to) will",
+            "(to) run",
+            "(to) ryde"
+          ]
+        },
+        {
+          "uuid": "2a648e1e-4b90-401d-b177-22a8a18ddf83",
+          "originalWord": "Grüß Dilip von mit.",
+          "correctTranslation": "Say hi to Dilip for me.",
+          "alternativeTranslations": [
+            "Meet Dilip for me",
+            "See Dilip with mee.",
+            "Say hello with Dilip.",
+            "Meet hi with me to Dilip.",
+            "What's up with Dilip."
+          ]
+        },
+        {
+          "uuid": "a7c057b8-ba85-4001-aaa7-db93546261e5",
+          "originalWord": "tun müssen",
+          "correctTranslation": "(to) have to do",
+          "alternativeTranslations": [
+            "(to) is to do",
+            "(to) be to do",
+            "(to) run with something",
+            "(to) do have to"
+          ]
+        },
+        {
+          "uuid": "aa044fd2-d832-4388-a20b-ce035bb30569",
+          "originalWord": "zumindest, wenigstens",
+          "correctTranslation": "at least",
+          "alternativeTranslations": [
+            "a lot",
+            "lots of",
+            "at last",
+            "on last",
+            "on least"
+          ]
+        },
+        {
+          "uuid": "00195363-88b9-4576-b425-bd11c5c2d604",
+          "originalWord": "die meisetn Leute",
+          "correctTranslation": "most people",
+          "alternativeTranslations": [
+            "all people",
+            "with pupuis",
+            "many people",
+            "most pupils",
+            "all pupils"
+          ]
+        },
+        {
+          "uuid": "04bcf53e-f882-45c5-af7a-59e415757921",
+          "originalWord": "verstehen, begreifen",
+          "correctTranslation": "(to) understand",
+          "alternativeTranslations": [
+            "(to) forestand",
+            "(to) overstand",
+            "(to) capt",
+            "(to) before"
           ]
         }
       ]
