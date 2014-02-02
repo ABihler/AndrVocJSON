@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 23,
+  "version": 24,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -3174,7 +3174,7 @@
       "uuid": "3cb5130e-0114-4aad-a19e-b69fab709766",
       "name": "English 5 Unit 3/04",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "uuid": "3ec8a886-3dff-4166-b5ea-bbe6fe16fb1c",
@@ -3329,7 +3329,30 @@
             "(to) capt",
             "(to) before"
           ]
-        }
+        },
+        {
+          "uuid": "04bcf53e-f882-45c5-af7a-59e415757900",
+          "originalWord": "den Tisch decken",
+          "correctTranslation": "(to) lay the table",
+          "alternativeTranslations": [
+            "(to) do the dishes",
+            "(to) put the plates",
+            "(to) put the table",
+            "(to) lay the dishes"
+          ]
+        },
+        {
+          "uuid": "04bcf53e-f882-45c5-af7a-59e415757901",
+          "originalWord": "Abendessen",
+          "correctTranslation": "dinner",
+          "alternativeTranslations": [
+            "eating",
+            "breakfast",
+            "supper",
+            "meal",
+            "lunch"
+          ]
+         }
       ]
     }
   ]
