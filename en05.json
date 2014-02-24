@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 24,
+  "version": 25,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -3174,7 +3174,7 @@
       "uuid": "3cb5130e-0114-4aad-a19e-b69fab709766",
       "name": "English 5 Unit 3/04",
       "language": "en",
-      "version": 2,
+      "version": 1,
       "vocabulary": [
         {
           "uuid": "3ec8a886-3dff-4166-b5ea-bbe6fe16fb1c",
@@ -3329,30 +3329,191 @@
             "(to) capt",
             "(to) before"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "uuid": "67920bf6-4d44-4139-9b07-877930d9bc2a",
+      "name": "English 5 Unit 5/01",
+      "language": "en",
+      "version": 2,
+      "vocabulary": [
         {
-          "uuid": "04bcf53e-f882-45c5-af7a-59e415757900",
-          "originalWord": "den Tisch decken",
-          "correctTranslation": "(to) lay the table",
+          "uuid": "df2da9d8-fe70-4a19-8d58-64586972b1d8",
+          "originalWord": "Brot",
+          "correctTranslation": "bread",
           "alternativeTranslations": [
-            "(to) do the dishes",
-            "(to) put the plates",
-            "(to) put the table",
-            "(to) lay the dishes"
+            "brett",
+            "breed",
+            "breat",
+            "beerd",
+            "toasty"
           ]
         },
         {
-          "uuid": "04bcf53e-f882-45c5-af7a-59e415757901",
-          "originalWord": "Abendessen",
-          "correctTranslation": "dinner",
+          "uuid": "a60fcc81-af82-483d-b62d-4500a7ba7b05",
+          "originalWord": "Saft",
+          "correctTranslation": "juice",
           "alternativeTranslations": [
-            "eating",
-            "breakfast",
-            "supper",
-            "meal",
-            "lunch"
+            "djuce",
+            "shuse",
+            "softy",
+            "joyce",
+            "duce",
+            "sweet"
           ]
-         }
+        },
+        {
+          "uuid": "286d41c2-fedb-4018-9627-eee947c1624a",
+          "originalWord": "Käse",
+          "correctTranslation": "cheese",
+          "alternativeTranslations": [
+            "shesy",
+            "chese",
+            "sheesy",
+            "chouse"
+          ]
+        },
+        {
+          "uuid": "b5c5b0d5-a396-4298-b4f1-b2f2b2ec73ea",
+          "originalWord": "Kartoffeln",
+          "correctTranslation": "potatoes",
+          "alternativeTranslations": [
+            "popotes",
+            "potetes",
+            "papates",
+            "pommes",
+            "apple"
+          ]
+        },
+        {
+          "uuid": "68854f04-4fca-47ab-81c1-f321f17d9769",
+          "originalWord": "Huhn / Hähnchen",
+          "correctTranslation": "chicken",
+          "alternativeTranslations": [
+            "hen",
+            "rooster",
+            "chicks",
+            "pork",
+            "beef"
+          ]
+        },
+        {
+          "uuid": "2e8f0722-11d5-426f-a14b-89e140f813f0",
+          "originalWord": "Schokolade",
+          "correctTranslation": "chocolate",
+          "alternativeTranslations": [
+            "cocholate",
+            "cocholade",
+            "chocolade",
+            "marmelade",
+            "malmelate"
+          ]
+        },
+        {
+          "uuid": "64560b7b-0e85-424d-a066-f8a08c2997f7",
+          "originalWord": "…zum Frühstuck essen/trinken",
+          "correctTranslation": "(to) have … for breakfast",
+          "alternativeTranslations": [
+            "(to) eat … at breakfast",
+            "(to) eat … in breakfast",
+            "(to) have … at breakfast",
+            "(to) eat … for breakfast",
+            "(to) hava … in breakfast"
+          ]
+        },
+        {
+          "uuid": "ff93fe92-4f33-45af-b751-b48c4e7f3df0",
+          "originalWord": "Pommes frites",
+          "correctTranslation": "chips",
+          "alternativeTranslations": [
+            "potatoes",
+            "chisps",
+            "chisp potatoes",
+            "pomm fries",
+            "pomm frys"
+          ]
+        },
+        {
+          "uuid": "dfc7b45f-9900-4d97-b5ae-78a127092bcd",
+          "originalWord": "Keks, Pläyzchen",
+          "correctTranslation": "biscuit",
+          "alternativeTranslations": [
+            "sweets",
+            "sweetys",
+            "bready",
+            "coky"
+          ]
+        },
+        {
+          "uuid": "43c8abe9-19ad-4752-904c-0483fe483a0f",
+          "originalWord": "Obstsalat",
+          "correctTranslation": "fruit salad",
+          "alternativeTranslations": [
+            "apple juice",
+            "orange juice",
+            "fruit juice",
+            "apple salad"
+          ]
+        },
+        {
+          "uuid": "94c0251e-b90f-4baa-a296-c2daf8590b6f",
+          "originalWord": "(Brat-, Bock-) Würstchen, Wurst",
+          "correctTranslation": "sausage",
+          "alternativeTranslations": [
+            "sosagge",
+            "sousage",
+            "sausagge",
+            "sauges"
+          ]
+        },
+        {
+          "uuid": "d754dfe3-02cb-4f49-9e05-d4632683657b",
+          "originalWord": "Süßigkeiten",
+          "correctTranslation": "sweets",
+          "alternativeTranslations": [
+            "dulces",
+            "soury",
+            "lolly",
+            "sucker",
+            "cacke"
+          ]
+        },
+        {
+          "uuid": "ec807db0-54e2-49f4-a236-fab48e1fb9ef",
+          "originalWord": "süß",
+          "correctTranslation": "sweet",
+          "alternativeTranslations": [
+            "bitter",
+            "sour",
+            "sweat",
+            "biter",
+            "soor"
+          ]
+        },
+        {
+          "uuid": "328afadd-efa1-41c2-aa33-8e2bed20a3ac",
+          "originalWord": "hinter",
+          "correctTranslation": "behind",
+          "alternativeTranslations": [
+            "in front of",
+            "next to",
+            "before",
+            "after"
+          ]
+        },
+        {
+          "uuid": "1be3068d-a7c7-434b-bac6-2783cbc5ac15",
+          "originalWord": "vor (räumlich)",
+          "correctTranslation": "in front of",
+          "alternativeTranslations": [
+            "after",
+            "behind",
+            "next to",
+            "before",
+            "after that"
+          ]
+        }
       ]
     }
   ]
