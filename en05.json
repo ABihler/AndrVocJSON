@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 26,
+  "version": 27,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -3694,6 +3694,193 @@
             "(to) do want",
             "(to) do want do",
             "(to) want to want"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "682149b1-908c-4c85-9596-1aca175928b8",
+      "name": "English 5 Unit 5/03",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "e763e894-6a40-4f80-9251-0c3d09b6e046",
+          "originalWord": "lang",
+          "correctTranslation": "long",
+          "alternativeTranslations": [
+            "short",
+            "large",
+            "big",
+            "far",
+            "little"
+          ]
+        },
+        {
+          "uuid": "4b942876-c584-4206-836f-f2f7e2bcf3c4",
+          "originalWord": "kurz",
+          "correctTranslation": "short",
+          "alternativeTranslations": [
+            "long",
+            "small",
+            "little",
+            "far",
+            "big",
+            "tiny"
+          ]
+        },
+        {
+          "uuid": "d7da60f0-424e-4bd7-887c-a4ceb70839a1",
+          "originalWord": "beide",
+          "correctTranslation": "both",
+          "alternativeTranslations": [
+            "bath",
+            "bit",
+            "boot",
+            "booth",
+            "bouth"
+          ]
+        },
+        {
+          "uuid": "e72523e1-c2ce-42e8-9e52-3313ccceabed",
+          "originalWord": "echt, wirklich",
+          "correctTranslation": "real",
+          "alternativeTranslations": [
+            "deal",
+            "inter",
+            "really",
+            "dealy",
+            "internally"
+          ]
+        },
+        {
+          "uuid": "9d93719b-a1a0-4bef-8705-06d266b94133",
+          "originalWord": "Geschenk",
+          "correctTranslation": "present",
+          "alternativeTranslations": [
+            "past",
+            "gave",
+            "give",
+            "press"
+          ]
+        },
+        {
+          "uuid": "0be70339-5054-4d1d-c05a-f55edfb3468a",
+          "originalWord": "(immer) noch",
+          "correctTranslation": "still",
+          "alternativeTranslations": [
+            "yet",
+            "nor",
+            "today",
+            "star",
+            "always",
+            "until",
+            "always yet"
+          ]
+        },
+        {
+          "uuid": "c3b2b4bd-f060-41d3-b3be-510913199d94",
+          "originalWord": "Seife",
+          "correctTranslation": "soap",
+          "alternativeTranslations": [
+            "soup",
+            "soab",
+            "soub",
+            "sipp",
+            "soob"
+          ]
+        },
+        {
+          "uuid": "32b5656b-5ab6-40d8-b2cb-0f05981634d4",
+          "originalWord": "teuer",
+          "correctTranslation": "expensive",
+          "alternativeTranslations": [
+            "cheap",
+            "cheer",
+            "example",
+            "extensive"
+          ]
+        },
+        {
+          "uuid": "11a2756e-bd59-4604-b91c-b408382b4746",
+          "originalWord": "(irgend) welche …?",
+          "correctTranslation": "any …?",
+          "alternativeTranslations": [
+            "many …?",
+            "ar there …?",
+            "some …?",
+            "somethings …?"
+          ]
+        },
+        {
+          "uuid": "9cc45d46-2b56-4271-9a79-20100f036cf5",
+          "originalWord": "Ohrring",
+          "correctTranslation": "earring",
+          "alternativeTranslations": [
+            "ringear",
+            "ear ring",
+            "ring ear",
+            "eary",
+            "ringer"
+          ]
+        },
+        {
+          "uuid": "9369e6bc-c7f2-4c6e-9ffe-905c7e656217",
+          "originalWord": "kein, keine",
+          "correctTranslation": "not (…) any",
+          "alternativeTranslations": [
+            "nor (…) any",
+            "not (…) many",
+            "any (…) not",
+            "any (…) nor"
+          ]
+        },
+        {
+          "uuid": "722122b1-3e90-4682-aba1-9b81d337cedf",
+          "originalWord": "in Eile sein, es eilig haben",
+          "correctTranslation": "(to) be in a hurry",
+          "alternativeTranslations": [
+            "(to) hurry up",
+            "(to) hurry around",
+            "(to) be hurry",
+            "(to) to be hurry up"
+          ]
+        },
+        {
+          "uuid": "d205b43e-0ab2-414f-9b06-a547c77f2c05",
+          "originalWord": "folgen, verfolgen",
+          "correctTranslation": "(to) follow",
+          "alternativeTranslations": [
+            "(to) fork",
+            "(to) folow",
+            "(to) forg",
+            "(to) flow",
+            "(to) flowo"
+          ]
+        },
+        {
+          "uuid": "50fb2dcc-a853-493a-a5b4-415a1769fd9f",
+          "originalWord": "Stichwort, Schlüsselwort",
+          "correctTranslation": "key word",
+          "alternativeTranslations": [
+            "password",
+            "pass word",
+            "keyword",
+            "word key",
+            "wordkey"
+          ]
+        },
+        {
+          "uuid": "7a245a98-aa75-4bc8-9bc1-0878ff45b3db",
+          "originalWord": "ein(e) andere(r,s); noch eine",
+          "correctTranslation": "another",
+          "alternativeTranslations": [
+            "more",
+            "some",
+            "someother",
+            "moreover",
+            "more over",
+            "some more"
           ]
         }
       ]
