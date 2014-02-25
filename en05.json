@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 25,
+  "version": 26,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -3512,6 +3512,188 @@
             "next to",
             "before",
             "after that"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "2bf64faf-21b9-44f0-822a-974ae2429736",
+      "name": "English 5 Unit 5/02",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "f0bf99c1-c93b-47c7-886c-83674139ac56",
+          "originalWord": "neben",
+          "correctTranslation": "next to",
+          "alternativeTranslations": [
+            "in front of",
+            "near to",
+            "behind",
+            "on top of",
+            "in front to"
+          ]
+        },
+        {
+          "uuid": "a4f2d92f-d45c-4088-93ac-4aff972d8aff",
+          "originalWord": "Flasche",
+          "correctTranslation": "bottle",
+          "alternativeTranslations": [
+            "buddle",
+            "buddel",
+            "botle",
+            "boddle",
+            "bodle"
+          ]
+        },
+        {
+          "uuid": "f4316908-8da4-4190-a3bd-172b21653d30",
+          "originalWord": "(Trink-) Glas",
+          "correctTranslation": "glass",
+          "alternativeTranslations": [
+            "glare",
+            "bottle",
+            "glas",
+            "gloss",
+            "bar"
+          ]
+        },
+        {
+          "uuid": "1f31cdbc-0523-49da-9c5b-fbf1a01f18c1",
+          "originalWord": "Krug",
+          "correctTranslation": "jug",
+          "alternativeTranslations": [
+            "jugg",
+            "jarr",
+            "jar",
+            "jag",
+            "jagg"
+          ]
+        },
+        {
+          "uuid": "fa6d055d-2f72-4acd-8e9c-0e2462b2d88c",
+          "originalWord": "eine Flasche Milch",
+          "correctTranslation": "a bottle of milk",
+          "alternativeTranslations": [
+            "a jug of milk",
+            "a glass of milk",
+            "a mug of milk",
+            "a bar fo milk"
+          ]
+        },
+        {
+          "uuid": "4250d4da-ad0f-4a7f-8ce7-d72af073d137",
+          "originalWord": "Schüssel",
+          "correctTranslation": "bowl",
+          "alternativeTranslations": [
+            "oil",
+            "plate",
+            "bowling",
+            "bottle",
+            "bohl"
+          ]
+        },
+        {
+          "uuid": "1b7c8f6f-5ede-4014-a7b6-14777bdb67a4",
+          "originalWord": "Korb",
+          "correctTranslation": "basket",
+          "alternativeTranslations": [
+            "biscuit",
+            "bracket",
+            "brack",
+            "base"
+          ]
+        },
+        {
+          "uuid": "31e429ed-96d1-4d29-8abc-c10e36db71bc",
+          "originalWord": "Möchtest du …? / Möchten Sie …?",
+          "correctTranslation": "Would you like …?",
+          "alternativeTranslations": [
+            "Do you want …?",
+            "Do you see …?",
+            "Do you need …?",
+            "Would you wand …?",
+            "Would you see …?"
+          ]
+        },
+        {
+          "uuid": "8d61dd6c-4a84-4f3a-b248-b8f0ffc19229",
+          "originalWord": "Ich hätte gern … / Ich möchte gerne …",
+          "correctTranslation": "I'd like …",
+          "alternativeTranslations": [
+            "I'm like …",
+            "I do like…",
+            "I'k like …"
+          ]
+        },
+        {
+          "uuid": "e19c952d-3e4f-448a-b3dc-0e05335bfc99",
+          "originalWord": "etwas Käse",
+          "correctTranslation": "some cheese",
+          "alternativeTranslations": [
+            "more cheese",
+            "this cheese",
+            "that cheese",
+            "there cheese"
+          ]
+        },
+        {
+          "uuid": "f45f0570-e319-4416-8e1f-066b6ecd9888",
+          "originalWord": "hungrig",
+          "correctTranslation": "hungry",
+          "alternativeTranslations": [
+            "thirsty",
+            "muddy",
+            "hurry",
+            "hurdy"
+          ]
+        },
+        {
+          "uuid": "9aa68606-c81a-45b4-9eda-3e11ea884340",
+          "originalWord": "durstig",
+          "correctTranslation": "thirsty",
+          "alternativeTranslations": [
+            "hungry",
+            "muddy",
+            "hurry",
+            "thisty",
+            "hurdy"
+          ]
+        },
+        {
+          "uuid": "e41ae717-f938-424a-8296-2976bd1eec79",
+          "originalWord": "Einladung (zu)",
+          "correctTranslation": "invitation (to)",
+          "alternativeTranslations": [
+            "invasion (to)",
+            "invitation (for)",
+            "invitation (fo)",
+            "invasion (for)",
+            "invasion (at)"
+          ]
+        },
+        {
+          "uuid": "b5d23282-f1b7-49af-948f-305f44f44d54",
+          "originalWord": "einladen (zu)",
+          "correctTranslation": "(to) invite (to)",
+          "alternativeTranslations": [
+            "(to) invade (to)",
+            "(to) invite (for)",
+            "(to) invade (for)",
+            "(to) invite (at)",
+            "(to) invade (at)"
+          ]
+        },
+        {
+          "uuid": "83f91848-853e-4d91-92af-2cb6603fb962",
+          "originalWord": "tun wollen",
+          "correctTranslation": "(to) want to do",
+          "alternativeTranslations": [
+            "(to) want to be",
+            "(to) do to want",
+            "(to) do want",
+            "(to) do want do",
+            "(to) want to want"
           ]
         }
       ]
