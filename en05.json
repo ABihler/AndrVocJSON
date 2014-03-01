@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 31,
+  "version": 32,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -3889,7 +3889,7 @@
       "uuid": "2e403f74-4b58-449f-a7eb-ae5907abbc3b",
       "name": "English 5 Unit 4/04",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "uuid": "349eee55-0f21-413a-9182-c71c45e45845",
@@ -3988,6 +3988,72 @@
             "(to) go off (the train/bus)",
             "(to) go in (the train/bus)",
             "(to) get out (the train/bus)"
+          ]
+        },
+        {
+          "uuid": "323ba96e-0299-4163-a551-06f194e1f660",
+          "originalWord": "(in den Zug/Bus) einsteigen",
+          "correctTranslation": "(to) get on (the train/bus)",
+          "alternativeTranslations": [
+            "(to) get off (the train/bus)",
+            "(to) go of (the train/bus)",
+            "(to) go in (the train/bus)",
+            "(to) get out (the train/bus)"
+          ]
+        },
+        {
+          "uuid": "323ba96e-0299-4163-a551-06f194e1f650",
+          "originalWord": "Paket",
+          "correctTranslation": "parcel",
+          "alternativeTranslations": [
+            "letter",
+            "pack",
+            "rack",
+            "percy"
+          ]
+        },
+        {
+          "uuid": "323ba96e-0299-4163-a551-06f194e1f640",
+          "originalWord": "sich umsehen",
+          "correctTranslation": "(to) look round",
+          "alternativeTranslations": [
+            "(to) look up",
+            "(to) look down",
+            "(to) see round",
+            "(to) see up"
+          ]
+        },
+        {
+          "uuid": "323ba96e-0299-4163-a551-06f194e1f630",
+          "originalWord": "sich verstecken, (etwas) verstecken",
+          "correctTranslation": "(to) hide",
+          "alternativeTranslations": [
+            "(to) glide",
+            "(to) hidde",
+            "(to) hid",
+            "(to) git"
+          ]
+        },
+        {
+          "uuid": "323ba96e-0299-4163-a551-06f194e1f620",
+          "originalWord": "Welches Bild …?",
+          "correctTranslation": "Which picture …?",
+          "alternativeTranslations": [
+            "Where picture …?",
+            "Who picture …?",
+            "When picture …?",
+            "That pucture …?"
+          ]
+        },
+        {
+          "uuid": "323ba96e-0299-4163-a551-06f194e1f610",
+          "originalWord": "Kopf",
+          "correctTranslation": "head",
+          "alternativeTranslations": [
+            "haed",
+            "hat",
+            "heid",
+            "heat"
           ]
         }
       ]
