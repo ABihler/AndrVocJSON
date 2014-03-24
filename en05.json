@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 33,
+  "version": 34,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -4227,6 +4227,178 @@
             "Make you no worry.",
             "Do no worry.",
             "Don't you worry."
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "85dd7441-12b0-486a-93d5-37674f14df60",
+      "name": "English 5 Unit 4/06",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "e330b571-1512-4ca6-9072-16ed341b4092",
+          "originalWord": "sich Sorgen machen (wegen, um)",
+          "correctTranslation": "(to) worry (about)",
+          "alternativeTranslations": [
+            "(to) worry (of)",
+            "(to) worry (at)",
+            "(to) weary (about)",
+            "(to) werry (of)"
+          ]
+        },
+        {
+          "uuid": "fa7bd5b4-45e5-43d5-a54b-ea8433a85996",
+          "originalWord": "Türklingel",
+          "correctTranslation": "doorbell",
+          "alternativeTranslations": [
+            "belldoor",
+            "bellydoor",
+            "doorbelly",
+            "doorringer"
+          ]
+        },
+        {
+          "uuid": "9328da8c-5684-4093-9908-e52d6bb31e87",
+          "originalWord": "bell",
+          "correctTranslation": "Klingel, Glocke",
+          "alternativeTranslations": [
+            "ball",
+            "belly",
+            "bay",
+            "beil"
+          ]
+        },
+        {
+          "uuid": "1ddb340d-a3bb-40d3-96cd-8f8c7c5e728e",
+          "originalWord": "Wohnungstür, Haustür",
+          "correctTranslation": "front door",
+          "alternativeTranslations": [
+            "back door",
+            "behind door",
+            "frontier door",
+            "house door"
+          ]
+        },
+        {
+          "uuid": "0bb27044-1990-403f-99f1-6b22722ec60e",
+          "originalWord": "innen (drin), drinnen",
+          "correctTranslation": "inside",
+          "alternativeTranslations": [
+            "outside",
+            "nearside",
+            "into",
+            "inter"
+          ]
+        },
+        {
+          "uuid": "fcf5f1bf-3854-4e37-81d2-4de5824486fc",
+          "originalWord": "Loch",
+          "correctTranslation": "hole",
+          "alternativeTranslations": [
+            "whole",
+            "holle",
+            "hold",
+            "hol",
+            ""
+          ]
+        },
+        {
+          "uuid": "c965a473-fe50-4cd1-a4dc-f2f3df9f1f1e",
+          "originalWord": "fantastisch, toll",
+          "correctTranslation": "fantastic",
+          "alternativeTranslations": [
+            "fantasy",
+            "fantic",
+            "frantatic",
+            "funtastic"
+          ]
+        },
+        {
+          "uuid": "3f7ce80d-0ba8-4020-c0aa-adcc57cae029",
+          "originalWord": "so süß",
+          "correctTranslation": "so sweet",
+          "alternativeTranslations": [
+            "so bitter",
+            "so sour",
+            "so sweat",
+            "so swiit"
+          ]
+        },
+        {
+          "uuid": "04fdf5bd-c1b6-47d6-bbe5-8857d92b83b1",
+          "originalWord": "Angst haben (vor)",
+          "correctTranslation": "(to) be afraid (of)",
+          "alternativeTranslations": [
+            "(to) be afraid (on)",
+            "(to) be afraid (at)",
+            "(to) afraid (of)"
+          ]
+        },
+        {
+          "uuid": "d80d3938-59df-44eb-a041-cdb7172108d7",
+          "originalWord": "(herüber)reichen, weitergaben",
+          "correctTranslation": "(to) pass",
+          "alternativeTranslations": [
+            "(to) pess",
+            "(to) pos",
+            "(to) press",
+            "(to) past"
+          ]
+        },
+        {
+          "uuid": "51029b2f-9431-4518-9ea8-72490adbb1e9",
+          "originalWord": "herumgeben",
+          "correctTranslation": "(to) pass round",
+          "alternativeTranslations": [
+            "(to) give round",
+            "(to) get round",
+            "(to) pass to",
+            "(to) get to"
+          ]
+        },
+        {
+          "uuid": "a4c7697c-bcd9-4b44-be7c-5374f0ca8491",
+          "originalWord": "keine Musik mehr",
+          "correctTranslation": "no more music",
+          "alternativeTranslations": [
+            "more music",
+            "no music ever",
+            "any music",
+            "not any music"
+          ]
+        },
+        {
+          "uuid": "e5d2c508-95b5-4282-8cb9-42b80ba6aa9d",
+          "originalWord": "kein, keine",
+          "correctTranslation": "no",
+          "alternativeTranslations": [
+            "not",
+            "ye",
+            "some"
+          ]
+        },
+        {
+          "uuid": "cffbfef1-edb2-4e86-8cad-c3acff9efa7b",
+          "originalWord": "Mitteilung, Notiz",
+          "correctTranslation": "note",
+          "alternativeTranslations": [
+            "net",
+            "book",
+            "nute",
+            "pad"
+          ]
+        },
+        {
+          "uuid": "3d255f11-a33a-4731-bcc1-ac01fb793fda",
+          "originalWord": "sich notizen machen",
+          "correctTranslation": "(to) take notes",
+          "alternativeTranslations": [
+            "(to) make notes",
+            "(to) note",
+            "(to) do notes",
+            "(to) note something"
           ]
         }
       ]
