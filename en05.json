@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 35,
+  "version": 36,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -4488,6 +4488,177 @@
             "ir",
             "eyr",
             "eye"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "1ebd377c-f690-4b2e-838c-b036cfd859a6",
+      "name": "English 5 Unit 5/01",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "5e566f48-86d3-4c4d-ad27-45137da6fcc3",
+          "originalWord": "Probe (am Theater)",
+          "correctTranslation": "rehearsal",
+          "alternativeTranslations": [
+            "hearsal",
+            "hearing",
+            "reprobe",
+            "probal"
+          ]
+        },
+        {
+          "uuid": "810e1502-42e3-4e12-8a0c-d3de801e07f4",
+          "originalWord": "proben (am Theater)",
+          "correctTranslation": "(to) rehearse",
+          "alternativeTranslations": [
+            "(to) probe",
+            "(to) hearse",
+            "(to) behearse",
+            "(to) act"
+          ]
+        },
+        {
+          "uuid": "142b82f6-1778-437b-9de0-82e4115d197f",
+          "originalWord": "Frühling",
+          "correctTranslation": "spring",
+          "alternativeTranslations": [
+            "autumn",
+            "fall",
+            "summer",
+            "winter"
+          ]
+        },
+        {
+          "uuid": "54b2cd4c-4e9d-4da8-8175-9f1020f3de2f",
+          "originalWord": "Herbst",
+          "correctTranslation": "autumn",
+          "alternativeTranslations": [
+            "winter",
+            "summer",
+            "spring"
+          ]
+        },
+        {
+          "uuid": "3bacfd9a-c867-4a47-b23c-198783a4849c",
+          "originalWord": "Winter",
+          "correctTranslation": "winter",
+          "alternativeTranslations": [
+            "autumn",
+            "fall",
+            "summer",
+            "spring"
+          ]
+        },
+        {
+          "uuid": "23c13fd7-9f33-4f7f-8fb5-80f169972e50",
+          "originalWord": "Show, Vorstellung",
+          "correctTranslation": "show",
+          "alternativeTranslations": [
+            "play",
+            "theater",
+            "cinema",
+            "player"
+          ]
+        },
+        {
+          "uuid": "477e4e55-5474-4447-b15b-4ff917019e87",
+          "originalWord": "dürfen",
+          "correctTranslation": "may",
+          "alternativeTranslations": [
+            "get",
+            "mai",
+            "might",
+            "git"
+          ]
+        },
+        {
+          "uuid": "42ca7513-5d03-4b2d-a9fe-023144abdc60",
+          "originalWord": "(mit-, her)bringen",
+          "correctTranslation": "(to) bring",
+          "alternativeTranslations": [
+            "(to) get",
+            "(to) set",
+            "(to) reach",
+            "(to) fetch"
+          ]
+        },
+        {
+          "uuid": "ce6926ab-f007-4248-abab-44b9baaec730",
+          "originalWord": "benutzen",
+          "correctTranslation": "(to) use",
+          "alternativeTranslations": [
+            "(to) set",
+            "(to) before",
+            "(to) fetch",
+            "(to) get"
+          ]
+        },
+        {
+          "uuid": "a13b66b6-b085-4e5c-aea5-c375a1ab243d",
+          "originalWord": "Ergebnis, Resultat",
+          "correctTranslation": "result",
+          "alternativeTranslations": [
+            "solve",
+            "slight",
+            "rist",
+            "rest"
+          ]
+        },
+        {
+          "uuid": "18dd541e-0970-4365-afc0-a1eec59d6a8d",
+          "originalWord": "Junioren-, Jugend-",
+          "correctTranslation": "junior",
+          "alternativeTranslations": [
+            "jouth",
+            "youth",
+            "jogi",
+            "joy"
+          ]
+        },
+        {
+          "uuid": "3acff11c-cc5d-4955-ae07-0f3cbdf2544c",
+          "originalWord": "Chor",
+          "correctTranslation": "choir",
+          "alternativeTranslations": [
+            "chose",
+            "qweir",
+            "cwoir",
+            "chorus"
+          ]
+        },
+        {
+          "uuid": "a6f6fe0e-f071-4417-9361-ad2185d3bcd3",
+          "originalWord": "malen, anmalen",
+          "correctTranslation": "(to) paint",
+          "alternativeTranslations": [
+            "(to) mate",
+            "(to) picture",
+            "(to) draw"
+          ]
+        },
+        {
+          "uuid": "7e5b5997-e75e-42c0-b886-9064894720f2",
+          "originalWord": "Pirat",
+          "correctTranslation": "pirate",
+          "alternativeTranslations": [
+            "pyrate",
+            "pirat",
+            "pyrat",
+            "pairet"
+          ]
+        },
+        {
+          "uuid": "ae19f84f-149f-4a6a-9b9d-102823b7aacd",
+          "originalWord": "Schiff",
+          "correctTranslation": "ship",
+          "alternativeTranslations": [
+            "swifet",
+            "swif",
+            "schip",
+            "shipp"
           ]
         }
       ]
