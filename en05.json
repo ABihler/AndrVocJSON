@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 32,
+  "version": 33,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -4054,6 +4054,179 @@
             "hat",
             "heid",
             "heat"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "89272310-3864-4ace-89a6-8feac59cb5d3",
+      "name": "English 5 Unit 4/05",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "512704b4-59d7-4e68-a14a-45a57d921ad1",
+          "originalWord": "Auge",
+          "correctTranslation": "eye",
+          "alternativeTranslations": [
+            "ai",
+            "ey",
+            "aye",
+            "i"
+          ]
+        },
+        {
+          "uuid": "eda4ddcc-8aa6-4703-a768-9bc07f77616f",
+          "originalWord": "Nase",
+          "correctTranslation": "nose",
+          "alternativeTranslations": [
+            "nous",
+            "tip",
+            "nerd"
+          ]
+        },
+        {
+          "uuid": "8b601114-6aba-4704-b9ee-f4158d920fe6",
+          "originalWord": "Gesicht",
+          "correctTranslation": "face",
+          "alternativeTranslations": [
+            "fade",
+            "haze",
+            "hade",
+            "fase"
+          ]
+        },
+        {
+          "uuid": "c43f9290-f5a6-4df6-a7a6-8de92e095ef6",
+          "originalWord": "Knie",
+          "correctTranslation": "knee",
+          "alternativeTranslations": [
+            "nee",
+            "kny",
+            "knai",
+            "know"
+          ]
+        },
+        {
+          "uuid": "8d4fd177-9900-4ded-9069-48c994967c97",
+          "originalWord": "Bein",
+          "correctTranslation": "leg",
+          "alternativeTranslations": [
+            "lay",
+            "foot",
+            "feet",
+            "tog",
+            "log"
+          ]
+        },
+        {
+          "uuid": "28d42a08-e1aa-4cb4-b594-72ad3273e125",
+          "originalWord": "Zehen",
+          "correctTranslation": "toes",
+          "alternativeTranslations": [
+            "ties",
+            "taps",
+            "fingers",
+            "foot fingers"
+          ]
+        },
+        {
+          "uuid": "bf6b7159-8c91-40b5-b4ae-984255ffebe6",
+          "originalWord": "Zoo, Tierpark",
+          "correctTranslation": "zoo",
+          "alternativeTranslations": [
+            "zo",
+            "zou",
+            "animal",
+            "animal ground"
+          ]
+        },
+        {
+          "uuid": "bf097bae-38ba-407c-8251-c4f965654e44",
+          "originalWord": "Müsli",
+          "correctTranslation": "muesli",
+          "alternativeTranslations": [
+            "mousli",
+            "mausli",
+            "mausl",
+            "mouthld"
+          ]
+        },
+        {
+          "uuid": "63ca4f58-3406-407e-aeb2-102c9ed0ba43",
+          "originalWord": "Ei",
+          "correctTranslation": "egg",
+          "alternativeTranslations": [
+            "eck",
+            "eyg",
+            "eye",
+            "aygs"
+          ]
+        },
+        {
+          "uuid": "8ff56f93-d08b-4336-9c9d-ceff68e4d57a",
+          "originalWord": "Minute",
+          "correctTranslation": "minute",
+          "alternativeTranslations": [
+            "hour",
+            "second",
+            "minit",
+            "minet"
+          ]
+        },
+        {
+          "uuid": "df95d990-9ac1-4f23-879b-f220b743917c",
+          "originalWord": "Theaterstück",
+          "correctTranslation": "play",
+          "alternativeTranslations": [
+            "game",
+            "thing",
+            "ployer",
+            "player",
+            "place"
+          ]
+        },
+        {
+          "uuid": "a1229f98-3891-4817-92fd-e35aea459390",
+          "originalWord": "Szene",
+          "correctTranslation": "scene",
+          "alternativeTranslations": [
+            "show",
+            "snow",
+            "scen",
+            "sceny"
+          ]
+        },
+        {
+          "uuid": "1eb4e501-8c05-4d43-8836-3aa9daeff8b9",
+          "originalWord": "… Uhr nachmittags/abends",
+          "correctTranslation": "… pm",
+          "alternativeTranslations": [
+            "… am",
+            "…mp",
+            "… ma"
+          ]
+        },
+        {
+          "uuid": "e67a1c3a-b11b-45db-ad62-80264eda1391",
+          "originalWord": "… Uhr morgens/vormittags",
+          "correctTranslation": "… am",
+          "alternativeTranslations": [
+            "… pm",
+            "… mp",
+            "… ma"
+          ]
+        },
+        {
+          "uuid": "b9d8256b-f352-4488-95ae-1f8a46e13c9c",
+          "originalWord": "Mach dir keine Sorgen.",
+          "correctTranslation": "Don't worry.",
+          "alternativeTranslations": [
+            "Make no worry.",
+            "Don't worry you.",
+            "Make you no worry.",
+            "Do no worry.",
+            "Don't you worry."
           ]
         }
       ]
