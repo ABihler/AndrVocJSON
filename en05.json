@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 34,
+  "version": 35,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -4399,6 +4399,95 @@
             "(to) note",
             "(to) do notes",
             "(to) note something"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "c6bf1725-833c-4cc6-a682-671c61ff018f",
+      "name": "English 5 Unit 4/07",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "8c8f41e9-963f-43a6-8040-9700d75664e0",
+          "originalWord": "Preis, Gewinn",
+          "correctTranslation": "prize",
+          "alternativeTranslations": [
+            "price",
+            "prais",
+            "practice",
+            "practize"
+          ]
+        },
+        {
+          "uuid": "9c7884d0-23a5-4266-ba03-02d3b1f4796d",
+          "originalWord": "vorbei sein, zu Ende sein",
+          "correctTranslation": "(to) be over",
+          "alternativeTranslations": [
+            "(to) get over",
+            "(to) be off",
+            "(to) get off",
+            "(to) make over",
+            "(to) get over"
+          ]
+        },
+        {
+          "uuid": "0012014f-d5e4-480f-b687-eeec6235a46a",
+          "originalWord": "Wovon redest du?",
+          "correctTranslation": "What are you talking about?",
+          "alternativeTranslations": [
+            "What are you talking with?",
+            "What do you talk with",
+            "What are you about talking?",
+            "Where are you talking?",
+            "Who is talking about?"
+          ]
+        },
+        {
+          "uuid": "64912589-7abc-4d96-bf3a-ff52caaae848",
+          "originalWord": "gelangen, (hin)kommen",
+          "correctTranslation": "(to) get",
+          "alternativeTranslations": [
+            "(to) wet",
+            "(to) bet",
+            "(to) set",
+            "(to) become",
+            "(to) come"
+          ]
+        },
+        {
+          "uuid": "b950c140-c45f-4532-a204-8cdf1c296dec",
+          "originalWord": "Titel, Überschrift",
+          "correctTranslation": "title",
+          "alternativeTranslations": [
+            "story",
+            "star",
+            "titel",
+            "overtype",
+            "type"
+          ]
+        },
+        {
+          "uuid": "61abb189-e881-452c-a011-a641d539ae0a",
+          "originalWord": "Schulter",
+          "correctTranslation": "shoulder",
+          "alternativeTranslations": [
+            "arm",
+            "hand",
+            "head",
+            "sholder",
+            "shelter"
+          ]
+        },
+        {
+          "uuid": "290fbd5a-581f-41c7-963b-5350b9ef3f55",
+          "originalWord": "Ohr",
+          "correctTranslation": "ear",
+          "alternativeTranslations": [
+            "ir",
+            "eyr",
+            "eye"
           ]
         }
       ]
