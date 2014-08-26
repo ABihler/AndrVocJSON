@@ -2,11 +2,11 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 36,
+  "version": 37,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
-      "name": "English 5 Unit 0/01",
+      "name": "English 5 Unit 0/09",
       "language": "en",
       "version": 1,
       "vocabulary": [
@@ -4659,6 +4659,175 @@
             "swif",
             "schip",
             "shipp"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "191d453d-a8f9-429c-8899-8d2d8fc83f83",
+      "name": "English 5 Unit 0/01",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "01543a21-cd2e-4650-ab4a-daf46b4263f6",
+          "originalWord": "Hallo, ich bin Tatjana.",
+          "correctTranslation": "Hi, I'm Tatjana.",
+          "alternativeTranslations": [
+            "Hi, Tatjana I'm.",
+            "Hi, you are Tatjana.",
+            "Hi, Tatjana you are."
+          ]
+        },
+        {
+          "uuid": "aac0d407-49fc-40b4-b5c0-d364a38e428a",
+          "originalWord": "Wie heißt du?",
+          "correctTranslation": "What's your name?",
+          "alternativeTranslations": [
+            "Where's your name?",
+            "Your name what's?",
+            "Your name where is?"
+          ]
+        },
+        {
+          "uuid": "94280738-cdf8-4973-87c9-b282a9ea8ea4",
+          "originalWord": "Hallo. Ich heiße … / Mein Name ist …",
+          "correctTranslation": "Hello. My name is …",
+          "alternativeTranslations": [
+            "Hello. I name is …",
+            "Hello. My … is name.",
+            "Hello. There is my …"
+          ]
+        },
+        {
+          "uuid": "83a91fb7-f9f6-4b3e-bba0-e0ec32ce219f",
+          "originalWord": "Wo kommst du her?",
+          "correctTranslation": "Where are you from?",
+          "alternativeTranslations": [
+            "Where are you?",
+            "Do you come?",
+            "Whar are you?"
+          ]
+        },
+        {
+          "uuid": "a50c732c-344b-445d-bccd-a296d0778784",
+          "originalWord": "Ich komme aus … / Ich bin aus …",
+          "correctTranslation": "I'm from …",
+          "alternativeTranslations": [
+            "I … from.",
+            "I do … from",
+            "I do from …"
+          ]
+        },
+        {
+          "uuid": "bb9e8b34-46fb-441a-9f10-839417d7cd9d",
+          "originalWord": "Meine Mutter und mein Vater kommen aus …",
+          "correctTranslation": "My mum and dad are from …",
+          "alternativeTranslations": [
+            "My mum and dad do …",
+            "From …  mum and dad are.",
+            "Do … my mum and dad."
+          ]
+        },
+        {
+          "uuid": "7b0a955b-665e-4a48-8cb4-6bb2137d7b06",
+          "originalWord": "Wie alt bist du?",
+          "correctTranslation": "How old are you?",
+          "alternativeTranslations": [
+            "Old you are?",
+            "Where old are you?",
+            "When old are you?"
+          ]
+        },
+        {
+          "uuid": "7e1468a0-fa09-44b3-ad58-99a1d3aec4fa",
+          "originalWord": "Ich bin … Jahre alt.",
+          "correctTranslation": "I'm … years old.",
+          "alternativeTranslations": [
+            "… years am I.",
+            "There is … years",
+            "I'm … old years."
+          ]
+        },
+        {
+          "uuid": "d9b0523a-44e0-4895-b0ad-f2504eb96a75",
+          "originalWord": "Ich habe einen Bruder und eine Schwester.",
+          "correctTranslation": "I've got a brother and a sister.",
+          "alternativeTranslations": [
+            "A brother and a sister are there.",
+            "I am a brother and a sister.",
+            "A brother and a sister I am."
+          ]
+        },
+        {
+          "uuid": "be6c8af5-3533-4e62-945b-3bc30e4c2f53",
+          "originalWord": "Wir wohnen in Frankfurt in der … Straße.",
+          "correctTranslation": "We live in Frankfurt, in … Street.",
+          "alternativeTranslations": [
+            "… Street at Frankfurt, we live.",
+            "We Frankfurt live in … Street.",
+            "Street … in Frankfurt are we.",
+            "We are in Frankfurt, in … Street."
+          ]
+        },
+        {
+          "uuid": "738b74bf-7ae9-4361-8fa3-1cd69346b649",
+          "originalWord": "Meine Lieblingsfarbe ist …",
+          "correctTranslation": "My favourtie color is …",
+          "alternativeTranslations": [
+            "I like … color",
+            "… my favourite color is.",
+            "My favourite … is color."
+          ]
+        },
+        {
+          "uuid": "68d7cc8f-fd82-4b21-9dfb-c5b071b77553",
+          "originalWord": "Ich mag Äpfel.",
+          "correctTranslation": "I like apples.",
+          "alternativeTranslations": [
+            "I apples like",
+            "I do apples",
+            "I apples do."
+          ]
+        },
+        {
+          "uuid": "15adcec4-84fd-41c7-87b9-79bdf3a2850f",
+          "originalWord": "Ich mag keine Bananen / Ich mag Bananen nicht.",
+          "correctTranslation": "I don't like bananas.",
+          "alternativeTranslations": [
+            "There are no bananas.",
+            "I don't bananas like.",
+            "There no bananas are."
+          ]
+        },
+        {
+          "uuid": "20aa0050-0337-49bf-a218-4bc963b0c951",
+          "originalWord": "Kannst du ein Lied auf Englisch singen?",
+          "correctTranslation": "Can you sing a song in English?",
+          "alternativeTranslations": [
+            "Are there a song in Englisch?",
+            "Do you sing in English?",
+            "Can you English song?"
+          ]
+        },
+        {
+          "uuid": "89abf22a-5229-4a51-aebc-127b63d8021a",
+          "originalWord": "Ja, kann ich.",
+          "correctTranslation": "Yes, I can.",
+          "alternativeTranslations": [
+            "Yes, can I.",
+            "Yes, I was.",
+            "Yes, there is."
+          ]
+        },
+        {
+          "uuid": "18dff160-5550-401d-9f90-f9ea3a4a2351",
+          "originalWord": "Nein, kann ich nicht.",
+          "correctTranslation": "No, I can't.",
+          "alternativeTranslations": [
+            "No, can't I.",
+            "No, I wasn't.",
+            "No, there isn't."
           ]
         }
       ]
