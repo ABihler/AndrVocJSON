@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 38,
+  "version": 39,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -5015,6 +5015,177 @@
             "slide",
             "site",
             "poor"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "6e6ff61e-970a-43fb-9b1e-8c401833c13a",
+      "name": "English 5 Unit 0/03",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "6b921242-6240-4fa9-96ba-5c9a2044b0db",
+          "originalWord": "Junge",
+          "correctTranslation": "boy",
+          "alternativeTranslations": [
+            "girl",
+            "man",
+            "woman",
+            "pet"
+          ]
+        },
+        {
+          "uuid": "b082c164-a37f-4be0-a09a-ced0d53a39fe",
+          "originalWord": "Mädchen",
+          "correctTranslation": "girl",
+          "alternativeTranslations": [
+            "boy",
+            "man",
+            "woman",
+            "pet"
+          ]
+        },
+        {
+          "uuid": "8c175822-f829-467a-a719-45139dada5cd",
+          "originalWord": "Baum",
+          "correctTranslation": "tree",
+          "alternativeTranslations": [
+            "three",
+            "bush",
+            "dog",
+            "flower"
+          ]
+        },
+        {
+          "uuid": "2f1d62f6-749b-436a-ab3c-9aebf56641b4",
+          "originalWord": "Zahl",
+          "correctTranslation": "number",
+          "alternativeTranslations": [
+            "letter",
+            "book",
+            "page"
+          ]
+        },
+        {
+          "uuid": "434f088e-0b80-4f68-ade4-7df7f23c820e",
+          "originalWord": "Er ist glücklich.",
+          "correctTranslation": "He is happy.",
+          "alternativeTranslations": [
+            "He is old.",
+            "He is new.",
+            "He is hungry.",
+            "He is tired."
+          ]
+        },
+        {
+          "uuid": "24a9ea8c-c5cf-4e28-8cb2-49ca9f603259",
+          "originalWord": "Sie ist nicht glücklich.",
+          "correctTranslation": "She is not happy.",
+          "alternativeTranslations": [
+            "She is not old.",
+            "She is not new.",
+            "She is not hungry.",
+            "She is not tired."
+          ]
+        },
+        {
+          "uuid": "1e599968-abeb-48bd-b5cb-9f3027d4b11d",
+          "originalWord": "zuhören",
+          "correctTranslation": "listen",
+          "alternativeTranslations": [
+            "sit",
+            "read",
+            "red",
+            "list"
+          ]
+        },
+        {
+          "uuid": "f23adb48-029f-4a11-9c11-5f1580650056",
+          "originalWord": "Wir können Fußball spielen",
+          "correctTranslation": "We can play football.",
+          "alternativeTranslations": [
+            "We can't play football.",
+            "They can play tennis.",
+            "They can't paly tennis."
+          ]
+        },
+        {
+          "uuid": "0bc3d9bf-0d3d-4a16-bf4e-9b8f736983d2",
+          "originalWord": "ein Boot",
+          "correctTranslation": "a boat",
+          "alternativeTranslations": [
+            "a horse",
+            "a bag",
+            "a bug",
+            "a house"
+          ]
+        },
+        {
+          "uuid": "6e3492f0-b81f-4e83-8a86-1366ba0958bc",
+          "originalWord": "Wasser",
+          "correctTranslation": "water",
+          "alternativeTranslations": [
+            "sand",
+            "wether",
+            "wather"
+          ]
+        },
+        {
+          "uuid": "0f2c38fe-a379-4ab4-9ba4-3b7b84c2348a",
+          "originalWord": "ein großes Haus",
+          "correctTranslation": "a big house",
+          "alternativeTranslations": [
+            "a little house",
+            "a tiny house",
+            "a green house",
+            "a old house"
+          ]
+        },
+        {
+          "uuid": "68ebf807-7165-4b5b-845a-abebba3b8743",
+          "originalWord": "ein großartiger Ort/Platz, ein toller Ort/Platz",
+          "correctTranslation": "a great place",
+          "alternativeTranslations": [
+            "a little place",
+            "a green place",
+            "a great plate",
+            "a little plate",
+            "a green plate"
+          ]
+        },
+        {
+          "uuid": "9c7291d3-17e9-4048-b898-cd008f57e270",
+          "originalWord": "ich kann ein/eine … sehen",
+          "correctTranslation": "I can see a …",
+          "alternativeTranslations": [
+            "I can hear a …",
+            "A … can I see",
+            "A … can I hear",
+            "I can get a …",
+            "A … can I get"
+          ]
+        },
+        {
+          "uuid": "5fc1e075-7c36-4c59-9f4a-b129e926fd0e",
+          "originalWord": "Foto",
+          "correctTranslation": "photo",
+          "alternativeTranslations": [
+            "poto",
+            "footo",
+            "phooto"
+          ]
+        },
+        {
+          "uuid": "4b0f2c30-264a-4d1c-9c3f-c305be1d899a",
+          "originalWord": "Drachen",
+          "correctTranslation": "kite",
+          "alternativeTranslations": [
+            "knife",
+            "dread",
+            "knight",
+            "door"
           ]
         }
       ]
