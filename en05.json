@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 37,
+  "version": 38,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -4828,6 +4828,193 @@
             "No, can't I.",
             "No, I wasn't.",
             "No, there isn't."
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "c6f7d679-f906-4fd0-abac-bc9c3cfc1d35",
+      "name": "English 5 Unit 0/02",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "0337fd66-c69b-4737-9336-a88186cb65fc",
+          "originalWord": "hübsch",
+          "correctTranslation": "pretty",
+          "alternativeTranslations": [
+            "pitty",
+            "ugly",
+            "underly",
+            "petty"
+          ]
+        },
+        {
+          "uuid": "49d7c581-8c2d-41c7-bdb4-53370411d56f",
+          "originalWord": "Und du? / Was ist mit dir?",
+          "correctTranslation": "What about you?",
+          "alternativeTranslations": [
+            "Where about you?",
+            "Where are you?",
+            "What are you on?",
+            "Where are you on?"
+          ]
+        },
+        {
+          "uuid": "1c647bda-cc43-4522-93d3-8ed350eef41d",
+          "originalWord": "Willkommen (in Bristol)",
+          "correctTranslation": "Welcome (to Bristol)",
+          "alternativeTranslations": [
+            "Well (to Bristol)",
+            "Well done (to Bristol)",
+            "Wherel (to Bristol)",
+            "Wherecome (to Bristol)"
+          ]
+        },
+        {
+          "uuid": "896bf77a-91a9-4606-b01d-3b7d42ac3d0b",
+          "originalWord": "ich kann mit … reden / ich kann mich mit … unterhalten",
+          "correctTranslation": "I can talk to …",
+          "alternativeTranslations": [
+            "I can say to …",
+            "I can talk on …",
+            "I can say on …",
+            "I can hear …",
+            "I can hear on …"
+          ]
+        },
+        {
+          "uuid": "15331a76-baf4-49cb-9995-710f320794a4",
+          "originalWord": "mein Partner / meine Partnerin",
+          "correctTranslation": "my partner",
+          "alternativeTranslations": [
+            "my friend",
+            "my neighbour",
+            "my mum",
+            "my dad"
+          ]
+        },
+        {
+          "uuid": "99ba4298-d06a-4391-bdd9-5a8b3768cab1",
+          "originalWord": "dies ist",
+          "correctTranslation": "this is",
+          "alternativeTranslations": [
+            "there is",
+            "here is",
+            "these are",
+            "there are",
+            "here are"
+          ]
+        },
+        {
+          "uuid": "582b6dae-d031-4ca6-baa3-95bc216a9856",
+          "originalWord": "er ist",
+          "correctTranslation": "he's",
+          "alternativeTranslations": [
+            "she's",
+            "it's",
+            "you're",
+            "I'm"
+          ]
+        },
+        {
+          "uuid": "9e266177-b299-434c-b40a-757f4a903b5d",
+          "originalWord": "sie ist",
+          "correctTranslation": "she's",
+          "alternativeTranslations": [
+            "it's",
+            "you're",
+            "I'm",
+            "he's"
+          ]
+        },
+        {
+          "uuid": "914dd99d-5c16-4f66-8d40-84ad7e45de5f",
+          "originalWord": "auch aus Bristol",
+          "correctTranslation": "from Bristol too",
+          "alternativeTranslations": [
+            "too from Bristol",
+            "at Bristol too",
+            "too at Bristol",
+            "in Bristol too",
+            "too in Bristol"
+          ]
+        },
+        {
+          "uuid": "71512126-3c69-4e60-8f87-4b287c6db6fb",
+          "originalWord": "neu",
+          "correctTranslation": "new",
+          "alternativeTranslations": [
+            "old",
+            "near",
+            "elder",
+            "next"
+          ]
+        },
+        {
+          "uuid": "143d7c81-583d-4286-875a-f5a47f5f3b83",
+          "originalWord": "mit",
+          "correctTranslation": "with",
+          "alternativeTranslations": [
+            "without",
+            "at",
+            "near",
+            "sit"
+          ]
+        },
+        {
+          "uuid": "52a39e79-e304-47f9-a45f-8b917b33fe15",
+          "originalWord": "sein, seine",
+          "correctTranslation": "his",
+          "alternativeTranslations": [
+            "her",
+            "my",
+            "their",
+            "our"
+          ]
+        },
+        {
+          "uuid": "c347e501-fb85-4d05-9f4e-a2ee4d786ed3",
+          "originalWord": "Zwillingsbruder",
+          "correctTranslation": "twin brother",
+          "alternativeTranslations": [
+            "twin sister",
+            "my brother",
+            "my sister",
+            "our brother",
+            "our sister"
+          ]
+        },
+        {
+          "uuid": "b794a771-085e-4633-a203-7c16320bb713",
+          "originalWord": "sie sind",
+          "correctTranslation": "they're (=they are)",
+          "alternativeTranslations": [
+            "we're (=we are)",
+            "he's (=he is)",
+            "she's (=she is)"
+          ]
+        },
+        {
+          "uuid": "28501d52-9d66-4566-af5e-03c52b3f9c8d",
+          "originalWord": "ich kann über … reden",
+          "correctTranslation": "I can talk about …",
+          "alternativeTranslations": [
+            "I can talk to …",
+            "I can say about …",
+            "I can say to …",
+            "I can talk on …"
+          ]
+        },
+        {
+          "uuid": "6edaf25b-8965-4126-905e-eb6fdd6c5f00",
+          "originalWord": "(Buch-, Heft) Seite",
+          "correctTranslation": "page",
+          "alternativeTranslations": [
+            "side",
+            "slide",
+            "site",
+            "poor"
           ]
         }
       ]
