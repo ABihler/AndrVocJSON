@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 39,
+  "version": 41,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -5186,6 +5186,182 @@
             "dread",
             "knight",
             "door"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "567cda32-a7ba-4f0f-af8f-b6c5069baa75",
+      "name": "English 5 Unit 0/04",
+      "language": "en",
+      "version": 2,
+      "vocabulary": [
+        {
+          "uuid": "a5c9d7aa-fcb8-4582-a209-a7739217eb3d",
+          "originalWord": "Parkstraße",
+          "correctTranslation": "Park Road",
+          "alternativeTranslations": [
+            "Road Park",
+            "Parking Road",
+            "Roady Park"
+          ]
+        },
+        {
+          "uuid": "07149964-442a-43eb-86c1-4fec5168fa9a",
+          "originalWord": "wenn",
+          "correctTranslation": "when",
+          "alternativeTranslations": [
+            "who",
+            "where",
+            "what",
+            "whom"
+          ]
+        },
+        {
+          "uuid": "a701d1ba-fae1-496c-b5f7-b06d5f297f9d",
+          "originalWord": "leer",
+          "correctTranslation": "empty",
+          "alternativeTranslations": [
+            "full",
+            "easy",
+            "big",
+            "little"
+          ]
+        },
+        {
+          "uuid": "4eb8b264-d8b0-4d0f-a0f8-0c199a23a2c7",
+          "originalWord": "voll",
+          "correctTranslation": "full",
+          "alternativeTranslations": [
+            "empty",
+            "easy",
+            "for",
+            "front"
+          ]
+        },
+        {
+          "uuid": "45530c34-d455-4b8a-82f6-83d3bfa035c0",
+          "originalWord": "ich schließe … / ich mache … zu.",
+          "correctTranslation": "I close …",
+          "alternativeTranslations": [
+            "I open _",
+            "I push …",
+            "I get …",
+            "I see …"
+          ]
+        },
+        {
+          "uuid": "dec6cabe-19b8-43bf-bd27-7ab7d9861b5b",
+          "originalWord": "Ding, Sache",
+          "correctTranslation": "thing",
+          "alternativeTranslations": [
+            "think",
+            "tool",
+            "thick",
+            "dong"
+          ]
+        },
+        {
+          "uuid": "ca44bc7d-7b9f-4bb4-8c10-40c821050fa5",
+          "originalWord": "ich öffne … / ich mache … auf",
+          "correctTranslation": "I open …",
+          "alternativeTranslations": [
+            "I close …",
+            "I push …",
+            "I get …",
+            "I see …"
+          ]
+        },
+        {
+          "uuid": "3d5be5fe-afc7-4c7b-8285-73de1a32328e",
+          "originalWord": "ich drücke … / ich schiebe … / ich stoße …",
+          "correctTranslation": "I push …",
+          "alternativeTranslations": [
+            "I open …",
+            "I put …",
+            "I get …",
+            "I close …",
+            "I open …"
+          ]
+        },
+        {
+          "uuid": "6508847a-c6fa-45c2-8f7f-62c8d015de4e",
+          "originalWord": "ich ziehe …",
+          "correctTranslation": "I pull …",
+          "alternativeTranslations": [
+            "I push …",
+            "I open",
+            "I get …",
+            "I push …"
+          ]
+        },
+        {
+          "uuid": "8536b215-b12b-4fe1-97f5-8254dc3943b0",
+          "originalWord": "ich lasse … fallen",
+          "correctTranslation": "I drop …",
+          "alternativeTranslations": [
+            "I push …",
+            "I open …",
+            "I get …",
+            "I see …",
+            "I put …"
+          ]
+        },
+        {
+          "uuid": "6713daaf-dbe6-4192-8e48-6596687e7eb4",
+          "originalWord": "dann, danach",
+          "correctTranslation": "then",
+          "alternativeTranslations": [
+            "there",
+            "that",
+            "they",
+            "when",
+            "where"
+          ]
+        },
+        {
+          "uuid": "bb7ef256-e974-4e55-bbed-dccd5d1b3a08",
+          "originalWord": "ich lache",
+          "correctTranslation": "I laugh",
+          "alternativeTranslations": [
+            "I seee",
+            "I hear",
+            "I get",
+            "I cook"
+          ]
+        },
+        {
+          "uuid": "b4f64775-7fd0-4c54-ba33-5ff424e5d378",
+          "originalWord": "du schaust / du guckst",
+          "correctTranslation": "you look",
+          "alternativeTranslations": [
+            "you get",
+            "you sleep",
+            "you book",
+            "you walk"
+          ]
+        },
+        {
+          "uuid": "6ab0bece-3b00-4b13-a337-970a93d6dc49",
+          "originalWord": "aber",
+          "correctTranslation": "but",
+          "alternativeTranslations": [
+            "shut",
+            "bar",
+            "nut",
+            "no",
+            "yes"
+          ]
+        },
+        {
+          "uuid": "60b70918-5381-47bb-bc9a-4748bc2bd944",
+          "originalWord": "Du kannst mich nicht finden.",
+          "correctTranslation": "You can't find me.",
+          "alternativeTranslations": [
+            "You can't see me.",
+            "You can't hide me.",
+            "You can't hear me.",
+            "You can't follow me."
           ]
         }
       ]
