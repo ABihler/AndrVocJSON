@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 41,
+  "version": 42,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -5194,7 +5194,7 @@
       "uuid": "567cda32-a7ba-4f0f-af8f-b6c5069baa75",
       "name": "English 5 Unit 0/04",
       "language": "en",
-      "version": 2,
+      "version": 3,
       "vocabulary": [
         {
           "uuid": "a5c9d7aa-fcb8-4582-a209-a7739217eb3d",
@@ -5244,7 +5244,7 @@
           "originalWord": "ich schließe … / ich mache … zu.",
           "correctTranslation": "I close …",
           "alternativeTranslations": [
-            "I open _",
+            "I open …",
             "I push …",
             "I get …",
             "I see …"
