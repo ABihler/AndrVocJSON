@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 42,
+  "version": 44,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -5362,6 +5362,37 @@
             "You can't hide me.",
             "You can't hear me.",
             "You can't follow me."
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "ccd8f7b3-989f-413b-8d03-ed022e0a2f4a",
+      "name": "English 5 Unit 0/05",
+      "language": "en",
+      "version": 2,
+      "vocabulary": [
+        {
+          "uuid": "680a9784-33d6-4d9c-9d9c-a4318086a038",
+          "originalWord": "Das bin ich.",
+          "correctTranslation": "That's me.",
+          "alternativeTranslations": [
+            "That's him.",
+            "Here I am.",
+            "Here he's.",
+            "There's me.",
+            "There's him."
+          ]
+        },
+        {
+          "uuid": "0907ed7b-2110-4e29-b14e-c9c137c38ab3",
+          "originalWord": "schr schön, sehr nett",
+          "correctTranslation": "very nice",
+          "alternativeTranslations": [
+            "very good",
+            "very bad",
+            "very loud",
+            "very much"
           ]
         }
       ]
