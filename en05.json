@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 44,
+  "version": 46,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -5370,20 +5370,8 @@
       "uuid": "ccd8f7b3-989f-413b-8d03-ed022e0a2f4a",
       "name": "English 5 Unit 0/05",
       "language": "en",
-      "version": 2,
+      "version": 4,
       "vocabulary": [
-        {
-          "uuid": "680a9784-33d6-4d9c-9d9c-a4318086a038",
-          "originalWord": "Das bin ich.",
-          "correctTranslation": "That's me.",
-          "alternativeTranslations": [
-            "That's him.",
-            "Here I am.",
-            "Here he's.",
-            "There's me.",
-            "There's him."
-          ]
-        },
         {
           "uuid": "0907ed7b-2110-4e29-b14e-c9c137c38ab3",
           "originalWord": "schr schön, sehr nett",
@@ -5393,6 +5381,151 @@
             "very bad",
             "very loud",
             "very much"
+          ]
+        },
+        {
+          "uuid": "e91c780e-5c5e-41cc-ae41-8922cf38d80c",
+          "originalWord": "Du kannst das Baby nehmen",
+          "correctTranslation": "You can take the baby.",
+          "alternativeTranslations": [
+            "The baby can take you.",
+            "You may be the baby.",
+            "You can put the baby down.",
+            "You are the baby."
+          ]
+        },
+        {
+          "uuid": "814650c0-0fae-4a1c-a6e9-e0971d80d3d0",
+          "originalWord": "Du kannst mir helfen.",
+          "correctTranslation": "You can help me.",
+          "alternativeTranslations": [
+            "I can help you.",
+            "You help me.",
+            "You don't help me.",
+            "May you help me."
+          ]
+        },
+        {
+          "uuid": "8cb9d268-0780-4528-9427-5d8fc5e4e2e3",
+          "originalWord": "hier drinnen",
+          "correctTranslation": "in here",
+          "alternativeTranslations": [
+            "here in",
+            "in there",
+            "there in",
+            "out there",
+            "there out"
+          ]
+        },
+        {
+          "uuid": "f9786c8d-50e9-4343-b67d-a40020a0c819",
+          "originalWord": "Wer bist du?",
+          "correctTranslation": "Who are you?",
+          "alternativeTranslations": [
+            "Where are you?",
+            "What are you?",
+            "There are you?",
+            "This is you?"
+          ]
+        },
+        {
+          "uuid": "1dea6352-66c2-41ec-86e8-94399776d410",
+          "originalWord": "da, dort",
+          "correctTranslation": "there",
+          "alternativeTranslations": [
+            "here",
+            "where",
+            "that",
+            "what",
+            "those"
+          ]
+        },
+        {
+          "uuid": "b8e00f14-8afb-47c1-c0b3-2310f4ba5c35",
+          "originalWord": "Bild",
+          "correctTranslation": "picture",
+          "alternativeTranslations": [
+            "paint",
+            "partner",
+            "pixel",
+            "bottle"
+          ]
+        },
+        {
+          "uuid": "d36335b5-bd88-4a0e-b00f-1dc8ab5b1d69",
+          "originalWord": "Mäppchen",
+          "correctTranslation": "pencil case",
+          "alternativeTranslations": [
+            "pencil map",
+            "pen map",
+            "pen case",
+            "suitcase"
+          ]
+        },
+        {
+          "uuid": "b90fff5f-347e-47d7-a85e-3121ddaea5ea",
+          "originalWord": "Bleistift",
+          "correctTranslation": "pencil",
+          "alternativeTranslations": [
+            "pen",
+            "felt tip",
+            "glue stick",
+            "stick"
+          ]
+        },
+        {
+          "uuid": "436834b9-0bf8-44a0-847f-ac5279ff8b24",
+          "originalWord": "Füller",
+          "correctTranslation": "pen",
+          "alternativeTranslations": [
+            "pencil hinzufügt",
+            "felt tip",
+            "glue stick",
+            "stick"
+          ]
+        },
+        {
+          "uuid": "2ed0d9f4-0606-47ba-9ed1-3adaa591e185",
+          "originalWord": "Radiergummy",
+          "correctTranslation": "rubber",
+          "alternativeTranslations": [
+            "gummy",
+            "razor",
+            "ruler",
+            "pen"
+          ]
+        },
+        {
+          "uuid": "1916244c-6476-4520-9f4f-d0ea767e3ab3",
+          "originalWord": "Filzstift",
+          "correctTranslation": "felt tip",
+          "alternativeTranslations": [
+            "pen",
+            "pencil",
+            "glue stick",
+            "stick"
+          ]
+        },
+        {
+          "uuid": "a4d98940-5713-4d40-828f-f23c2560f0a3",
+          "originalWord": "Klebestift",
+          "correctTranslation": "glue stick",
+          "alternativeTranslations": [
+            "pen",
+            "pencil",
+            "felt tip",
+            "stick"
+          ]
+        },
+        {
+          "uuid": "b2c4846f-a326-48a9-a531-631a8d8788ba",
+          "originalWord": "Lineal",
+          "correctTranslation": "ruler",
+          "alternativeTranslations": [
+            "rubber",
+            "razor",
+            "pen",
+            "line"
           ]
         }
       ]
