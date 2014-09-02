@@ -1,0 +1,184 @@
+{
+  "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
+  "serverName": "Französisch Klasse 6",
+  "serverDescription": "Französisch Klasse 6",
+  "version": 3,
+  "lessons": [
+    {
+      "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
+      "name": "Französisch 6 unité 01/01a",
+      "language": "fr",
+      "version": 2,
+      "vocabulary": [
+        {
+          "uuid": "a8a42234-e00b-4a97-8c35-94ec939e5c89",
+          "originalWord": "der Schuljahresbeginn",
+          "correctTranslation": "la rentrée",
+          "alternativeTranslations": [
+            "le rentrée",
+            "le rentré",
+            "le rentré",
+            "la entré",
+            "le entrée"
+          ]
+        },
+        {
+          "uuid": "61d34962-1a8a-4998-8d54-69ae7bfbd192",
+          "originalWord": "Hallo! / Tschüss!",
+          "correctTranslation": "Satut!",
+          "alternativeTranslations": [
+            "Salu!",
+            "Sale!",
+            "",
+            "Sale!",
+            "Satú"
+          ]
+        },
+        {
+          "uuid": "3e85ad42-9fb2-4b3a-bec3-5ee8e5b5024f",
+          "originalWord": "Wie geht's? Geht's dir gut?",
+          "correctTranslation": "Ça va?",
+          "alternativeTranslations": [
+            "Ce va?",
+            "Cest va?",
+            "Què va?",
+            "Ça ve?",
+            "Cest ve?"
+          ]
+        },
+        {
+          "uuid": "43b08a22-a3cf-4e79-960f-fb5ea8c832be",
+          "originalWord": "Es geht (mir) gut.",
+          "correctTranslation": "Ça va.",
+          "alternativeTranslations": [
+            "Ce va.",
+            "Cest va.",
+            "Que va.",
+            "Ça ve.",
+            "Cest va."
+          ]
+        },
+        {
+          "uuid": "937de35a-717e-45b5-a827-2dfebc1e18a9",
+          "originalWord": "Und dir? / Und du?",
+          "correctTranslation": "Et toi?",
+          "alternativeTranslations": [
+            "En toi?",
+            "Ce tù?",
+            "Ça tú?",
+            "Et tũs?"
+          ]
+        },
+        {
+          "uuid": "e1b7b787-4801-4cca-b5cb-4f35c6ec16d1",
+          "originalWord": "und",
+          "correctTranslation": "et",
+          "alternativeTranslations": [
+            "te",
+            "tú",
+            "tu",
+            "tes"
+          ]
+        },
+        {
+          "uuid": "1427d91e-bf36-44d1-8d06-e34d78b1f1d5",
+          "originalWord": "du (betonte Form des Personalpronomens)",
+          "correctTranslation": "toi",
+          "alternativeTranslations": [
+            "tre",
+            "tus",
+            "tũs",
+            "moi"
+          ]
+        },
+        {
+          "uuid": "63927aed-a2f2-4cc5-ba42-35a2d99b2871",
+          "originalWord": "Na ja. / Es geht so.",
+          "correctTranslation": "bof",
+          "alternativeTranslations": [
+            "mof",
+            "fob",
+            "mob",
+            "sob",
+            "lob"
+          ]
+        },
+        {
+          "uuid": "2b36ab85-c07e-4772-86d8-40b48e8df941",
+          "originalWord": "Bis später!",
+          "correctTranslation": "À plus!",
+          "alternativeTranslations": [
+            "De plus!",
+            "A plus!",
+            "Dé plus!",
+            "Je plus!"
+          ]
+        },
+        {
+          "uuid": "db364c86-9ea8-4f2c-90b4-9edabce9657a",
+          "originalWord": "Bis morgen!",
+          "correctTranslation": "À demain!",
+          "alternativeTranslations": [
+            "De demain!",
+            "A demain!",
+            "Dé demain",
+            "Je demain!"
+          ]
+        },
+        {
+          "uuid": "a08ee426-8abe-4343-8274-9cecf4eae793",
+          "originalWord": "Guten Tag!, Guten Morgen!",
+          "correctTranslation": "Bonjour!",
+          "alternativeTranslations": [
+            "Bon jour!",
+            "Bonsoir!",
+            "Bon soir!",
+            "Toujour!"
+          ]
+        },
+        {
+          "uuid": "3d6dcc25-5d89-4df5-a752-277909cfa37b",
+          "originalWord": "Frau (Anrede)",
+          "correctTranslation": "Madame / Mme",
+          "alternativeTranslations": [
+            "Mademoiselle / Mms",
+            "Monsieur / Ms",
+            "Famme / F"
+          ]
+        },
+        {
+          "uuid": "72c80272-9f18-40b9-b6f0-5831c7550e81",
+          "originalWord": "Auf Wiedersehen!",
+          "correctTranslation": "Au revoir!",
+          "alternativeTranslations": [
+            "Bonjour!",
+            "A revoar!",
+            "Bon jour!",
+            "Aurevoir!"
+          ]
+        },
+        {
+          "uuid": "ca0b0518-023e-422c-b5a0-0e79f58ebb7e",
+          "originalWord": "super, toll",
+          "correctTranslation": "super",
+          "alternativeTranslations": [
+            "supe",
+            "supé",
+            "toute",
+            "tùlle"
+          ]
+        },
+        {
+          "uuid": "646f14cd-7529-464b-8f82-eb457b264e7e",
+          "originalWord": "Herr (Anrede)",
+          "correctTranslation": "Monsieur / M.",
+          "alternativeTranslations": [
+            "Madamme / M.",
+            "homme / H.",
+            "Messieur / M."
+          ]
+        }
+      ]
+    }
+  ]
+}
