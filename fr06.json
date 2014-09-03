@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 3,
+  "version": 4,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -176,6 +176,174 @@
             "Madamme / M.",
             "homme / H.",
             "Messieur / M."
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "ae442af4-c403-429b-bfb7-1ed8fabd6aaa",
+      "name": "Französisch 6 unité 01/02a",
+      "language": "fr",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "a4f93cc1-7b7c-4da6-b1cc-52bc32bea843",
+          "originalWord": "das ist",
+          "correctTranslation": "c'est",
+          "alternativeTranslations": [
+            "d'est",
+            "c'e ca",
+            "d'e ca",
+            "ces",
+            "dest"
+          ]
+        },
+        {
+          "uuid": "8adc967a-ecd2-4fac-818f-3cac6306682f",
+          "originalWord": "sein (Verb)",
+          "correctTranslation": "étre",
+          "alternativeTranslations": [
+            "ser",
+            "etre",
+            "sér"
+          ]
+        },
+        {
+          "uuid": "a0fab971-4645-4cda-be2e-9c0d13ce675c",
+          "originalWord": "das ist (auch: Da kommt…)",
+          "correctTranslation": "voilà",
+          "alternativeTranslations": [
+            "volla",
+            "voilá",
+            "vollá",
+            "vollà"
+          ]
+        },
+        {
+          "uuid": "a589ecc1-a396-4da4-b7a3-15ebc1af6d06",
+          "originalWord": "die Sechs A",
+          "correctTranslation": "la classe de sixième A",
+          "alternativeTranslations": [
+            "la classe sixième A",
+            "la sixième class A",
+            "la classe A sixième"
+          ]
+        },
+        {
+          "uuid": "33d8f1d7-5ecc-4285-8b0e-b28fb824f91f",
+          "originalWord": "die Klasse",
+          "correctTranslation": "la classe",
+          "alternativeTranslations": [
+            "le classe",
+            "la class",
+            "le class",
+            "la classé",
+            "le classé"
+          ]
+        },
+        {
+          "uuid": "72d7663c-7c97-483f-99dc-c3271515a7d6",
+          "originalWord": "die sechste Klasse (erste Stufe nach der Grundschule)",
+          "correctTranslation": "la sixième / la 6e",
+          "alternativeTranslations": [
+            "le sixième / le 6e",
+            "la sixieme / la 6e",
+            "le sixieme / le 6e",
+            "la sixiéme / la 6e",
+            "le sixiéme / le 6e"
+          ]
+        },
+        {
+          "uuid": "76d44e78-d083-49d1-ba71-3e44a331951a",
+          "originalWord": "ich bin (1. Per. sing. von étre)",
+          "correctTranslation": "je suis",
+          "alternativeTranslations": [
+            "tu es",
+            "je sui",
+            "tu e",
+            "je sois"
+          ]
+        },
+        {
+          "uuid": "f580bf5a-3615-4957-8754-cea7e404cb7c",
+          "originalWord": "der / die Lehrer/in",
+          "correctTranslation": "le/la professeur",
+          "alternativeTranslations": [
+            "le/la profeseur",
+            "le/la professéur",
+            "le/la professèur"
+          ]
+        },
+        {
+          "uuid": "96f67539-92c5-4bf0-b56b-96b489e609d9",
+          "originalWord": "der / die Französischlehrer/in",
+          "correctTranslation": "le/la professeur de français",
+          "alternativeTranslations": [
+            "le/la profeseur de français",
+            "le/la professéur de français",
+            "le/la professèur de français"
+          ]
+        },
+        {
+          "uuid": "4b0a444d-9166-421d-8b80-ad19e4f72a52",
+          "originalWord": "Französisch (Unterrichtsfach und Sprache)",
+          "correctTranslation": "le français",
+          "alternativeTranslations": [
+            "la français",
+            "le francais",
+            "la francais",
+            "le francáis"
+          ]
+        },
+        {
+          "uuid": "948a7aa1-af94-4208-aac8-799ea6005eff",
+          "originalWord": "ja",
+          "correctTranslation": "oui",
+          "alternativeTranslations": [
+            "oi",
+            "woi",
+            "oiu"
+          ]
+        },
+        {
+          "uuid": "b5f6c92e-b74a-44d7-9b05-835493482ca3",
+          "originalWord": "ich heiße …",
+          "correctTranslation": "je m'apelle …",
+          "alternativeTranslations": [
+            "je suis …",
+            "je d'apelle …",
+            "je apelle …"
+          ]
+        },
+        {
+          "uuid": "0f670d5d-5829-4cde-a48c-565c860c7087",
+          "originalWord": "ach, ach so",
+          "correctTranslation": "ah",
+          "alternativeTranslations": [
+            "wah",
+            "nah",
+            "oh"
+          ]
+        },
+        {
+          "uuid": "ad30794f-7289-4de1-82a3-4fc8405d7385",
+          "originalWord": "Verzeihung",
+          "correctTranslation": "pardon",
+          "alternativeTranslations": [
+            "perdon",
+            "perdù",
+            "peatón",
+            "perden"
+          ]
+        },
+        {
+          "uuid": "5f85253e-3a23-4e59-90d5-863045acbe36",
+          "originalWord": "Ich bin's. / Das bin ich.",
+          "correctTranslation": "C'est moi.",
+          "alternativeTranslations": [
+            "C'est me.",
+            "D'est moi.",
+            "D'ent me."
           ]
         }
       ]
