@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 46,
+  "version": 47,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -5370,11 +5370,11 @@
       "uuid": "ccd8f7b3-989f-413b-8d03-ed022e0a2f4a",
       "name": "English 5 Unit 0/05",
       "language": "en",
-      "version": 4,
+      "version": 5,
       "vocabulary": [
         {
           "uuid": "0907ed7b-2110-4e29-b14e-c9c137c38ab3",
-          "originalWord": "schr schön, sehr nett",
+          "originalWord": "sehr schön, sehr nett",
           "correctTranslation": "very nice",
           "alternativeTranslations": [
             "very good",
