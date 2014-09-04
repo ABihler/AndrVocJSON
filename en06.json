@@ -2,7 +2,7 @@
   "uuid": "e7826225-c2cc-4e99-a7ee-bcdf8eca2fe4",
   "serverName": "Englisch Klasse 6",
   "serverDescription": "Englisch Klasse 6",
-  "version": 2,
+  "version": 3,
   "lessons": [
     {
       "uuid": "d85519f5-adb7-4cf1-873d-6e741906b08d",
@@ -164,6 +164,25 @@
             "air",
             "aero",
             "plus"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "49df4190-c074-4b13-9f79-6f61ad2a80f6",
+      "name": "English 6 Unit 1/02",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "351ad4da-1f5b-49f0-90cc-9fbdb6c00afc",
+          "originalWord": "als, während",
+          "correctTranslation": "as",
+          "alternativeTranslations": [
+            "us",
+            "is",
+            "at",
+            "due"
           ]
         }
       ]
