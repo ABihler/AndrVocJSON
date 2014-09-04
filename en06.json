@@ -1,0 +1,172 @@
+{
+  "uuid": "e7826225-c2cc-4e99-a7ee-bcdf8eca2fe4",
+  "serverName": "Englisch Klasse 6",
+  "serverDescription": "Englisch Klasse 6",
+  "version": 2,
+  "lessons": [
+    {
+      "uuid": "d85519f5-adb7-4cf1-873d-6e741906b08d",
+      "name": "English 6 Unit 1/01",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "f288c38a-c3cf-45c1-a5ee-d879d0cdd6e3",
+          "originalWord": "am Meer",
+          "correctTranslation": "by the sea",
+          "alternativeTranslations": [
+            "on the sea",
+            "off the sea",
+            "in the sea",
+            "over the sea"
+          ]
+        },
+        {
+          "uuid": "3e65bffd-d05d-42dc-9db9-a2cbff37d37f",
+          "originalWord": "Wohnwagen",
+          "correctTranslation": "cacavan",
+          "alternativeTranslations": [
+            "carvan",
+            "car van",
+            "corvette"
+          ]
+        },
+        {
+          "uuid": "4bc6225b-0452-4c10-8142-acd9e8072414",
+          "originalWord": "kaufen (simple past)",
+          "correctTranslation": "(to) buy - bought",
+          "alternativeTranslations": [
+            "(to) buy - booght",
+            "(to) buy - brought",
+            "(to) buy - beit"
+          ]
+        },
+        {
+          "uuid": "e4798f7d-8ddc-4110-a38d-a3a171a0d10e",
+          "originalWord": "trinken / trank (simple past)",
+          "correctTranslation": "(to) drink - drank",
+          "alternativeTranslations": [
+            "(to) drink - drenk",
+            "(to) drink - drink",
+            "(to) drink - druck",
+            "(to) drink - draught"
+          ]
+        },
+        {
+          "uuid": "807b2522-9f61-45b0-82bc-8d0f1831ce27",
+          "originalWord": "essen / aß (simple past)",
+          "correctTranslation": "(to) eat - ate",
+          "alternativeTranslations": [
+            "(to) eat - eigt",
+            "(to) eat - eate",
+            "(to) eat - eaught",
+            "(to) eat - eght"
+          ]
+        },
+        {
+          "uuid": "44f5bd13-9e2b-43da-b6e5-2f6d9198dc2e",
+          "originalWord": "(sich) treffen / traf (simple past)",
+          "correctTranslation": "(to) meet - met",
+          "alternativeTranslations": [
+            "(to) meet - meihtg",
+            "(to) meet - mougth",
+            "(to) meet - mett"
+          ]
+        },
+        {
+          "uuid": "9f53e077-5037-480d-b149-1388283b8727",
+          "originalWord": "am Strand",
+          "correctTranslation": "on the beach",
+          "alternativeTranslations": [
+            "off the beach",
+            "on the sea",
+            "off the sea"
+          ]
+        },
+        {
+          "uuid": "9f8a6567-6e2e-4668-a3a4-44f7e9d81788",
+          "originalWord": "in Urlaub sein",
+          "correctTranslation": "(to) be on holiday",
+          "alternativeTranslations": [
+            "(to) go on holiday",
+            "(to) stay on holiday",
+            "(to) make a hoiday",
+            "(to) make holiday"
+          ]
+        },
+        {
+          "uuid": "85f11864-ca54-4933-a0ff-1838d62d0976",
+          "originalWord": "in Urlaub fahren",
+          "correctTranslation": "(to) go on holiday",
+          "alternativeTranslations": [
+            "(to) be on holiday",
+            "(to) stay on holiday",
+            "(to) make a hoiday",
+            "(to) make holiday)"
+          ]
+        },
+        {
+          "uuid": "0e9dad4e-bd25-4140-a52b-7b067dd34eb7",
+          "originalWord": "trotzdem",
+          "correctTranslation": "anyway",
+          "alternativeTranslations": [
+            "anywhere",
+            "anyhow",
+            "everyway",
+            "everywhere"
+          ]
+        },
+        {
+          "uuid": "94d338b3-9d19-460f-990c-8cb56e967d1e",
+          "originalWord": "Schwimmbad, Schwimmbecken",
+          "correctTranslation": "pool, swimming pool",
+          "alternativeTranslations": [
+            "pol, swimming pol",
+            "bath, swimming bath"
+          ]
+        },
+        {
+          "uuid": "a3219251-47f7-4577-84f1-81c9fd5ec1e2",
+          "originalWord": "jmd. eine SMS schicken",
+          "correctTranslation": "(to) text somebody",
+          "alternativeTranslations": [
+            "(to) sms somebody",
+            "(to) call somebody",
+            "(to) mail somebody"
+          ]
+        },
+        {
+          "uuid": "29e3d8ef-57e0-46bf-9fca-dc951274ffb1",
+          "originalWord": "SMS",
+          "correctTranslation": "text message",
+          "alternativeTranslations": [
+            "SMS",
+            "mail message",
+            "message text",
+            "message mail"
+          ]
+        },
+        {
+          "uuid": "dc60ebeb-acd4-4b85-ac8b-15703c6b4a8f",
+          "originalWord": "Aussicht, Blick",
+          "correctTranslation": "view",
+          "alternativeTranslations": [
+            "few",
+            "veiw",
+            "wiev"
+          ]
+        },
+        {
+          "uuid": "4932aa7a-bb39-4fe8-b078-b864bebdbfe5",
+          "originalWord": "Flugzeug",
+          "correctTranslation": "plane",
+          "alternativeTranslations": [
+            "air",
+            "aero",
+            "plus"
+          ]
+        }
+      ]
+    }
+  ]
+}
