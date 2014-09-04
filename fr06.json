@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 4,
+  "version": 6,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -344,6 +344,192 @@
             "C'est me.",
             "D'est moi.",
             "D'ent me."
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "087b83fe-cec2-4be0-a023-6b00c38afbcf",
+      "name": "Französisch 6 unité 01/02b",
+      "language": "fr",
+      "version": 2,
+      "vocabulary": [
+        {
+          "uuid": "bf3b47bc-affc-42d4-be1b-94f52b1e0b17",
+          "originalWord": "ich (betonte Form)",
+          "correctTranslation": "moi",
+          "alternativeTranslations": [
+            "je",
+            "tu",
+            "elle",
+            "mio",
+            "tus"
+          ]
+        },
+        {
+          "uuid": "582de3bb-a1e6-45c0-9a26-f1e1c075d657",
+          "originalWord": "also",
+          "correctTranslation": "alors",
+          "alternativeTranslations": [
+            "elor",
+            "alor",
+            "elors"
+          ]
+        },
+        {
+          "uuid": "4b4b354c-6eaf-4572-9254-addbe3db572e",
+          "originalWord": "du bist (2. Pers Sg.)",
+          "correctTranslation": "tu es",
+          "alternativeTranslations": [
+            "je suis",
+            "li est",
+            "tu er",
+            "il er"
+          ]
+        },
+        {
+          "uuid": "0b69709f-fd30-4596-aa84-f506d349be6b",
+          "originalWord": "du heißt …",
+          "correctTranslation": "tu t'appelles …",
+          "alternativeTranslations": [
+            "il t'appelles …",
+            "tu t'apelles …",
+            "il t'apelles …",
+            "je m'appelle …"
+          ]
+        },
+        {
+          "uuid": "c2eff190-58b3-4364-ad78-10fc895c826d",
+          "originalWord": "Mit einem C?",
+          "correctTranslation": "Avec un C?",
+          "alternativeTranslations": [
+            "Sans un C?",
+            "Avec C?",
+            "Sans C?"
+          ]
+        },
+        {
+          "uuid": "f85e6072-bc8d-467b-87c3-bfdc61f9b8fc",
+          "originalWord": "Nicht wahr?",
+          "correctTranslation": "Non?",
+          "alternativeTranslations": [
+            "Oui?",
+            "No oui?",
+            "ah non?"
+          ]
+        },
+        {
+          "uuid": "27e5693b-3fbe-4a35-b71a-6315f8a49244",
+          "originalWord": "mit",
+          "correctTranslation": "avec",
+          "alternativeTranslations": [
+            "sans",
+            "en",
+            "un",
+            "une"
+          ]
+        },
+        {
+          "uuid": "a2ba9e7b-32b2-4461-bb9b-f99644945a46",
+          "originalWord": "ein",
+          "correctTranslation": "un",
+          "alternativeTranslations": [
+            "une",
+            "nu",
+            "deux"
+          ]
+        },
+        {
+          "uuid": "401c1f4a-39bd-40dc-b9ca-84cb1124923e",
+          "originalWord": "nein",
+          "correctTranslation": "non",
+          "alternativeTranslations": [
+            "oui",
+            "no",
+            "nous"
+          ]
+        },
+        {
+          "uuid": "a9b2a2e7-bc09-4fe4-85da-cc472a8335ee",
+          "originalWord": "er ist (3. Pers. Sg.)",
+          "correctTranslation": "il est",
+          "alternativeTranslations": [
+            "elle est",
+            "tu est",
+            "je suis"
+          ]
+        },
+        {
+          "uuid": "c613baa3-1fe2-4ab2-afff-76ab7e1c4c2c",
+          "originalWord": "aus",
+          "correctTranslation": "de",
+          "alternativeTranslations": [
+            "avec",
+            "dans",
+            "en"
+          ]
+        },
+        {
+          "uuid": "dbd473d5-4ab0-4b75-9d1a-984f500b9068",
+          "originalWord": "sehr",
+          "correctTranslation": "très",
+          "alternativeTranslations": [
+            "trois",
+            "trés",
+            "tres",
+            "tróis"
+          ]
+        },
+        {
+          "uuid": "ecb31a33-6ba8-4771-b6a1-af677266427a",
+          "originalWord": "gut",
+          "correctTranslation": "bien",
+          "alternativeTranslations": [
+            "bene",
+            "bein",
+            "bei",
+            "bie"
+          ]
+        },
+        {
+          "uuid": "8b4abcab-3976-4807-a6cd-97c7added1ea",
+          "originalWord": "sie ist (3. Pers Sg.)",
+          "correctTranslation": "elle est",
+          "alternativeTranslations": [
+            "il est",
+            "je suis",
+            "tu es"
+          ]
+        },
+        {
+          "uuid": "008463cd-c17c-47f4-8ae5-610ad4bcde16",
+          "originalWord": "da/hier",
+          "correctTranslation": "là",
+          "alternativeTranslations": [
+            "la",
+            "le",
+            "lè",
+            "li"
+          ]
+        },
+        {
+          "uuid": "62f88c70-6627-4362-850e-57a5af217508",
+          "originalWord": "äh",
+          "correctTranslation": "euh",
+          "alternativeTranslations": [
+            "hä",
+            "hi"
+          ]
+        },
+        {
+          "uuid": "7f32b512-c4b3-433b-bc94-6b6ad47b147b",
+          "originalWord": "zwei",
+          "correctTranslation": "deux",
+          "alternativeTranslations": [
+            "un",
+            "une",
+            "dieu",
+            "deus"
           ]
         }
       ]
