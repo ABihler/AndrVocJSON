@@ -2,7 +2,7 @@
   "uuid": "e7826225-c2cc-4e99-a7ee-bcdf8eca2fe4",
   "serverName": "Englisch Klasse 6",
   "serverDescription": "Englisch Klasse 6",
-  "version": 3,
+  "version": 5,
   "lessons": [
     {
       "uuid": "d85519f5-adb7-4cf1-873d-6e741906b08d",
@@ -172,8 +172,52 @@
       "uuid": "49df4190-c074-4b13-9f79-6f61ad2a80f6",
       "name": "English 6 Unit 1/02",
       "language": "en",
-      "version": 1,
+      "version": 3,
       "vocabulary": [
+        {
+          "uuid": "7170e76d-62db-4bad-8361-8445a8c3dc8f",
+          "originalWord": "fliegen",
+          "correctTranslation": "(to) fly",
+          "alternativeTranslations": [
+            "(to) fli",
+            "(to) flight",
+            "(to) flay",
+            "(to) ply"
+          ]
+        },
+        {
+          "uuid": "7b5e97e0-31db-4bd6-a65f-1866ba454f1e",
+          "originalWord": "um … herum; in … umher",
+          "correctTranslation": "round",
+          "alternativeTranslations": [
+            "rind",
+            "right",
+            "bright",
+            "sound"
+          ]
+        },
+        {
+          "uuid": "b09de8dd-2892-4e01-bd2b-17b85d7e6e05",
+          "originalWord": "Insel",
+          "correctTranslation": "island",
+          "alternativeTranslations": [
+            "eiland",
+            "ailand",
+            "freeland",
+            "umland"
+          ]
+        },
+        {
+          "uuid": "a2824e52-624b-402f-b5b0-1ae18b505095",
+          "originalWord": "scheinen (Sonne)",
+          "correctTranslation": "(to) shine",
+          "alternativeTranslations": [
+            "(to) bright",
+            "(to) show",
+            "(to) sun",
+            "(to) shy"
+          ]
+        },
         {
           "uuid": "351ad4da-1f5b-49f0-90cc-9fbdb6c00afc",
           "originalWord": "als, während",
@@ -183,6 +227,114 @@
             "is",
             "at",
             "due"
+          ]
+        },
+        {
+          "uuid": "22386421-8289-4494-bdda-b801273a34d2",
+          "originalWord": "Ferienhaus, Villa",
+          "correctTranslation": "villa",
+          "alternativeTranslations": [
+            "vila",
+            "veilla",
+            "house holiday",
+            "holiday"
+          ]
+        },
+        {
+          "uuid": "b4ff2244-bb5a-4fae-a3de-a09950fa2b85",
+          "originalWord": "unser eigenes Schwimmbecken",
+          "correctTranslation": "our own pool",
+          "alternativeTranslations": [
+            "our only pool",
+            "our owl pool",
+            "our ugly pool",
+            "our ugly pool"
+          ]
+        },
+        {
+          "uuid": "3aee2f2b-8e91-44bb-9453-ec50d17fc0bf",
+          "originalWord": "Himmel",
+          "correctTranslation": "sky",
+          "alternativeTranslations": [
+            "ski",
+            "high",
+            "hi",
+            "hy"
+          ]
+        },
+        {
+          "uuid": "f1b45f21-5287-43b6-aeeb-1c7ce1fef045",
+          "originalWord": "reisen",
+          "correctTranslation": "(to) travel",
+          "alternativeTranslations": [
+            "(to) go",
+            "(to) trail",
+            "(to) voyager"
+          ]
+        },
+        {
+          "uuid": "3c60ebbb-e12b-4fce-ac89-f3e2c315b942",
+          "originalWord": "mit dem Auto/Rad/… fahren",
+          "correctTranslation": "(to) go by car/bike/…",
+          "alternativeTranslations": [
+            "(to) drive car/bike/…",
+            "(to) move by car/bike/…",
+            "(to) go with car/bike/…",
+            "(to) drive with car/bike/…"
+          ]
+        },
+        {
+          "uuid": "09493ba8-b977-44dd-bdca-8fb9a3df3c33",
+          "originalWord": "gehen / ging (simple past)",
+          "correctTranslation": "(to) go - went",
+          "alternativeTranslations": [
+            "(to) go - goed",
+            "(to) go - way",
+            "(to) go - wend"
+          ]
+        },
+        {
+          "uuid": "1436bcab-8aee-4cdf-c02c-4d051e93b4d7",
+          "originalWord": "fliegen / flog (simple past)",
+          "correctTranslation": "(to) fly - flew",
+          "alternativeTranslations": [
+            "(to) fly - flyed",
+            "(to) fly - fleit",
+            "(to) fly - flight",
+            "(to) fly - flought"
+          ]
+        },
+        {
+          "uuid": "b895f2c9-5a8f-49d2-b064-a507b310e675",
+          "originalWord": "scheinen / schien (simple past)",
+          "correctTranslation": "(to) shine - shone",
+          "alternativeTranslations": [
+            "(to) shine - shin",
+            "(to) shine - sheind",
+            "(to) shine - shown",
+            "(to) shine - shout"
+          ]
+        },
+        {
+          "uuid": "c686e649-15e0-4b27-b512-0dd99d30a905",
+          "originalWord": "Wie war das Wetter?",
+          "correctTranslation": "What was the weather like?",
+          "alternativeTranslations": [
+            "What was the weather?",
+            "How was the day?",
+            "Where was the weather like?",
+            "Where was the weather?"
+          ]
+        },
+        {
+          "uuid": "79745770-88bb-4dde-9d16-ae472b6804e6",
+          "originalWord": "bleiben; wohnen, übernachten",
+          "correctTranslation": "(to) stay",
+          "alternativeTranslations": [
+            "(to) play",
+            "(to) keep",
+            "(to) star",
+            "(to) may"
           ]
         }
       ]
