@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 6,
+  "version": 7,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -184,7 +184,7 @@
       "uuid": "ae442af4-c403-429b-bfb7-1ed8fabd6aaa",
       "name": "Französisch 6 unité 01/02a",
       "language": "fr",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "uuid": "a4f93cc1-7b7c-4da6-b1cc-52bc32bea843",
@@ -201,7 +201,7 @@
         {
           "uuid": "8adc967a-ecd2-4fac-818f-3cac6306682f",
           "originalWord": "sein (Verb)",
-          "correctTranslation": "étre",
+          "correctTranslation": "être",
           "alternativeTranslations": [
             "ser",
             "etre",
