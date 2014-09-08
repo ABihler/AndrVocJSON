@@ -2,13 +2,13 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 7,
+  "version": 8,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
       "name": "Französisch 6 unité 01/01a",
       "language": "fr",
-      "version": 2,
+      "version": 3,
       "vocabulary": [
         {
           "uuid": "a8a42234-e00b-4a97-8c35-94ec939e5c89",
@@ -25,11 +25,11 @@
         {
           "uuid": "61d34962-1a8a-4998-8d54-69ae7bfbd192",
           "originalWord": "Hallo! / Tschüss!",
-          "correctTranslation": "Satut!",
+          "correctTranslation": "Salut!",
           "alternativeTranslations": [
             "Salu!",
             "Sale!",
-            "",
+            "Satut!",
             "Sale!",
             "Satú"
           ]
