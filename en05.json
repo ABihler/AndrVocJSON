@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 51,
+  "version": 52,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -5920,6 +5920,123 @@
             "You to the shop go.",
             "You go to the shop.",
             "You can to the shop go."
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "782f0ce2-0884-47c2-91b4-c4c58da20fe5",
+      "name": "English 5 Unit 0/09",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "ce45205c-87d6-4e78-8481-551b12ea413e",
+          "originalWord": "Woche",
+          "correctTranslation": "week",
+          "alternativeTranslations": [
+            "day",
+            "month",
+            "walk",
+            "duck"
+          ]
+        },
+        {
+          "uuid": "7a7c6359-c733-4284-b0f5-f258e9e6a70f",
+          "originalWord": "Gedicht",
+          "correctTranslation": "poem",
+          "alternativeTranslations": [
+            "poet",
+            "pet",
+            "poster"
+          ]
+        },
+        {
+          "uuid": "93d91b8a-1f11-4002-9f7c-7d8ac5a169e3",
+          "originalWord": "Warum ich?",
+          "correctTranslation": "Why me?",
+          "alternativeTranslations": [
+            "What me?",
+            "Who me?",
+            "Where me?",
+            "Why you?",
+            "What you?",
+            "Who you?"
+          ]
+        },
+        {
+          "uuid": "46d513e7-b69f-4e6d-96ea-fb7fe94d0e97",
+          "originalWord": "Montag",
+          "correctTranslation": "Monday",
+          "alternativeTranslations": [
+            "Thuesday",
+            "Moonday",
+            "Sunday",
+            "Wednesday"
+          ]
+        },
+        {
+          "uuid": "00556b5c-d265-4358-c0ad-224c263b8cd9",
+          "originalWord": "Dienstag",
+          "correctTranslation": "Thuesday",
+          "alternativeTranslations": [
+            "Thursday",
+            "Doorday",
+            "Wednesday",
+            "Thingday"
+          ]
+        },
+        {
+          "uuid": "0c105e6d-8294-4d2d-acc5-45b5e9dfa579",
+          "originalWord": "Mittwoch",
+          "correctTranslation": "Wednesday",
+          "alternativeTranslations": [
+            "Thursday",
+            "Midday",
+            "Thuesday"
+          ]
+        },
+        {
+          "uuid": "304c2c4c-2071-46b5-b631-923eb6ace962",
+          "originalWord": "Donnerstag",
+          "correctTranslation": "Thursday",
+          "alternativeTranslations": [
+            "Thuesday",
+            "Thunderday",
+            "Thingday"
+          ]
+        },
+        {
+          "uuid": "02e12854-0b58-4329-9d8c-81418900159f",
+          "originalWord": "Freitag",
+          "correctTranslation": "Friday",
+          "alternativeTranslations": [
+            "Freeday",
+            "Freedomday",
+            "Wednesday"
+          ]
+        },
+        {
+          "uuid": "b8ca6509-70b3-4fa4-9632-f95652ff30bf",
+          "originalWord": "Samstag",
+          "correctTranslation": "Saturday",
+          "alternativeTranslations": [
+            "Sunday",
+            "Samday",
+            "Someday",
+            "Friday"
+          ]
+        },
+        {
+          "uuid": "52faebea-5fce-4462-b074-a67dc26ada79",
+          "originalWord": "Sonntag",
+          "correctTranslation": "Sunday",
+          "alternativeTranslations": [
+            "",
+            "Saturday",
+            "Someday",
+            "Sunnyday",
+            "Sonday"
           ]
         }
       ]
