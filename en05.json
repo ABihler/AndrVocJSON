@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 47,
+  "version": 48,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -5526,6 +5526,173 @@
             "razor",
             "pen",
             "line"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "da8da97b-db5e-4812-b398-9ed9b738877f",
+      "name": "English 5 Unit 0/06",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "e0e1e75d-7901-4885-9346-8ef28dc901e0",
+          "originalWord": "in der Hamiltonstraße 7",
+          "correctTranslation": "at 7 Hamilton Street",
+          "alternativeTranslations": [
+            "in 7 Hamilton Street",
+            "at Hamilton Street 7",
+            "in Hamilton Street 7"
+          ]
+        },
+        {
+          "uuid": "90d78209-58aa-4aad-a0a6-0de17d95afe9",
+          "originalWord": "ihr Vater / ihre Mutter",
+          "correctTranslation": "their father / their mother",
+          "alternativeTranslations": [
+            "there father / there mother",
+            "the father / the mother",
+            "his father / his mother",
+            "here father / here mother"
+          ]
+        },
+        {
+          "uuid": "8903776d-417d-4a69-aebc-6f30beacb9dc",
+          "originalWord": "heute",
+          "correctTranslation": "today",
+          "alternativeTranslations": [
+            "day",
+            "tomorrow",
+            "yesterday",
+            "next day"
+          ]
+        },
+        {
+          "uuid": "d696acd0-6d88-4661-b169-4fa0930835ef",
+          "originalWord": "der letzte Tag",
+          "correctTranslation": "the last day",
+          "alternativeTranslations": [
+            "the next day",
+            "the last week",
+            "the next week",
+            "the lost day"
+          ]
+        },
+        {
+          "uuid": "f4428387-2029-4796-aef4-cf3f92e61bd1",
+          "originalWord": "… der Sommerferien",
+          "correctTranslation": "… of the summer holidays",
+          "alternativeTranslations": [
+            "… in the summer holidays",
+            "… after the summer holidays",
+            "… the summer holidays"
+          ]
+        },
+        {
+          "uuid": "de4c9483-d6fa-4f5c-b936-8adf7c603b3d",
+          "originalWord": "Enstschuldigung, dass ich zu spät bin/komme.",
+          "correctTranslation": "Sorry, I'm late.",
+          "alternativeTranslations": [
+            "Sorry, there is late.",
+            "Excuse me, too late.",
+            "Sorry, late am I."
+          ]
+        },
+        {
+          "uuid": "4fa51752-13f6-409a-b61f-ba0a8ef7a3b9",
+          "originalWord": "Einkaufsliste",
+          "correctTranslation": "shopping list",
+          "alternativeTranslations": [
+            "list shopping",
+            "shop list",
+            "list shop"
+          ]
+        },
+        {
+          "uuid": "f5990529-7823-4f65-adcb-0ad7f718b039",
+          "originalWord": "Sehen wir uns die Liste an. / Lasst uns die Liste ansehen.",
+          "correctTranslation": "Let's look at the list.",
+          "alternativeTranslations": [
+            "Let's look in the list.",
+            "Let's look for the list.",
+            "Do lokk at the list.",
+            "Do look in the list.",
+            "Do look for the list."
+          ]
+        },
+        {
+          "uuid": "4f29713c-0f7f-497d-9256-7c565b101181",
+          "originalWord": "du brauchst … / du benötigst …",
+          "correctTranslation": "you need …",
+          "alternativeTranslations": [
+            "you see …",
+            "you breed …",
+            "you look …",
+            "you get …"
+          ]
+        },
+        {
+          "uuid": "6b9c410b-1896-42d8-890c-2786859b1570",
+          "originalWord": "Ich auch.",
+          "correctTranslation": "Me too.",
+          "alternativeTranslations": [
+            "Too me.",
+            "Me two.",
+            "Two me.",
+            "I'm too."
+          ]
+        },
+        {
+          "uuid": "a26857b9-0568-4c1d-baac-77984b1468eb",
+          "originalWord": "Bleistiftspitzer",
+          "correctTranslation": "pencil sharpener",
+          "alternativeTranslations": [
+            "pencil sharper",
+            "pencil sharp",
+            "pencil sharping"
+          ]
+        },
+        {
+          "uuid": "06d30b17-0e6a-46d7-ae6d-817e9a32737c",
+          "originalWord": "Schulheft, Übungsheft",
+          "correctTranslation": "exercise book",
+          "alternativeTranslations": [
+            "school pages",
+            "exercise notes",
+            "school notes"
+          ]
+        },
+        {
+          "uuid": "7c2e6cb2-b9fb-405a-8a9e-e2a81e4754a7",
+          "originalWord": "Übung, Aufgabe",
+          "correctTranslation": "exercise",
+          "alternativeTranslations": [
+            "exit",
+            "promise",
+            "expertise"
+          ]
+        },
+        {
+          "uuid": "6c49012a-dbf7-4c3a-b807-01b91dc9f7e8",
+          "originalWord": "für die Schule",
+          "correctTranslation": "for school",
+          "alternativeTranslations": [
+            "at school",
+            "by school",
+            "after school",
+            "in school"
+          ]
+        },
+        {
+          "uuid": "58ef38df-b55e-400b-bd7e-3771f1b595d0",
+          "originalWord": "Auf geht's!",
+          "correctTranslation": "Let's go.",
+          "alternativeTranslations": [
+            "Up go.",
+            "Go up.",
+            "Let's up.",
+            "We go."
           ]
         }
       ]
