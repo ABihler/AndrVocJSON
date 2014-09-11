@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 53,
+  "version": 58,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -177,9 +177,9 @@
       "uuid": "842c2b75-7d4c-4388-b5e4-e595f4f1a508"
     },
     {
-      "name": "English 5 Unit 1/02",
+      "name": "English 5 Unit 1/03",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "originalWord": "Lehrer",
@@ -350,9 +350,9 @@
       "uuid": "15faa620-1f45-4de9-89ad-6950c8f60737"
     },
     {
-      "name": "English 5 Unit 1/03",
+      "name": "English 5 Unit 1/04",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "originalWord": "Tue, was ich tue.",
@@ -530,9 +530,9 @@
       "uuid": "ef375edb-cfc8-47d1-8788-f127cdd2f751"
     },
     {
-      "name": "English 5 Unit 1/04",
+      "name": "English 5 Unit 1/05",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "originalWord": "alle; alles",
@@ -715,9 +715,9 @@
       "uuid": "5140107d-d948-4320-b586-a29ea48f88aa"
     },
     {
-      "name": "English 5 Unit 1/05",
+      "name": "English 5 Unit 1/06",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "originalWord": "alles",
@@ -901,9 +901,9 @@
       "uuid": "c20e5422-8027-45c2-ad55-d6bae0f40423"
     },
     {
-      "name": "English 5 Unit 1/06",
+      "name": "English 5 Unit 1/07",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "originalWord": "Geburtstag",
