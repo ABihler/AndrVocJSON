@@ -2,13 +2,13 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 49,
+  "version": 51,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
-      "name": "English 5 Unit 0/09",
+      "name": "English 5 Unit 0/08",
       "language": "en",
-      "version": 1,
+      "version": 3,
       "vocabulary": [
         {
           "originalWord": "Gern geschehen. Nichts zu danken.",
@@ -110,6 +110,68 @@
             "porrat"
           ],
           "uuid": "b60b11ee-a0cd-4a00-bab4-efb6af32e3b4"
+        },
+        {
+          "uuid": "f9756bbd-b193-41a0-b58e-668033375cd6",
+          "originalWord": "Frühstückspension",
+          "correctTranslation": "Bed and Breakfast",
+          "alternativeTranslations": [
+            "Breakfast House",
+            "Bed House",
+            "Sleep and Eat"
+          ]
+        },
+        {
+          "uuid": "2c5696a2-690f-4dbd-99e1-b48aab085474",
+          "originalWord": "Ich kann (Zauber-)Kunststücke (machen).",
+          "correctTranslation": "I can do tricks.",
+          "alternativeTranslations": [
+            "I make tricks.",
+            "I do tricks.",
+            "I can make tricks."
+          ]
+        },
+        {
+          "uuid": "76145685-5486-4cc4-9fa5-cf05adca07b6",
+          "originalWord": "zweimal, doppelt, Doppel-",
+          "correctTranslation": "double",
+          "alternativeTranslations": [
+            "single",
+            "triple",
+            "often"
+          ]
+        },
+        {
+          "uuid": "af26e88b-3c22-4df9-a06e-c3e1c42d4920",
+          "originalWord": "null",
+          "correctTranslation": "zero",
+          "alternativeTranslations": [
+            "full",
+            "one",
+            "cero"
+          ]
+        },
+        {
+          "uuid": "e323b52d-a802-4a73-8b46-d02b8c3a6dab",
+          "originalWord": "Ich kann frühstücken.",
+          "correctTranslation": "I can have breakfast.",
+          "alternativeTranslations": [
+            "",
+            "I have breakfast.",
+            "I can breakfast.",
+            "I may breakfast.",
+            "I can do breakfast."
+          ]
+        },
+        {
+          "uuid": "942709fd-d354-4628-a48b-fad5e141c386",
+          "originalWord": "Zeitung",
+          "correctTranslation": "newspaper",
+          "alternativeTranslations": [
+            "timepaper",
+            "papernews",
+            "papertime"
+          ]
         }
       ],
       "uuid": "842c2b75-7d4c-4388-b5e4-e595f4f1a508"
