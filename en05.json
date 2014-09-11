@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 58,
+  "version": 59,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -6206,6 +6206,180 @@
             "nervy",
             "speedy",
             "upset"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "4f25cd3e-0165-4386-b780-a760ccba1973",
+      "name": "English 5 Unit 1/02",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "c38cf52a-fb9c-405e-8f69-28d012b14a15",
+          "originalWord": "zuerst, als Erstes",
+          "correctTranslation": "first",
+          "alternativeTranslations": [
+            "last",
+            "then",
+            "after",
+            "best"
+          ]
+        },
+        {
+          "uuid": "832c9e9c-ca09-42ee-ba82-2251646aa211",
+          "originalWord": "klug, schlau",
+          "correctTranslation": "clever",
+          "alternativeTranslations": [
+            "cool",
+            "clear",
+            "silly",
+            "stoopid"
+          ]
+        },
+        {
+          "uuid": "80df68a3-9485-4aa8-98b3-461e34e9d6bc",
+          "originalWord": "verrückt",
+          "correctTranslation": "mad",
+          "alternativeTranslations": [
+            "met",
+            "mood",
+            "loose"
+          ]
+        },
+        {
+          "uuid": "ae94507a-dcaa-429c-a8c4-c0b7b4fb0843",
+          "originalWord": "Hör/Hört nicht auf Dan.",
+          "correctTranslation": "Don't listen to Dan.",
+          "alternativeTranslations": [
+            "Don's see Dan.",
+            "Don't listen Dan.",
+            "Don't listen on Dan.",
+            "Don't see for Dan."
+          ]
+        },
+        {
+          "uuid": "28562a9a-5731-4c4a-b5c1-09f9c0c20b29",
+          "originalWord": "komm / kommt",
+          "correctTranslation": "come",
+          "alternativeTranslations": [
+            "get",
+            "put",
+            "go",
+            "see"
+          ]
+        },
+        {
+          "uuid": "6a05a722-4d48-4374-bb52-7e852140b4ea",
+          "originalWord": "Setz dich / Setzt euch zu mir.",
+          "correctTranslation": "Sit with me.",
+          "alternativeTranslations": [
+            "Sit here me.",
+            "Sit on the me.",
+            "Sit me with you.",
+            "You sit me with."
+          ]
+        },
+        {
+          "uuid": "6d131bdf-78f4-4149-a4fd-468d9ae9acae",
+          "originalWord": "falsch, verkehrt",
+          "correctTranslation": "wrong",
+          "alternativeTranslations": [
+            "good",
+            "right",
+            "rong",
+            "song"
+          ]
+        },
+        {
+          "uuid": "d2e6e582-7d4e-49ad-8e01-fa6d9b2e0ded",
+          "originalWord": "Ich bin dran / an der Reihe",
+          "correctTranslation": "(It's) my turn.",
+          "alternativeTranslations": [
+            "(It's) my going.",
+            "(It's) me play",
+            "(It's) for me now.",
+            "(It's) my table"
+          ]
+        },
+        {
+          "uuid": "4511544b-2871-433e-8db1-5c5b490cef87",
+          "originalWord": "unser, unsere",
+          "correctTranslation": "our",
+          "alternativeTranslations": [
+            "their",
+            "my",
+            "his",
+            "you",
+            "your",
+            "yours"
+          ]
+        },
+        {
+          "uuid": "c6bc8a6b-dd3a-43b5-9935-cae30ecec0e0",
+          "originalWord": "ihr, ihre",
+          "correctTranslation": "her",
+          "alternativeTranslations": [
+            "his",
+            "him",
+            "yours",
+            "my",
+            "me"
+          ]
+        },
+        {
+          "uuid": "13b5f2d0-65a7-4eef-8eea-af2a55b330d1",
+          "originalWord": "zusammen",
+          "correctTranslation": "together",
+          "alternativeTranslations": [
+            "apart",
+            "gethering",
+            "separate",
+            "unit"
+          ]
+        },
+        {
+          "uuid": "dd5a2996-a9af-45df-abda-0c48a41118a1",
+          "originalWord": "Entschuldigung. / Tut mir leid.",
+          "correctTranslation": "I'm sorry.",
+          "alternativeTranslations": [
+            "I'm happy.",
+            "I'm excuse.",
+            "I'll exercise",
+            "Excuse you.",
+            "Sorry you."
+          ]
+        },
+        {
+          "uuid": "653ec0a2-8739-4ca0-8a44-7fe0920a35ef",
+          "originalWord": "Lehrer, Lehrerin",
+          "correctTranslation": "teacher",
+          "alternativeTranslations": [
+            "pupil",
+            "student",
+            "studyer"
+          ]
+        },
+        {
+          "uuid": "ff28831a-5988-461d-b0d5-cc878cca3db1",
+          "originalWord": "Gesicht",
+          "correctTranslation": "face",
+          "alternativeTranslations": [
+            "race",
+            "root",
+            "facade"
+          ]
+        },
+        {
+          "uuid": "b9c3078b-f096-4da1-a833-16885f013fdc",
+          "originalWord": "Tafel",
+          "correctTranslation": "board",
+          "alternativeTranslations": [
+            "cup",
+            "wal",
+            "wall",
+            "broad"
           ]
         }
       ]
