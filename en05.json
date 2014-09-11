@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 48,
+  "version": 49,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -5693,6 +5693,171 @@
             "Go up.",
             "Let's up.",
             "We go."
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "e6eeef3c-a86e-4195-a2ba-129d86703790",
+      "name": "English 5 Unit 0/07",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "08aef117-dc94-449a-9d6c-dc74c35a3420",
+          "originalWord": "ihr zwei",
+          "correctTranslation": "you two",
+          "alternativeTranslations": [
+            "two you",
+            "his two",
+            "her two",
+            "our two"
+          ]
+        },
+        {
+          "uuid": "4488cb16-8d95-459c-aa58-98276c8f2380",
+          "originalWord": "ich kann … sagen",
+          "correctTranslation": "I can say …",
+          "alternativeTranslations": [
+            "I can see …",
+            "I say …",
+            "I do say …",
+            "I see …",
+            "I do see …"
+          ]
+        },
+        {
+          "uuid": "06b629b8-adc5-4c92-b97b-c4bf3d6f37db",
+          "originalWord": "Welche Farbe hat …?",
+          "correctTranslation": "What colour is …?",
+          "alternativeTranslations": [
+            "Which colour do …?",
+            "Where colour are …?",
+            "Who colour there …?"
+          ]
+        },
+        {
+          "uuid": "ae96f079-02a2-45bd-a3bc-cf08467391cd",
+          "originalWord": "nun, jetzt",
+          "correctTranslation": "now",
+          "alternativeTranslations": [
+            "then",
+            "but",
+            "after",
+            "next"
+          ]
+        },
+        {
+          "uuid": "1254faf9-1e31-4d1a-8986-2b6e53a8c3dc",
+          "originalWord": "Teller",
+          "correctTranslation": "plate",
+          "alternativeTranslations": [
+            "plete",
+            "petel",
+            "cup",
+            "cupper"
+          ]
+        },
+        {
+          "uuid": "ff7f2a7f-daa5-4b41-89b5-c286d9934614",
+          "originalWord": "Na ja … / Na gut …",
+          "correctTranslation": "Oh well …",
+          "alternativeTranslations": [
+            "That's well …",
+            "No way …",
+            "No yes …"
+          ]
+        },
+        {
+          "uuid": "ba695052-81d1-4c50-9463-96e350387673",
+          "originalWord": "Wohnung",
+          "correctTranslation": "flat",
+          "alternativeTranslations": [
+            "house",
+            "flow",
+            "how",
+            "hut"
+          ]
+        },
+        {
+          "uuid": "671777ac-95b6-47b9-9299-2176863c1c6e",
+          "originalWord": "über dem Laden / über dem Geschäft",
+          "correctTranslation": "over the shop",
+          "alternativeTranslations": [
+            "in the shop",
+            "under the shop",
+            "up the shop",
+            "upper the shop"
+          ]
+        },
+        {
+          "uuid": "8f865af5-6e8f-4ec3-9ae4-0ddee47e089e",
+          "originalWord": "Nun, … / Also, …",
+          "correctTranslation": "Well, …",
+          "alternativeTranslations": [
+            "No, …",
+            "Yes, …",
+            "Who, …"
+          ]
+        },
+        {
+          "uuid": "520d65f8-ca09-471c-9536-ff809bb902cf",
+          "originalWord": "Uniform",
+          "correctTranslation": "uniform",
+          "alternativeTranslations": [
+            "uniforme",
+            "uniworm"
+          ]
+        },
+        {
+          "uuid": "20c16888-0b2d-4c53-a2b4-f41c304831b3",
+          "originalWord": "morgen",
+          "correctTranslation": "tomorrow",
+          "alternativeTranslations": [
+            "today",
+            "now",
+            "yesterday",
+            "morne"
+          ]
+        },
+        {
+          "uuid": "3d84cbef-9dc7-4f19-adfb-23d96cc04104",
+          "originalWord": "der erste Tag",
+          "correctTranslation": "the first day",
+          "alternativeTranslations": [
+            "the next day",
+            "the last day",
+            "the best day"
+          ]
+        },
+        {
+          "uuid": "eb8a998a-dcb3-4d05-a5b8-aec2f88de82b",
+          "originalWord": "an/auf der neuen Schule",
+          "correctTranslation": "at the new school",
+          "alternativeTranslations": [
+            "near the new school",
+            "in the new school",
+            "of the new school"
+          ]
+        },
+        {
+          "uuid": "da56b836-c3b2-45f7-b92b-2e18f39f9f44",
+          "originalWord": "Hör auf damit! / Lass das!",
+          "correctTranslation": "Stop that!",
+          "alternativeTranslations": [
+            "Start that!",
+            "Let that!",
+            "Lose that!"
+          ]
+        },
+        {
+          "uuid": "61d62dd0-b8fa-4042-b16f-c99e78a42406",
+          "originalWord": "Du kannst zum Laden gehen.",
+          "correctTranslation": "You can go to the shop.",
+          "alternativeTranslations": [
+            "You to the shop go.",
+            "You go to the shop.",
+            "You can to the shop go."
           ]
         }
       ]
