@@ -2,7 +2,7 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 52,
+  "version": 53,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
@@ -6037,6 +6037,175 @@
             "Someday",
             "Sunnyday",
             "Sonday"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "89002e32-04d0-4275-a93a-2b5fed0e522d",
+      "name": "English 5 Unit 1/01",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "e1c9b3b7-394d-4027-a7f6-74a440f8577b",
+          "originalWord": "eine Menge, viele, viel",
+          "correctTranslation": "lots of",
+          "alternativeTranslations": [
+            "little of",
+            "more fo",
+            "some fo"
+          ]
+        },
+        {
+          "uuid": "7711c4f0-0b7a-4df4-a9b0-d8fa6ddd3279",
+          "originalWord": "Comic-Heft",
+          "correctTranslation": "comic",
+          "alternativeTranslations": [
+            "Komic",
+            "exercise book",
+            "booky"
+          ]
+        },
+        {
+          "uuid": "dcc200ff-6fd9-44b1-bcc9-135deb75a0df",
+          "originalWord": "es ist (vorhanden), es gibt",
+          "correctTranslation": "there's",
+          "alternativeTranslations": [
+            "here is",
+            "where is",
+            "then is",
+            "that's"
+          ]
+        },
+        {
+          "uuid": "6f82c0bd-8a2a-4515-9c74-3243b76a9578",
+          "originalWord": "es sind (vorhanden), es gibt",
+          "correctTranslation": "there are",
+          "alternativeTranslations": [
+            "here are",
+            "where are",
+            "then are",
+            "that are"
+          ]
+        },
+        {
+          "uuid": "543db35f-525c-415b-a7ed-60c7ebc1f69f",
+          "originalWord": "Orangenmarmelade",
+          "correctTranslation": "marmalade",
+          "alternativeTranslations": [
+            "mermelede",
+            "mermelada",
+            "marmelede"
+          ]
+        },
+        {
+          "uuid": "991b96ce-cbbf-4456-8446-adc4f4501147",
+          "originalWord": "am Morgen, morgens",
+          "correctTranslation": "in the morning",
+          "alternativeTranslations": [
+            "in the evening",
+            "in the day",
+            "early day",
+            "early morning",
+            "at the morning"
+          ]
+        },
+        {
+          "uuid": "dfdf549b-3ebe-4579-a709-4e6206cf7f18",
+          "originalWord": "Wort",
+          "correctTranslation": "word",
+          "alternativeTranslations": [
+            "letter",
+            "page",
+            "book",
+            "world"
+          ]
+        },
+        {
+          "uuid": "6842fb6d-ac79-4d74-80ff-183e270611e7",
+          "originalWord": "Kasten, Kästchen, Kiste",
+          "correctTranslation": "box",
+          "alternativeTranslations": [
+            "bar",
+            "but",
+            "knox"
+          ]
+        },
+        {
+          "uuid": "f2d55c44-b4ba-4dab-84cf-12d377266217",
+          "originalWord": "Milch",
+          "correctTranslation": "milk",
+          "alternativeTranslations": [
+            "silk",
+            "malg",
+            "mill"
+          ]
+        },
+        {
+          "uuid": "f0eb97c1-b0f9-45e7-94e2-113809e783c2",
+          "originalWord": "Mobiltelefon, Handy",
+          "correctTranslation": "mobile phone",
+          "alternativeTranslations": [
+            "phone mobile",
+            "howdy",
+            "hand phone",
+            "phone hand"
+          ]
+        },
+        {
+          "uuid": "9d535002-6636-43a0-81e7-50add9a8f1f3",
+          "originalWord": "vor (zeitlich)",
+          "correctTranslation": "before",
+          "alternativeTranslations": [
+            "after",
+            "next",
+            "in",
+            "on",
+            "of"
+          ]
+        },
+        {
+          "uuid": "77388541-3cf0-4366-99a8-e5b83fdc0d0e",
+          "originalWord": "Unterricht",
+          "correctTranslation": "lessons",
+          "alternativeTranslations": [
+            "school",
+            "teaching",
+            "teacher",
+            "learning"
+          ]
+        },
+        {
+          "uuid": "f56ed3d7-6f29-4cdc-ae89-ebcbbd262251",
+          "originalWord": "(Unterrichts-)Stunde",
+          "correctTranslation": "lesson",
+          "alternativeTranslations": [
+            "book",
+            "teacher",
+            "learning",
+            "school"
+          ]
+        },
+        {
+          "uuid": "8d101f92-bf13-4988-b67a-cbe78e39b9b8",
+          "originalWord": "Schüler/in; Student/in",
+          "correctTranslation": "student",
+          "alternativeTranslations": [
+            "study",
+            "studier",
+            "child",
+            "teacher"
+          ]
+        },
+        {
+          "uuid": "1c830dce-17b4-45f2-9010-8391d7551bb7",
+          "originalWord": "nervös, aufgeregt",
+          "correctTranslation": "nervous",
+          "alternativeTranslations": [
+            "nervy",
+            "speedy",
+            "upset"
           ]
         }
       ]
