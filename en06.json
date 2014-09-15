@@ -2,7 +2,7 @@
   "uuid": "e7826225-c2cc-4e99-a7ee-bcdf8eca2fe4",
   "serverName": "Englisch Klasse 6",
   "serverDescription": "Englisch Klasse 6",
-  "version": 5,
+  "version": 6,
   "lessons": [
     {
       "uuid": "d85519f5-adb7-4cf1-873d-6e741906b08d",
@@ -335,6 +335,175 @@
             "(to) keep",
             "(to) star",
             "(to) may"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "c99c5459-f59f-436d-b0af-df204f1dca7e",
+      "name": "English 6 Unit 1/03",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "ef44d06d-1844-46f8-93a3-8061f0885d48",
+          "originalWord": "neblig",
+          "correctTranslation": "foggy",
+          "alternativeTranslations": [
+            "soggy",
+            "fooly",
+            "pooly",
+            "froggy"
+          ]
+        },
+        {
+          "uuid": "52caac0d-687e-4fc2-b643-bde620753bca",
+          "originalWord": "Nebel",
+          "correctTranslation": "fog",
+          "alternativeTranslations": [
+            "mog",
+            "fork",
+            "mift",
+            "null"
+          ]
+        },
+        {
+          "uuid": "3741f30e-14ed-4f52-9452-fed6b96f2b60",
+          "originalWord": "Grad",
+          "correctTranslation": "degree",
+          "alternativeTranslations": [
+            "centi",
+            "celsius",
+            "growth"
+          ]
+        },
+        {
+          "uuid": "4f65bbae-ec07-499b-aaf8-d4a77c409450",
+          "originalWord": "Land (auch als gegensatz zu Stadt)",
+          "correctTranslation": "country",
+          "alternativeTranslations": [
+            "city",
+            "town",
+            "flat",
+            "mountain",
+            "lake"
+          ]
+        },
+        {
+          "uuid": "be30de90-512e-4f06-8866-182d34b60552",
+          "originalWord": "ins Ausland gehen/fahren",
+          "correctTranslation": "(to) go abroad",
+          "alternativeTranslations": [
+            "(to) life abroad",
+            "(to) go on the road",
+            "(to) live on the road",
+            "(to) go out"
+          ]
+        },
+        {
+          "uuid": "2dc707ba-7496-4b6c-abc3-b0056148ac9c",
+          "originalWord": "durch",
+          "correctTranslation": "through",
+          "alternativeTranslations": [
+            "then",
+            "though",
+            "thren",
+            "thin"
+          ]
+        },
+        {
+          "uuid": "aba766c4-4931-4d09-bf6d-d22018b529d6",
+          "originalWord": "niemand",
+          "correctTranslation": "nobody",
+          "alternativeTranslations": [
+            "everybody",
+            "all",
+            "nowhere",
+            "everywhere"
+          ]
+        },
+        {
+          "uuid": "c2ee375a-6e54-4e49-a9ad-4c7680b0a776",
+          "originalWord": "murren, nörgeln",
+          "correctTranslation": "(to) grumble",
+          "alternativeTranslations": [
+            "(to) humble",
+            "(to) rumble",
+            "(to) jungle",
+            "(to) shout"
+          ]
+        },
+        {
+          "uuid": "49b2dc0e-ea56-41ad-a9e3-82ee264a22d9",
+          "originalWord": "sprechen (mit), reden (mit)",
+          "correctTranslation": "(to) speak (to)",
+          "alternativeTranslations": [
+            "(to) shout (to)",
+            "(to) speak (on)",
+            "(to) shout (or)"
+          ]
+        },
+        {
+          "uuid": "d52e8498-4810-464c-bd09-3ea70fa21681",
+          "originalWord": "sprechen (simple past)",
+          "correctTranslation": "(to) speak - spoken",
+          "alternativeTranslations": [
+            "(to) speak - speeken",
+            "(to) speak - spooky",
+            "(to) speak - spought",
+            "(to) speak - sparked"
+          ]
+        },
+        {
+          "uuid": "5f051839-18ad-41c7-b3d5-7b0998dbfa8c",
+          "originalWord": "wellenreiten gehen, surfen gehen",
+          "correctTranslation": "(to) go surfing",
+          "alternativeTranslations": [
+            "(to) do surfing",
+            "(to) walk on surfing",
+            "(to) ride surfs"
+          ]
+        },
+        {
+          "uuid": "94d337f1-bdf4-46b6-8c6b-3617bb874a06",
+          "originalWord": "Dach",
+          "correctTranslation": "roof",
+          "alternativeTranslations": [
+            "thatch",
+            "top",
+            "bottom"
+          ]
+        },
+        {
+          "uuid": "c9096b60-5156-48c6-9238-cfff55d55520",
+          "originalWord": "(Binnen-)See",
+          "correctTranslation": "lake",
+          "alternativeTranslations": [
+            "sea",
+            "ocean",
+            "river",
+            "desert"
+          ]
+        },
+        {
+          "uuid": "2b18b87e-b2e6-42c1-b8c7-cfa04483ded6",
+          "originalWord": "Cafeteria, Selbstbedienungsrestaurant",
+          "correctTranslation": "cafeteria",
+          "alternativeTranslations": [
+            "coffeeteria",
+            "coffee shop",
+            "coffee bar"
+          ]
+        },
+        {
+          "uuid": "665fea90-9e9a-4730-b697-558935b2876f",
+          "originalWord": "(jm.) etwas beschreiben",
+          "correctTranslation": "(to) describe sth. (to sb.)",
+          "alternativeTranslations": [
+            "(to) tell sth. (to sb.)",
+            "(to) show sth. (to sb.)",
+            "(to) do sth. (to sb.)",
+            "(to) show off sth. (to sb.)"
           ]
         }
       ]
