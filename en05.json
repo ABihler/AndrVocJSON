@@ -2,13 +2,13 @@
   "serverType": "AndrVoc-Server",
   "serverName": "Englisch Klasse 5",
   "serverVersion": 1,
-  "version": 59,
+  "version": 62,
   "uuid": "3ccfa667-d95e-4bf3-ab9a-06a818242a05",
   "lessons": [
     {
       "name": "English 5 Unit 0/08",
       "language": "en",
-      "version": 3,
+      "version": 4,
       "vocabulary": [
         {
           "originalWord": "Gern geschehen. Nichts zu danken.",
@@ -156,7 +156,7 @@
           "originalWord": "Ich kann frühstücken.",
           "correctTranslation": "I can have breakfast.",
           "alternativeTranslations": [
-            "",
+            "May I breakfast",
             "I have breakfast.",
             "I can breakfast.",
             "I may breakfast.",
@@ -4297,7 +4297,7 @@
       "uuid": "85dd7441-12b0-486a-93d5-37674f14df60",
       "name": "English 5 Unit 4/06",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "uuid": "e330b571-1512-4ca6-9072-16ed341b4092",
@@ -4363,7 +4363,7 @@
             "holle",
             "hold",
             "hol",
-            ""
+            "wool"
           ]
         },
         {
@@ -5928,7 +5928,7 @@
       "uuid": "782f0ce2-0884-47c2-91b4-c4c58da20fe5",
       "name": "English 5 Unit 0/09",
       "language": "en",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "uuid": "ce45205c-87d6-4e78-8481-551b12ea413e",
@@ -6032,7 +6032,7 @@
           "originalWord": "Sonntag",
           "correctTranslation": "Sunday",
           "alternativeTranslations": [
-            "",
+            "Soonday",
             "Saturday",
             "Someday",
             "Sunnyday",
