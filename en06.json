@@ -2,7 +2,7 @@
   "uuid": "e7826225-c2cc-4e99-a7ee-bcdf8eca2fe4",
   "serverName": "Englisch Klasse 6",
   "serverDescription": "Englisch Klasse 6",
-  "version": 6,
+  "version": 7,
   "lessons": [
     {
       "uuid": "d85519f5-adb7-4cf1-873d-6e741906b08d",
@@ -504,6 +504,179 @@
             "(to) show sth. (to sb.)",
             "(to) do sth. (to sb.)",
             "(to) show off sth. (to sb.)"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "453018c4-b1ac-4046-a2e0-89044cef0842",
+      "name": "English 6 Unit 1/04",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "b79bd600-c484-456a-8c6d-bccc4e7dcfa4",
+          "originalWord": "Beschreibung",
+          "correctTranslation": "description",
+          "alternativeTranslations": [
+            "describe",
+            "describition",
+            "destruction",
+            "destructor"
+          ]
+        },
+        {
+          "uuid": "721915d8-b803-435f-bd41-2b229246b32d",
+          "originalWord": "Hintergrund",
+          "correctTranslation": "background",
+          "alternativeTranslations": [
+            "foreground",
+            "sideground",
+            "backlevel",
+            "forelevel",
+            "sidelevel"
+          ]
+        },
+        {
+          "uuid": "5e3c1547-3031-44a4-8b3f-4cc9d376e900",
+          "originalWord": "Vordergrund",
+          "correctTranslation": "foreground",
+          "alternativeTranslations": [
+            "background",
+            "forelevel",
+            "backlevel",
+            "sidelevel",
+            "sideground"
+          ]
+        },
+        {
+          "uuid": "62584724-fc5d-41b6-9a100-4057ef01f44b",
+          "originalWord": "unten, am unteren Ende (von)",
+          "correctTranslation": "at the bottom (of)",
+          "alternativeTranslations": [
+            "on top (of)",
+            "under something",
+            "at the bottom (in)",
+            "on top (in)"
+          ]
+        },
+        {
+          "uuid": "eaeb0958-0c9b-49bb-b9cc-b84a4abd3ff8",
+          "originalWord": "zwischen",
+          "correctTranslation": "between",
+          "alternativeTranslations": [
+            "near",
+            "under",
+            "over",
+            "top"
+          ]
+        },
+        {
+          "uuid": "bae87cfc-f76b-40ce-ae03-a1c8874f3c5d",
+          "originalWord": "Sehenswürdigkeiten",
+          "correctTranslation": "sights",
+          "alternativeTranslations": [
+            "views",
+            "shops",
+            "ships",
+            "worthwhile"
+          ]
+        },
+        {
+          "uuid": "5265275e-8dd4-4ab5-8bf4-7f4b22351e89",
+          "originalWord": "ungefähr",
+          "correctTranslation": "about",
+          "alternativeTranslations": [
+            "exactly",
+            "nearly",
+            "over",
+            "under"
+          ]
+        },
+        {
+          "uuid": "44b6455f-8550-4142-a6ba-25a7be5c455f",
+          "originalWord": "Flug",
+          "correctTranslation": "flight",
+          "alternativeTranslations": [
+            "plane",
+            "air",
+            "flew",
+            "fly",
+            "flyght"
+          ]
+        },
+        {
+          "uuid": "36342217-43db-437e-b999-ca6d319837c4",
+          "originalWord": "Mal(e); -mal",
+          "correctTranslation": "time(s)",
+          "alternativeTranslations": [
+            "day(s)",
+            "hour(s)",
+            "year(s)",
+            "watch(s)"
+          ]
+        },
+        {
+          "uuid": "b245d906-b59a-48e5-a578-da2cc6d9b54a",
+          "originalWord": "ein bisschen, etwas",
+          "correctTranslation": "a bit",
+          "alternativeTranslations": [
+            "a bite",
+            "some bit",
+            "some bite"
+          ]
+        },
+        {
+          "uuid": "c1f6992f-3054-4801-a924-405e30c1097b",
+          "originalWord": "die U-Bahn",
+          "correctTranslation": "the underground",
+          "alternativeTranslations": [
+            "the u-tube",
+            "the youtube",
+            "the undertaker"
+          ]
+        },
+        {
+          "uuid": "014d65d3-fd07-4376-a26e-c9df1f37c66e",
+          "originalWord": "finden (simple past)",
+          "correctTranslation": "(to) find - found",
+          "alternativeTranslations": [
+            "(to) find - fought",
+            "(to) find - feed",
+            "(to) find - food",
+            "(to) find - fund"
+          ]
+        },
+        {
+          "uuid": "b97286e7-a2f8-402d-870a-6de575d69a83",
+          "originalWord": "ein-; aussteigen",
+          "correctTranslation": "(to) get on/off - got",
+          "alternativeTranslations": [
+            "(to) get on/off - get",
+            "(to) get on/off - good",
+            "(to) get on/off - gett"
+          ]
+        },
+        {
+          "uuid": "b90bd2be-653f-439a-b45d-6fa7bf16e5f7",
+          "originalWord": "geben",
+          "correctTranslation": "(to) give - gave",
+          "alternativeTranslations": [
+            "(to) give - gade",
+            "(to) give - gove",
+            "(to) give - geive"
+          ]
+        },
+        {
+          "uuid": "fd72f1d6-17d8-4027-88a3-ab6a851b2db8",
+          "originalWord": "gefährlich",
+          "correctTranslation": "dangerous",
+          "alternativeTranslations": [
+            "save",
+            "saving",
+            "danger",
+            "bad",
+            "badly"
           ]
         }
       ]
