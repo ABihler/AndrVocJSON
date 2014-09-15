@@ -2,7 +2,7 @@
   "uuid": "e7826225-c2cc-4e99-a7ee-bcdf8eca2fe4",
   "serverName": "Englisch Klasse 6",
   "serverDescription": "Englisch Klasse 6",
-  "version": 7,
+  "version": 9,
   "lessons": [
     {
       "uuid": "d85519f5-adb7-4cf1-873d-6e741906b08d",
@@ -677,6 +677,102 @@
             "danger",
             "bad",
             "badly"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "14b98c1d-b6d1-492b-8b1c-3c146d66020a",
+      "name": "English 6 Unit 1/05",
+      "language": "en",
+      "version": 2,
+      "vocabulary": [
+        {
+          "uuid": "07af942d-a47b-4e5a-a8f9-24b9f8d48f7a",
+          "originalWord": "schnell",
+          "correctTranslation": "fast",
+          "alternativeTranslations": [
+            "slow",
+            "speed",
+            "slowly",
+            "furious"
+          ]
+        },
+        {
+          "uuid": "8b72d1f1-a90a-45a1-8213-04ddc23c9eb9",
+          "originalWord": "langsam",
+          "correctTranslation": "slow",
+          "alternativeTranslations": [
+            "fast",
+            "speed",
+            "speedy",
+            "dull",
+            "furious"
+          ]
+        },
+        {
+          "uuid": "184a8711-18d8-432e-8b04-d8f91885a384",
+          "originalWord": "Was war das Beste an…?",
+          "correctTranslation": "What was the best thing about…?",
+          "alternativeTranslations": [
+            "Where was the best thing about…?",
+            "Who was the best man in …?",
+            "What was the best time in …?"
+          ]
+        },
+        {
+          "uuid": "519145e3-38ff-41cd-9804-3f8677056acd",
+          "originalWord": "Gebäude",
+          "correctTranslation": "building",
+          "alternativeTranslations": [
+            "house",
+            "street",
+            "school",
+            "car"
+          ]
+        },
+        {
+          "uuid": "4b81e07b-7ae4-45a5-a8f7-1ad3515cc3df",
+          "originalWord": "Fahrstuhl, Aufzug",
+          "correctTranslation": "lift",
+          "alternativeTranslations": [
+            "drop",
+            "uplift",
+            "updrop",
+            "upchair",
+            "dropchair"
+          ]
+        },
+        {
+          "uuid": "6c840876-ddbe-443f-a321-6d2593cf9bb6",
+          "originalWord": "erstaunlich, unglaublich",
+          "correctTranslation": "amazing",
+          "alternativeTranslations": [
+            "boring",
+            "good",
+            "extreme",
+            "amazon"
+          ]
+        },
+        {
+          "uuid": "53eafc9c-7a72-404c-9c5a-e8dff6d4a66e",
+          "originalWord": "meilenweit",
+          "correctTranslation": "for miles",
+          "alternativeTranslations": [
+            "for yards",
+            "for meters",
+            "by miles",
+            "by yards"
+          ]
+        },
+        {
+          "uuid": "12e4ada2-1753-475b-af4f-3e93a175ffed",
+          "originalWord": "Meile (=ca. 1,6km)",
+          "correctTranslation": "mile",
+          "alternativeTranslations": [
+            "mille",
+            "mill",
+            "yard"
           ]
         }
       ]
