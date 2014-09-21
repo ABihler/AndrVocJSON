@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 8,
+  "version": 9,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -530,6 +530,177 @@
             "une",
             "dieu",
             "deus"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "aea798de-bd3f-4a78-985b-00da1e5db410",
+      "name": "Französisch 6 unité 01/03a",
+      "language": "fr",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "177e8407-a576-45a5-8d45-2b5054c608b2",
+          "originalWord": "die Pause",
+          "correctTranslation": "la récréacion",
+          "alternativeTranslations": [
+            "la recreacion",
+            "le receé",
+            "la recre",
+            "la recréacien"
+          ]
+        },
+        {
+          "uuid": "adc34bfe-a0c1-4540-bad8-87c79ce9fb92",
+          "originalWord": "win sind (1. Pers Pl. von être)",
+          "correctTranslation": "nous sommes",
+          "alternativeTranslations": [
+            "sous somme",
+            "sous somme",
+            "nous somme",
+            "sous sommes"
+          ]
+        },
+        {
+          "uuid": "f44d9c2f-af19-422f-afc1-6c2f7e982761",
+          "originalWord": "in",
+          "correctTranslation": "à",
+          "alternativeTranslations": [
+            "a",
+            "á",
+            "e",
+            "é",
+            "è",
+            "en"
+          ]
+        },
+        {
+          "uuid": "bb36d2b6-8bdc-4db4-a55e-b184e3d0b017",
+          "originalWord": "Straßburg",
+          "correctTranslation": "Strasbourg",
+          "alternativeTranslations": [
+            "Strassbourg",
+            "Stresburg",
+            "Stabourg"
+          ]
+        },
+        {
+          "uuid": "cadf6109-31a5-466a-911f-f3845bfffb94",
+          "originalWord": "die Schule",
+          "correctTranslation": "l'école",
+          "alternativeTranslations": [
+            "l'ecol",
+            "l'ecolé",
+            "l'ecole"
+          ]
+        },
+        {
+          "uuid": "98a090b5-6223-441a-9e7f-6f3ddef3e1b3",
+          "originalWord": "der/die Schüler/in",
+          "correctTranslation": "l'élève",
+          "alternativeTranslations": [
+            "l'eleve",
+            "l'éleve",
+            "l'èlève",
+            "l'éléve"
+          ]
+        },
+        {
+          "uuid": "df4b2e2b-d2c1-4857-9e94-b71fcd96e0d0",
+          "originalWord": "die Aufsichtsperson",
+          "correctTranslation": "le surveillant / la surveillante",
+          "alternativeTranslations": [
+            "le surveillance / la surveillance",
+            "le survielant / la survielante",
+            "la survivor / la survivore"
+          ]
+        },
+        {
+          "uuid": "6d912f9d-0e7d-4663-8700-65c66c611c94",
+          "originalWord": "sie sind (3. Pers. Pl. von être)",
+          "correctTranslation": "ils sont",
+          "alternativeTranslations": [
+            "ils son",
+            "ils sot",
+            "ils sous",
+            "ils sans"
+          ]
+        },
+        {
+          "uuid": "668ffbe5-0431-43dc-95ee-09a33e9ee1ae",
+          "originalWord": "in",
+          "correctTranslation": "dans",
+          "alternativeTranslations": [
+            "dens",
+            "dentre",
+            "douse",
+            "deux"
+          ]
+        },
+        {
+          "uuid": "36566fc8-387c-452f-bf05-c8e672d49609",
+          "originalWord": "der Schuthof",
+          "correctTranslation": "la cour",
+          "alternativeTranslations": [
+            "le cour",
+            "la court",
+            "la court",
+            "le cuurt",
+            "la cuurt"
+          ]
+        },
+        {
+          "uuid": "d8291a9d-c5a4-4373-a72a-8c5c858eff80",
+          "originalWord": "wie?",
+          "correctTranslation": "comment?",
+          "alternativeTranslations": [
+            "commet?",
+            "corment?",
+            "cammet?"
+          ]
+        },
+        {
+          "uuid": "735f8ef0-4907-45d2-9357-6bfee9710943",
+          "originalWord": "oder",
+          "correctTranslation": "ou",
+          "alternativeTranslations": [
+            "et",
+            "sans",
+            "avec",
+            "moi"
+          ]
+        },
+        {
+          "uuid": "0bbe0f49-a4ea-4a47-b7c6-835c2fed0d40",
+          "originalWord": "neu",
+          "correctTranslation": "nouveau (m) / nouvelle (f.)",
+          "alternativeTranslations": [
+            "noveau (m) / novelle (f.)",
+            "nuveau (m) / nuvelle (f.)",
+            "nouvea (m) / nouvell (f.)",
+            "nouveo (m) / nouvoe (f.)"
+          ]
+        },
+        {
+          "uuid": "2e296c16-8926-4f24-bc65-5312c2f64aaa",
+          "originalWord": "der Junge",
+          "correctTranslation": "le garçon",
+          "alternativeTranslations": [
+            "la gerçen",
+            "le gerçon",
+            "le gerçen",
+            "le boy"
+          ]
+        },
+        {
+          "uuid": "f2199c3d-2e29-424b-988f-9ce85bc3b788",
+          "originalWord": "C'est qui?",
+          "correctTranslation": "Wer ist das?",
+          "alternativeTranslations": [
+            "C'est que?",
+            "C'ca que?",
+            "C'e qui?"
           ]
         }
       ]
