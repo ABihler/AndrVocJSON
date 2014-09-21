@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 9,
+  "version": 10,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -701,6 +701,164 @@
             "C'est que?",
             "C'ca que?",
             "C'e qui?"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "ee01abc1-e49b-4f11-8e17-7a48274d42ef",
+      "name": "Französisch 6 unité 01/03b",
+      "language": "fr",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "12c1433c-be94-4d8a-a0c5-443167f1261b",
+          "originalWord": "Ich weiß es nicht.",
+          "correctTranslation": "Je ne sais pas.",
+          "alternativeTranslations": [
+            "Je sais pas.",
+            "Je ne saim pas.",
+            "Je no sais pas.",
+            "Je no saims pas."
+          ]
+        },
+        {
+          "uuid": "940ac0f2-df07-4451-a460-b696915cddb5",
+          "originalWord": "sie sind (3. Pers Pl. von être)",
+          "correctTranslation": "elles sont",
+          "alternativeTranslations": [
+            "elles son",
+            "elles sommes",
+            "elles somes"
+          ]
+        },
+        {
+          "uuid": "faffce72-d592-4d54-8542-c549dbe370c7",
+          "originalWord": "er/sie heißt",
+          "correctTranslation": "il/elle s'appelle",
+          "alternativeTranslations": [
+            "il/elle no'appelle",
+            "il/elle t'appelle",
+            "il/elle n'appelle"
+          ]
+        },
+        {
+          "uuid": "0c1c14bf-6ca8-4749-b485-5715285b6633",
+          "originalWord": "schau mat, guck malt (Befehlsform)",
+          "correctTranslation": "regarde",
+          "alternativeTranslations": [
+            "regard",
+            "retard",
+            "retarde"
+          ]
+        },
+        {
+          "uuid": "f13aa8d5-ccb5-49af-a2f4-137687ebf380",
+          "originalWord": "jdn./etw. ansehen",
+          "correctTranslation": "regarder …",
+          "alternativeTranslations": [
+            "retarder …",
+            "remanter …",
+            "quegarder …",
+            "verer"
+          ]
+        },
+        {
+          "uuid": "f468a387-7592-4fed-9357-52db1f37dce2",
+          "originalWord": "in der siebten Klasse",
+          "correctTranslation": "en cinquième",
+          "alternativeTranslations": [
+            "en l'ecole",
+            "en troisieme"
+          ]
+        },
+        {
+          "uuid": "8d3b1487-f662-4064-a400-ebf11cf15bbc",
+          "originalWord": "entspricht meistens der 7. Klasse in Deutschland",
+          "correctTranslation": "la cinquième / 5e",
+          "alternativeTranslations": [
+            "la treiseme / 3e",
+            "l'ecole / Ee"
+          ]
+        },
+        {
+          "uuid": "cb66d274-f1ee-4188-ba45-8f5bee1a3196",
+          "originalWord": "von",
+          "correctTranslation": "de",
+          "alternativeTranslations": [
+            "sans",
+            "avec",
+            "moi"
+          ]
+        },
+        {
+          "uuid": "1cf18a58-d82f-401c-b8dd-638cb3c21b1d",
+          "originalWord": "das Mädchen",
+          "correctTranslation": "la fille",
+          "alternativeTranslations": [
+            "la filla",
+            "la filia",
+            "la famme"
+          ]
+        },
+        {
+          "uuid": "6cdb561a-aa69-4c01-8ef9-6937efd75c93",
+          "originalWord": "auch",
+          "correctTranslation": "aussi",
+          "alternativeTranslations": [
+            "tausi",
+            "tami",
+            "sussi"
+          ]
+        },
+        {
+          "uuid": "da62ce81-c870-47c1-873a-069e6b6db992",
+          "originalWord": "nicht schlecht",
+          "correctTranslation": "pas mal",
+          "alternativeTranslations": [
+            "très mal",
+            "bien mal",
+            "pas bien"
+          ]
+        },
+        {
+          "uuid": "bf4a650d-b000-4340-a286-f9762962420a",
+          "originalWord": "der/die Freund/in",
+          "correctTranslation": "l'ami / l'amie",
+          "alternativeTranslations": [
+            "l'amigo / l'amica",
+            "l'amo / l'ama"
+          ]
+        },
+        {
+          "uuid": "142386a7-1143-4535-8c1f-752e4fab52d8",
+          "originalWord": "wir sind (wörtlich: man ist)",
+          "correctTranslation": "on est",
+          "alternativeTranslations": [
+            "c'est",
+            "je suis",
+            "elle est"
+          ]
+        },
+        {
+          "uuid": "3f7506aa-17fa-4c58-8ff8-8a754bc12374",
+          "originalWord": "man (Pers.-pronomen 3. Pers Sg)",
+          "correctTranslation": "on",
+          "alternativeTranslations": [
+            "en",
+            "no",
+            "evec",
+            "ous"
+          ]
+        },
+        {
+          "uuid": "3b485de7-b5f2-4c3f-b82c-833c3c3e58ca",
+          "originalWord": "zusammen",
+          "correctTranslation": "ensemble",
+          "alternativeTranslations": [
+            "troimas",
+            "ensenbl",
+            "mansemble"
           ]
         }
       ]
