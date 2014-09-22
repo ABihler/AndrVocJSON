@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 10,
+  "version": 14,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -184,7 +184,7 @@
       "uuid": "ae442af4-c403-429b-bfb7-1ed8fabd6aaa",
       "name": "Französisch 6 unité 01/02a",
       "language": "fr",
-      "version": 2,
+      "version": 3,
       "vocabulary": [
         {
           "uuid": "a4f93cc1-7b7c-4da6-b1cc-52bc32bea843",
@@ -308,7 +308,7 @@
         {
           "uuid": "b5f6c92e-b74a-44d7-9b05-835493482ca3",
           "originalWord": "ich heiße …",
-          "correctTranslation": "je m'apelle …",
+          "correctTranslation": "je m'appelle …",
           "alternativeTranslations": [
             "je suis …",
             "je d'apelle …",
@@ -538,7 +538,7 @@
       "uuid": "aea798de-bd3f-4a78-985b-00da1e5db410",
       "name": "Französisch 6 unité 01/03a",
       "language": "fr",
-      "version": 1,
+      "version": 3,
       "vocabulary": [
         {
           "uuid": "177e8407-a576-45a5-8d45-2b5054c608b2",
@@ -553,7 +553,7 @@
         },
         {
           "uuid": "adc34bfe-a0c1-4540-bad8-87c79ce9fb92",
-          "originalWord": "win sind (1. Pers Pl. von être)",
+          "originalWord": "wir sind (1. Pers Pl. von être)",
           "correctTranslation": "nous sommes",
           "alternativeTranslations": [
             "sous somme",
@@ -695,8 +695,8 @@
         },
         {
           "uuid": "f2199c3d-2e29-424b-988f-9ce85bc3b788",
-          "originalWord": "C'est qui?",
-          "correctTranslation": "Wer ist das?",
+          "originalWord": "Wer ist das?",
+          "correctTranslation": "C'est qui?",
           "alternativeTranslations": [
             "C'est que?",
             "C'ca que?",
@@ -709,7 +709,7 @@
       "uuid": "ee01abc1-e49b-4f11-8e17-7a48274d42ef",
       "name": "Französisch 6 unité 01/03b",
       "language": "fr",
-      "version": 1,
+      "version": 2,
       "vocabulary": [
         {
           "uuid": "12c1433c-be94-4d8a-a0c5-443167f1261b",
@@ -744,7 +744,7 @@
         },
         {
           "uuid": "0c1c14bf-6ca8-4749-b485-5715285b6633",
-          "originalWord": "schau mat, guck malt (Befehlsform)",
+          "originalWord": "schau mal, guck malt (Befehlsform)",
           "correctTranslation": "regarde",
           "alternativeTranslations": [
             "regard",
