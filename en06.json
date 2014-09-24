@@ -2,10 +2,10 @@
   "uuid": "e7826225-c2cc-4e99-a7ee-bcdf8eca2fe4",
   "serverName": "Englisch Klasse 6",
   "serverDescription": "Englisch Klasse 6",
-  "version": 9,
+  "version": 11,
   "lessons": [
     {
-      "uuid": "d85519f5-adb7-4cf1-873d-6e741906b08d",
+      "uuid": "d85519f5-adb7-4cf1-873d-6e741906b08d",a
       "name": "English 6 Unit 1/01",
       "language": "en",
       "version": 1,
@@ -685,19 +685,8 @@
       "uuid": "14b98c1d-b6d1-492b-8b1c-3c146d66020a",
       "name": "English 6 Unit 1/05",
       "language": "en",
-      "version": 2,
+      "version": 4,
       "vocabulary": [
-        {
-          "uuid": "07af942d-a47b-4e5a-a8f9-24b9f8d48f7a",
-          "originalWord": "schnell",
-          "correctTranslation": "fast",
-          "alternativeTranslations": [
-            "slow",
-            "speed",
-            "slowly",
-            "furious"
-          ]
-        },
         {
           "uuid": "8b72d1f1-a90a-45a1-8213-04ddc23c9eb9",
           "originalWord": "langsam",
@@ -773,6 +762,93 @@
             "mille",
             "mill",
             "yard"
+          ]
+        },
+        {
+          "uuid": "b93cd77d-0dd0-44e1-b362-74a7897ad7a6",
+          "originalWord": "hinten, im hinteren Teil (des Zimmers)",
+          "correctTranslation": "at the back (of the room)",
+          "alternativeTranslations": [
+            "at the front (of the room)",
+            "in the back (of the room)",
+            "in the front (of the room)"
+          ]
+        },
+        {
+          "uuid": "d54e059c-f939-4916-a402-717dc66cdc05",
+          "originalWord": "Das geht dich nichts an! / Kümmere dich um deine eigenen Angelegenheiten",
+          "correctTranslation": "Mind your own bussiness.",
+          "alternativeTranslations": [
+            "Do your own business.",
+            "Make your own business.",
+            "Don't care about the business.",
+            "This is your business."
+          ]
+        },
+        {
+          "uuid": "9c7bc10d-6dbe-430b-a836-e1f7588b4dd6",
+          "originalWord": "auch nicht",
+          "correctTranslation": "not (…) either",
+          "alternativeTranslations": [
+            "not (…) not",
+            "nor (…) nor",
+            "not (…) but"
+          ]
+        },
+        {
+          "uuid": "12510299-a3bc-4fe5-96d0-d3575d7df12f",
+          "originalWord": "nachdem",
+          "correctTranslation": "after",
+          "alternativeTranslations": [
+            "before",
+            "when",
+            "in front",
+            "meanwhile"
+          ]
+        },
+        {
+          "uuid": "7ee34e81-d5d3-4c1b-86be-e2727868ea71",
+          "originalWord": "bevor",
+          "correctTranslation": "before",
+          "alternativeTranslations": [
+            "after",
+            "when",
+            "at the back",
+            "meanwhile"
+          ]
+        },
+        {
+          "uuid": "8bc50838-1fb3-4b0a-a5d0-220f6189dd48",
+          "originalWord": "unhöflich, unverschämt",
+          "correctTranslation": "rude",
+          "alternativeTranslations": [
+            "kind",
+            "friendly",
+            "",
+            "ruple",
+            "ruffle",
+            ""
+          ]
+        },
+        {
+          "uuid": "e12c129d-9a63-4bcb-a146-60154e92599f",
+          "originalWord": "Jacke, Jackett",
+          "correctTranslation": "jacket",
+          "alternativeTranslations": [
+            "jack",
+            "jacky",
+            "jecket"
+          ]
+        },
+        {
+          "uuid": "a2317945-85d6-4e3e-bd35-71f8301c78d2",
+          "originalWord": "sich etwas (aus)leihen, etwas entleihen",
+          "correctTranslation": "(to) borrow",
+          "alternativeTranslations": [
+            "(to) lean",
+            "(to) browl",
+            "(to) bring",
+            "(to) barn"
           ]
         }
       ]
