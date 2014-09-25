@@ -2,7 +2,7 @@
   "uuid": "e7826225-c2cc-4e99-a7ee-bcdf8eca2fe4",
   "serverName": "Englisch Klasse 6",
   "serverDescription": "Englisch Klasse 6",
-  "version": 11,
+  "version": 15,
   "lessons": [
     {
       "uuid": "d85519f5-adb7-4cf1-873d-6e741906b08d",
@@ -849,6 +849,338 @@
             "(to) browl",
             "(to) bring",
             "(to) barn"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "d21ceae9-9efd-4d8a-aa75-6d674cab6c8b",
+      "name": "English 6 Unit 1/06",
+      "language": "en",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "1b4124bb-e274-42ab-9be3-5a0f39d79c3e",
+          "originalWord": "jmd. etwas leihen",
+          "correctTranslation": "(to) lend sb. sth.",
+          "alternativeTranslations": [
+            "(to) borrow sb. sth.",
+            "(to) spare sb. sth.",
+            "(to) load sb. sth."
+          ]
+        },
+        {
+          "uuid": "5fe827bf-65ef-4fb0-b316-cbf83629cb3c",
+          "originalWord": "jmd. etwas leihen (simple past)",
+          "correctTranslation": "(to) lend - lent",
+          "alternativeTranslations": [
+            "(to) lend -lond",
+            "(to) lend - let",
+            "(to) lend - lougth",
+            "(to) lend - lend"
+          ]
+        },
+        {
+          "uuid": "987cf1e2-d1ec-46ac-a16f-361b9c684420",
+          "originalWord": "Meinst du wirklich? / Glaubst du das wirklich?",
+          "correctTranslation": "Do you really think so?",
+          "alternativeTranslations": [
+            "So do you really think?",
+            "That you think so?",
+            "You really so yo think?",
+            "That you really think so?"
+          ]
+        },
+        {
+          "uuid": "77300c1d-68c4-439b-ac6d-a3916f1689a6",
+          "originalWord": "Auf keinen Fall! / Kommt nicht in Frage!",
+          "correctTranslation": "No way!",
+          "alternativeTranslations": [
+            "No go!",
+            "No thing!",
+            "No foot!",
+            "No meter!",
+            ""
+          ]
+        },
+        {
+          "uuid": "e7208716-11eb-45ed-82f8-66e6323dc7b6",
+          "originalWord": "Chance",
+          "correctTranslation": "chance",
+          "alternativeTranslations": [
+            "change",
+            "tchange",
+            "chanc"
+          ]
+        },
+        {
+          "uuid": "81559062-40f2-4cb5-a221-5c99cff74a27",
+          "originalWord": "in Schwierigkeiten sein; Ärger kriegen",
+          "correctTranslation": "(to) be in trouble",
+          "alternativeTranslations": [
+            "(to) do some trouble",
+            "(to) make trouble",
+            "(to) get trouble"
+          ]
+        },
+        {
+          "uuid": "9f57834c-a817-44bb-9e0d-7474ce0173b0",
+          "originalWord": "Held, Heldin",
+          "correctTranslation": "hero",
+          "alternativeTranslations": [
+            "nero",
+            "heress",
+            "heroin"
+          ]
+        },
+        {
+          "uuid": "a1f32111-18fe-4218-9ec1-c6e563b64073",
+          "originalWord": "sich beruhigen",
+          "correctTranslation": "(to) calm down",
+          "alternativeTranslations": [
+            "(to) calm up",
+            "(to) be down",
+            "(to) do down",
+            "(to) be up",
+            "(to) do up"
+          ]
+        },
+        {
+          "uuid": "d7e1fdbf-a304-462d-b19d-faf72b71e8b2",
+          "originalWord": "wütend werden",
+          "correctTranslation": "to get angry",
+          "alternativeTranslations": [
+            "to be angry",
+            "to make angry",
+            "to move angry"
+          ]
+        },
+        {
+          "uuid": "eeb4b663-d5a0-49b6-a6ac-614c8b9dfdad",
+          "originalWord": "wütend, böse (über etwas / auf jmd.)",
+          "correctTranslation": "angry (about sth. / with sb.)",
+          "alternativeTranslations": [
+            "angry (at sth. / at sb.)",
+            "ugty (about sth. / with sb.)"
+          ]
+        },
+        {
+          "uuid": "21bc1cbf-c460-48be-9da0-35daa612e8b4",
+          "originalWord": "nichts",
+          "correctTranslation": "nothing",
+          "alternativeTranslations": [
+            "nobody",
+            "thing",
+            "not",
+            "nowhere"
+          ]
+        },
+        {
+          "uuid": "684de03a-51ba-4d6b-9d77-db55e6202a82",
+          "originalWord": "unglücklich",
+          "correctTranslation": "unhappy",
+          "alternativeTranslations": [
+            "nothappy",
+            "be happy",
+            "mad"
+          ]
+        },
+        {
+          "uuid": "61f45fd3-f734-4a67-bdea-00a2b2245e0c",
+          "originalWord": "ein paar, einige",
+          "correctTranslation": "a few",
+          "alternativeTranslations": [
+            "a new",
+            "some few",
+            "a fee",
+            "a fow"
+          ]
+        },
+        {
+          "uuid": "420ebb3e-267b-4dc6-ba81-8e00d5e3b491",
+          "originalWord": "unfreundlich",
+          "correctTranslation": "unfriendly",
+          "alternativeTranslations": [
+            "unhappy",
+            "unfriend",
+            "unhapp"
+          ]
+        },
+        {
+          "uuid": "cf8a18d0-374f-4ecc-871e-80e7f3eb722f",
+          "originalWord": "freundlich",
+          "correctTranslation": "friendly",
+          "alternativeTranslations": [
+            "happy",
+            "hostile",
+            "freight",
+            "freighty"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "125bcaa5-7f5f-4730-b96b-50b3cd289bea",
+      "name": "English 6 Unit 1/07",
+      "language": "en",
+      "version": 3,
+      "vocabulary": [
+        {
+          "uuid": "1b4124bb-e274-42ab-9be3-5a0f39d79c3e",
+          "originalWord": "jmd. etwas leihen",
+          "correctTranslation": "(to) lend sb. sth.",
+          "alternativeTranslations": [
+            "(to) borrow sb. sth.",
+            "(to) spare sb. sth.",
+            "(to) load sb. sth."
+          ]
+        },
+        {
+          "uuid": "5fe827bf-65ef-4fb0-b316-cbf83629cb3c",
+          "originalWord": "jmd. etwas leihen (simple past)",
+          "correctTranslation": "(to) lend - lent",
+          "alternativeTranslations": [
+            "(to) lend -lond",
+            "(to) lend - let",
+            "(to) lend - lougth",
+            "(to) lend - lend"
+          ]
+        },
+        {
+          "uuid": "987cf1e2-d1ec-46ac-a16f-361b9c684420",
+          "originalWord": "Meinst du wirklich? / Glaubst du das wirklich?",
+          "correctTranslation": "Do you really think so?",
+          "alternativeTranslations": [
+            "So do you really think?",
+            "That you think so?",
+            "You really so yo think?",
+            "That you really think so?"
+          ]
+        },
+        {
+          "uuid": "77300c1d-68c4-439b-ac6d-a3916f1689a6",
+          "originalWord": "Auf keinen Fall! / Kommt nicht in Frage!",
+          "correctTranslation": "No way!",
+          "alternativeTranslations": [
+            "No go!",
+            "No thing!",
+            "No foot!",
+            "No meter!",
+            ""
+          ]
+        },
+        {
+          "uuid": "e7208716-11eb-45ed-82f8-66e6323dc7b6",
+          "originalWord": "Chance",
+          "correctTranslation": "chance",
+          "alternativeTranslations": [
+            "change",
+            "tchange",
+            "chanc"
+          ]
+        },
+        {
+          "uuid": "81559062-40f2-4cb5-a221-5c99cff74a27",
+          "originalWord": "in Schwierigkeiten sein; Ärger kriegen",
+          "correctTranslation": "(to) be in trouble",
+          "alternativeTranslations": [
+            "(to) do some trouble",
+            "(to) make trouble",
+            "(to) get trouble"
+          ]
+        },
+        {
+          "uuid": "9f57834c-a817-44bb-9e0d-7474ce0173b0",
+          "originalWord": "Held, Heldin",
+          "correctTranslation": "hero",
+          "alternativeTranslations": [
+            "nero",
+            "heress",
+            "heroin"
+          ]
+        },
+        {
+          "uuid": "a1f32111-18fe-4218-9ec1-c6e563b64073",
+          "originalWord": "sich beruhigen",
+          "correctTranslation": "(to) calm down",
+          "alternativeTranslations": [
+            "(to) calm up",
+            "(to) be down",
+            "(to) do down",
+            "(to) be up",
+            "(to) do up"
+          ]
+        },
+        {
+          "uuid": "d7e1fdbf-a304-462d-b19d-faf72b71e8b2",
+          "originalWord": "wütend werden",
+          "correctTranslation": "to get angry",
+          "alternativeTranslations": [
+            "to be angry",
+            "to make angry",
+            "to move angry"
+          ]
+        },
+        {
+          "uuid": "eeb4b663-d5a0-49b6-a6ac-614c8b9dfdad",
+          "originalWord": "wütend, böse (über etwas / auf jmd.)",
+          "correctTranslation": "angry (about sth. / with sb.)",
+          "alternativeTranslations": [
+            "angry (at sth. / at sb.)",
+            "ugty (about sth. / with sb.)"
+          ]
+        },
+        {
+          "uuid": "21bc1cbf-c460-48be-9da0-35daa612e8b4",
+          "originalWord": "nichts",
+          "correctTranslation": "nothing",
+          "alternativeTranslations": [
+            "nobody",
+            "thing",
+            "not",
+            "nowhere"
+          ]
+        },
+        {
+          "uuid": "684de03a-51ba-4d6b-9d77-db55e6202a82",
+          "originalWord": "unglücklich",
+          "correctTranslation": "unhappy",
+          "alternativeTranslations": [
+            "nothappy",
+            "be happy",
+            "mad"
+          ]
+        },
+        {
+          "uuid": "61f45fd3-f734-4a67-bdea-00a2b2245e0c",
+          "originalWord": "ein paar, einige",
+          "correctTranslation": "a few",
+          "alternativeTranslations": [
+            "a new",
+            "some few",
+            "a fee",
+            "a fow"
+          ]
+        },
+        {
+          "uuid": "420ebb3e-267b-4dc6-ba81-8e00d5e3b491",
+          "originalWord": "unfreundlich",
+          "correctTranslation": "unfriendly",
+          "alternativeTranslations": [
+            "unhappy",
+            "unfriend",
+            "unhapp"
+          ]
+        },
+        {
+          "uuid": "cf8a18d0-374f-4ecc-871e-80e7f3eb722f",
+          "originalWord": "freundlich",
+          "correctTranslation": "friendly",
+          "alternativeTranslations": [
+            "happy",
+            "hostile",
+            "freight",
+            "freighty"
           ]
         }
       ]
