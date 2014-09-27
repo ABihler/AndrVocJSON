@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 17,
+  "version": 18,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -1052,6 +1052,180 @@
             "En écrit …",
             "En ecrit …",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "c21cc66b-9ed8-4e64-8985-8c5e4c1ba60d",
+      "name": "Französisch 6 unité 02/01a",
+      "language": "fr",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "342e2910-1a44-43eb-9521-87e403948713",
+          "originalWord": "zu Hause",
+          "correctTranslation": "à la maison",
+          "alternativeTranslations": [
+            "en la maison",
+            "á maison",
+            "en maison"
+          ]
+        },
+        {
+          "uuid": "beb1f11b-18ce-46c1-bff0-7517e4802461",
+          "originalWord": "das Haus",
+          "correctTranslation": "la maison",
+          "alternativeTranslations": [
+            "le maison",
+            "la meson",
+            "le meson",
+            "la maisen",
+            "le maisen"
+          ]
+        },
+        {
+          "uuid": "41f87c24-7d2a-4ba2-a142-a080e22ae215",
+          "originalWord": "bei mir (zu Hause)",
+          "correctTranslation": "chez moi",
+          "alternativeTranslations": [
+            "chez tois",
+            "cher moi",
+            "cher tois",
+            "avec moi",
+            "avec tois"
+          ]
+        },
+        {
+          "uuid": "4f3c673a-5e81-4ca1-8b9a-b6956e97f3e4",
+          "originalWord": "bei",
+          "correctTranslation": "chez",
+          "alternativeTranslations": [
+            "avec",
+            "cher",
+            "dans"
+          ]
+        },
+        {
+          "uuid": "13747ac4-ada1-4e54-b576-7158196cb4d1",
+          "originalWord": "ein/eine",
+          "correctTranslation": "un/une",
+          "alternativeTranslations": [
+            "en/ene",
+            "on/one"
+          ]
+        },
+        {
+          "uuid": "4ffee5e5-1a3c-491a-8d8f-a522a57542a8",
+          "originalWord": "der Schrank",
+          "correctTranslation": "l'armoire",
+          "alternativeTranslations": [
+            "l'armere",
+            "l'armare",
+            "l'armeur"
+          ]
+        },
+        {
+          "uuid": "40ef638c-a79b-40a7-bdc6-bdf58d2a6cc9",
+          "originalWord": "unbestimmter Artikel im Plural; wird nicht übersetzt",
+          "correctTranslation": "des",
+          "alternativeTranslations": [
+            "dos",
+            "der",
+            "dans",
+            "las",
+            "les"
+          ]
+        },
+        {
+          "uuid": "aa40b725-a943-4c60-816c-e00d28f2662d",
+          "originalWord": "das Buch",
+          "correctTranslation": "le livre",
+          "alternativeTranslations": [
+            "la livre",
+            "le livrè",
+            "la livrè",
+            "la libre",
+            "la libre"
+          ]
+        },
+        {
+          "uuid": "beabe834-2284-4582-92d8-23702b28e082",
+          "originalWord": "die Lampe",
+          "correctTranslation": "la lampe",
+          "alternativeTranslations": [
+            "le lampe",
+            "la lamp",
+            "le lamp",
+            "la lampeu",
+            "le lampeu"
+          ]
+        },
+        {
+          "uuid": "5c41cf50-3726-46a2-b8c1-516528845e85",
+          "originalWord": "das Regal",
+          "correctTranslation": "l'étagère",
+          "alternativeTranslations": [
+            "l'etagère",
+            "l'étagere"
+          ]
+        },
+        {
+          "uuid": "510bb80b-fc4e-42da-8163-1c3dfa514782",
+          "originalWord": "die Mini-Stereoanlage",
+          "correctTranslation": "la minichaîne",
+          "alternativeTranslations": [
+            "le minichaîne",
+            "la minichain",
+            "le minichain",
+            "la minichaîn",
+            "le minichaîn"
+          ]
+        },
+        {
+          "uuid": "b9d5e24d-0e99-4d8a-8112-cb1f09aa9e9b",
+          "originalWord": "das Bett",
+          "correctTranslation": "le lit",
+          "alternativeTranslations": [
+            "la lit",
+            "le lin",
+            "la lin",
+            "le lie",
+            "la lie"
+          ]
+        },
+        {
+          "uuid": "875762f9-e2aa-4fb5-bef6-692bf7c791ff",
+          "originalWord": "der Stuhl",
+          "correctTranslation": "la chaise",
+          "alternativeTranslations": [
+            "le chaise",
+            "la chairs",
+            "le chairs",
+            "la cheuse",
+            "le cheuse"
+          ]
+        },
+        {
+          "uuid": "d144fd51-9a1e-47d1-a228-e23867612e03",
+          "originalWord": "mein Zimmer / dein Zimmer",
+          "correctTranslation": "ma chambre / ta chambre",
+          "alternativeTranslations": [
+            "me chambre / te chambre",
+            "mois chambre / tois chambre",
+            "mo chambre / tu chambre"
+          ]
+        },
+        {
+          "uuid": "dc940441-79f2-4fcd-afcf-188c27437990",
+          "originalWord": "das Schlafzimmer",
+          "correctTranslation": "la chambre",
+          "alternativeTranslations": [
+            "le chambre",
+            "la chambreu",
+            "la chanbreu",
+            "la cambre",
+            "le cambre"
           ]
         }
       ]
