@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 19,
+  "version": 20,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -1387,6 +1387,106 @@
             "le collecte",
             "la colleque",
             "le colleque"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "b4d623c4-5139-4bfd-8ed0-078d4a45be72",
+      "name": "Französisch 6 unité 02/01c",
+      "language": "fr",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "ea29ce53-1016-4477-b149-35c0e3335d2c",
+          "originalWord": "die Figur",
+          "correctTranslation": "la figurine",
+          "alternativeTranslations": [
+            "le figurine",
+            "la figur",
+            "le figur",
+            "la figure",
+            "le figure"
+          ]
+        },
+        {
+          "uuid": "999dde00-9da3-4f09-a1bd-9fd38d9226bd",
+          "originalWord": "Was gibt es?",
+          "correctTranslation": "Qu'est-ce qu'il y a?",
+          "alternativeTranslations": [
+            "Qu'est-ce qu' y a?",
+            "Qu'est-ce qu'il?",
+            "Qu'ce-est qu'il y a?",
+            "Qu'ce-est qu'il a?"
+          ]
+        },
+        {
+          "uuid": "a58efed2-de5d-4934-8ea8-dce865de0ea7",
+          "originalWord": "Was …?",
+          "correctTranslation": "Qu'est-ce que …?",
+          "alternativeTranslations": [
+            "Qu'ce-est que …?",
+            "Qu'est-ce la …?",
+            "Qu'est-ce le …?",
+            "Qu'ce-est la …?",
+            "Qu'ce-est le …?"
+          ]
+        },
+        {
+          "uuid": "b1f8506f-d618-466f-857a-f1206e0a4b27",
+          "originalWord": "noch",
+          "correctTranslation": "encore",
+          "alternativeTranslations": [
+            "lencor",
+            "enceur",
+            "lenceu",
+            "lenceur"
+          ]
+        },
+        {
+          "uuid": "c772a434-0f1c-4ea6-8deb-89a5b2779261",
+          "originalWord": "die Geographie",
+          "correctTranslation": "la géo",
+          "alternativeTranslations": [
+            "le géo",
+            "la geo",
+            "le geo",
+            "la gèo",
+            "le gèo"
+          ]
+        },
+        {
+          "uuid": "17114944-a91b-4298-a515-18a785fe0849",
+          "originalWord": "die Geographie",
+          "correctTranslation": "la géographie",
+          "alternativeTranslations": [
+            "le géographie",
+            "la geographie",
+            "le geographie"
+          ]
+        },
+        {
+          "uuid": "6661088c-8d57-48ab-a1cd-24ae2b648feb",
+          "originalWord": "der Stein",
+          "correctTranslation": "la pierre",
+          "alternativeTranslations": [
+            "le pierre",
+            "la pierré",
+            "le pierré",
+            "la piedre",
+            "le piedre"
+          ]
+        },
+        {
+          "uuid": "9ef4d976-3b92-4cac-9657-6a9676f8215e",
+          "originalWord": "der Globus",
+          "correctTranslation": "le globe",
+          "alternativeTranslations": [
+            "la globe",
+            "le glob",
+            "la glob",
+            "le gloube",
+            "la gloube"
           ]
         }
       ]
