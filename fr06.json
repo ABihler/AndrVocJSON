@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 15,
+  "version": 17,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -859,6 +859,199 @@
             "troimas",
             "ensenbl",
             "mansemble"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "ac987fa8-c544-4a9d-8299-8294da14cd09",
+      "name": "Französisch 6 unité 01/03c",
+      "language": "fr",
+      "version": 2,
+      "vocabulary": [
+        {
+          "uuid": "a5f92a6a-4209-4838-9e38-8ed053275b4e",
+          "originalWord": "Das ist total cool!",
+          "correctTranslation": "C'est trop cool!",
+          "alternativeTranslations": [
+            "C'est très cool!",
+            "C'est bien cool!",
+            "C'est tran cool!"
+          ]
+        },
+        {
+          "uuid": "a056058b-ba5c-4043-b15a-388a6ef48847",
+          "originalWord": "ihr seid (2. Pers Pl. von être)",
+          "correctTranslation": "vous êtes",
+          "alternativeTranslations": [
+            "vous etes",
+            "vous êtres",
+            "vous etres",
+            "vous êtous",
+            "vous etous"
+          ]
+        },
+        {
+          "uuid": "2a3ac053-e0cd-4a10-909f-cd1e8aac1918",
+          "originalWord": "der Buntstift",
+          "correctTranslation": "le crayon de couleur",
+          "alternativeTranslations": [
+            "la crayon de couleur",
+            "le crayen de couleur",
+            "la crayen de couleur",
+            "le crayon de coleur",
+            "la crayon de coleur"
+          ]
+        },
+        {
+          "uuid": "3f19241e-9c14-41de-9fea-05b4917b4722",
+          "originalWord": "der Bleistift",
+          "correctTranslation": "le crayon",
+          "alternativeTranslations": [
+            "la crayon",
+            "le crayen",
+            "la crayen",
+            "la creyon",
+            "la creyon"
+          ]
+        },
+        {
+          "uuid": "69d54060-969b-42d0-9ec3-f6113e814b76",
+          "originalWord": "der Kugelschreiber",
+          "correctTranslation": "le stylo",
+          "alternativeTranslations": [
+            "la slylo",
+            "le stilo",
+            "la stilo",
+            "le styló",
+            "la styló"
+          ]
+        },
+        {
+          "uuid": "fe413493-1790-408c-846c-d183fa7c310e",
+          "originalWord": "der Tintenkiller",
+          "correctTranslation": "l'effaceur",
+          "alternativeTranslations": [
+            "l'effeceur",
+            "l'effacer",
+            "l'efaceur",
+            "l'efeceur"
+          ]
+        },
+        {
+          "uuid": "ca54ce21-37a4-454e-a2d4-aa11aa84af0b",
+          "originalWord": "das Lineal",
+          "correctTranslation": "la règle",
+          "alternativeTranslations": [
+            "le règle",
+            "la reglè",
+            "le reglè",
+            "la regle",
+            "le regle"
+          ]
+        },
+        {
+          "uuid": "53e10b78-95e6-42a6-95de-ad905b6854f4",
+          "originalWord": "das Heft",
+          "correctTranslation": "le cahier",
+          "alternativeTranslations": [
+            "la cahier",
+            "le caher",
+            "la caher",
+            "le caheur",
+            "la caheur"
+          ]
+        },
+        {
+          "uuid": "4b8e36aa-159b-4bda-a970-ab7703af2410",
+          "originalWord": "das Papier",
+          "correctTranslation": "le papier",
+          "alternativeTranslations": [
+            "la papier",
+            "le paper",
+            "la paper",
+            "la papiler",
+            "la papiler"
+          ]
+        },
+        {
+          "uuid": "9bf4766b-7fcd-46e9-8e4c-59638a9eef57",
+          "originalWord": "der Ordner",
+          "correctTranslation": "le classeur",
+          "alternativeTranslations": [
+            "la classeur",
+            "le claseur",
+            "la claseur",
+            "le classer",
+            "la classer"
+          ]
+        },
+        {
+          "uuid": "9122e4a9-78e4-4ac3-9b15-89a7352aca46",
+          "originalWord": "Wie sagt man …?",
+          "correctTranslation": "Comment est-ce qu'on dit, …?",
+          "alternativeTranslations": [
+            "Comment ce-est qu'on dit, …?",
+            "Comment est-ce dit, …?",
+            "Comment ce-est dit, …?",
+            "Comment est-ce qu'on, …?",
+            "Comment ce-est qu'on, …?"
+          ]
+        },
+        {
+          "uuid": "f0eea81b-06bd-4d48-aff1-01fc936514c6",
+          "originalWord": "auf Französisch / auf Deutsch",
+          "correctTranslation": "en français / en allemand",
+          "alternativeTranslations": [
+            "à français / à allemand",
+            "on français / on allemand",
+            "ou français / ou allemand",
+            "a français / a allemand"
+          ]
+        },
+        {
+          "uuid": "2e99a133-d0be-4ac9-9ad1-9ea45774502b",
+          "originalWord": "Man sagt …",
+          "correctTranslation": "On dit …",
+          "alternativeTranslations": [
+            "On des …",
+            "On dir …",
+            "En dit …",
+            "En des …",
+            "En dir …"
+          ]
+        },
+        {
+          "uuid": "42cc14b1-8c60-44db-b74e-c34e9c1b45ba",
+          "originalWord": "Ich weiß es nicht.",
+          "correctTranslation": "Je ne sais pas.",
+          "alternativeTranslations": [
+            "Je no sais pas.",
+            "Je no sais.",
+            "Je ne sais."
+          ]
+        },
+        {
+          "uuid": "bcdcfd41-8ebd-4fd0-911f-ffc8b47ae518",
+          "originalWord": "Wie screibt man …?",
+          "correctTranslation": "Comment est-ce qu'on écrit …?",
+          "alternativeTranslations": [
+            "Comment ce-est qu'on écrit …?",
+            "Comment est-ce écrit …?",
+            "Comment ce-est qu'on écrit …?",
+            "Comment est-ce qu'on, …?",
+            "Comment ce-est qu'on, …?"
+          ]
+        },
+        {
+          "uuid": "5e153da1-3537-4a74-ab07-f6752948c2b8",
+          "originalWord": "Man schreibt …",
+          "correctTranslation": "On écrit …",
+          "alternativeTranslations": [
+            "On ecrit …",
+            "En écrit …",
+            "En ecrit …",
+            ""
           ]
         }
       ]
