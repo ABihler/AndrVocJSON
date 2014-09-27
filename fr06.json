@@ -2,7 +2,7 @@
   "uuid": "1c3bec31-931f-4a45-b6da-47bcf25533b3",
   "serverName": "Französisch Klasse 6",
   "serverDescription": "Französisch Klasse 6",
-  "version": 18,
+  "version": 19,
   "lessons": [
     {
       "uuid": "6959b4c1-86c2-4ebf-818e-80344d10b6e3",
@@ -1226,6 +1226,167 @@
             "la chanbreu",
             "la cambre",
             "le cambre"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "65befabc-8423-497e-8c4b-660108a57eb9",
+      "name": "Französisch 6 unité 02/01b",
+      "language": "fr",
+      "version": 1,
+      "vocabulary": [
+        {
+          "uuid": "daa47c02-407e-4a54-ab9b-9c2d8880b0d5",
+          "originalWord": "es gibt",
+          "correctTranslation": "il y a",
+          "alternativeTranslations": [
+            "il a",
+            "il y",
+            "il a y"
+          ]
+        },
+        {
+          "uuid": "5b41bc71-4895-41eb-b891-6f0b4469154a",
+          "originalWord": "das Poster",
+          "correctTranslation": "le poster",
+          "alternativeTranslations": [
+            "la poster",
+            "le poste",
+            "la poste",
+            "le posteur",
+            "la posteur"
+          ]
+        },
+        {
+          "uuid": "267e2db3-262f-4979-9690-b7274879a89c",
+          "originalWord": "das Foto/Bild",
+          "correctTranslation": "la photo",
+          "alternativeTranslations": [
+            "",
+            "le photo",
+            "la foto",
+            "le foto",
+            "la photó",
+            "le photó"
+          ]
+        },
+        {
+          "uuid": "3c901295-5fe0-4a7c-a842-3a1269096c7f",
+          "originalWord": "überall",
+          "correctTranslation": "parout",
+          "alternativeTranslations": [
+            "pertout",
+            "partou",
+            "pertou"
+          ]
+        },
+        {
+          "uuid": "bebf7edc-77b1-461a-b28d-fc29e17672c0",
+          "originalWord": "die Musikecke",
+          "correctTranslation": "le coin musique",
+          "alternativeTranslations": [
+            "",
+            "la coin misuque",
+            "le cour musique",
+            "la cour musique"
+          ]
+        },
+        {
+          "uuid": "fef804fa-136c-41f9-ab6a-df82ec84a121",
+          "originalWord": "die Ecke",
+          "correctTranslation": "le coin",
+          "alternativeTranslations": [
+            "le coin",
+            "le cour",
+            "la cour",
+            "le court",
+            "la court"
+          ]
+        },
+        {
+          "uuid": "f6b8983c-e304-492e-903b-ce4546d658aa",
+          "originalWord": "die Musik",
+          "correctTranslation": "la musique",
+          "alternativeTranslations": [
+            "le musique",
+            "la musiqu",
+            "le musiqu",
+            "la musik",
+            "le musik"
+          ]
+        },
+        {
+          "uuid": "2879c040-b3f5-4a3b-985f-e7ca99ca45c7",
+          "originalWord": "die Gitarre",
+          "correctTranslation": "la guitare",
+          "alternativeTranslations": [
+            "le guitare",
+            "la guitar",
+            "le guitar"
+          ]
+        },
+        {
+          "uuid": "99351c4f-2bf4-4d6a-9a12-86f24deecd2f",
+          "originalWord": "die CD",
+          "correctTranslation": "le CD / les CD",
+          "alternativeTranslations": [
+            "la CD / les CD"
+          ]
+        },
+        {
+          "uuid": "67f93a77-6f1e-426b-b16f-8760bd95e6bb",
+          "originalWord": "der Computer",
+          "correctTranslation": "l'ordinateur",
+          "alternativeTranslations": [
+            "l'ordineur",
+            "l'computeur",
+            "l'competeur"
+          ]
+        },
+        {
+          "uuid": "5e4fd90a-ab44-4577-829c-771778756ff0",
+          "originalWord": "die Hängematte",
+          "correctTranslation": "le hamac",
+          "alternativeTranslations": [
+            "la hamac",
+            "le hamaque",
+            "la hamaque",
+            "le hamag",
+            "la hamag"
+          ]
+        },
+        {
+          "uuid": "53d2986e-c8ba-4c2a-b5db-db4020d90a98",
+          "originalWord": "der Tisch",
+          "correctTranslation": "la table",
+          "alternativeTranslations": [
+            "le table",
+            "la tableu",
+            "le tableu",
+            "la tablet",
+            "le tablet",
+            ""
+          ]
+        },
+        {
+          "uuid": "788fa6f7-0ed2-43b3-bd30-d3e531bceafa",
+          "originalWord": "der Comic",
+          "correctTranslation": "la bédé / B.D. / les B.D.",
+          "alternativeTranslations": [
+            "la débé / D.B. / les B.D."
+          ]
+        },
+        {
+          "uuid": "9da3fa9d-551a-4522-c0e0-c74dcbcf457f",
+          "originalWord": "die Sammlung",
+          "correctTranslation": "la collection",
+          "alternativeTranslations": [
+            "le collection",
+            "la collecte",
+            "le collecte",
+            "la colleque",
+            "le colleque"
           ]
         }
       ]
